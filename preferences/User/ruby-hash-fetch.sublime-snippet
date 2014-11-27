@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[fetch(:$1) { $2 }]]></content>
+  <tabTrigger>fetch</tabTrigger>
+  <description>Ruby Hash Fetch</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

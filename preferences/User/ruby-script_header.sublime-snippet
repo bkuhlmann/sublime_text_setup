@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[#!/usr/bin/ruby]]></content>
+  <tabTrigger>ruby</tabTrigger>
+  <description>Ruby Script Header</description>
+  <scope>source.shell, source.ruby</scope>
+</snippet>

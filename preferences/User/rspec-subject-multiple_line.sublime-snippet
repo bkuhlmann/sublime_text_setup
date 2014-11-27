@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+subject do
+  $1
+end
+]]>
+  </content>
+  <tabTrigger>subjectm</tabTrigger>
+  <description>RSpec Subject (multiple line)</description>
+  <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+trait :$1 do
+  ${2}
+end
+]]>
+  </content>
+  <tabTrigger>traitm</tabTrigger>
+  <description>Factory Girl Trait (multiple line)</description>
+  <scope>source.ruby</scope>
+</snippet>

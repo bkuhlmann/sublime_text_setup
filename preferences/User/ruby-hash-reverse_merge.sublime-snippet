@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[merge(${2:right_hash}) { |_, left_value, _| left_value }]]></content>
+  <tabTrigger>hashrm</tabTrigger>
+  <description>Ruby Hash Reverse Merge</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

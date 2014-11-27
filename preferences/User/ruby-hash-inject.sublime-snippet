@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+each.with_object(${2:\{\}}) do |(${3:key}, ${4:value}), ${5:hash}|
+  $6
+end
+]]>
+  </content>
+  <tabTrigger>hashi</tabTrigger>
+  <description>Ruby Hash Inject</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

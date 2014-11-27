@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+while $1; do
+  $2
+done
+]]>
+  </content>
+  <tabTrigger>shellw</tabTrigger>
+  <description>Shell While</description>
+  <scope>source.shell</scope>
+</snippet>

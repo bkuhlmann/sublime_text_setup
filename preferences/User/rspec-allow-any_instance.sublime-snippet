@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[allow_any_instance_of($1).to receive($3)]]></content>
+  <tabTrigger>allowa</tabTrigger>
+  <description>RSpec Allow (stub all)</description>
+  <scope>source.ruby</scope>
+</snippet>

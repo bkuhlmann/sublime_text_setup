@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+<![CDATA[
+case $1 in
+  $2) $3;;
+  *) $4;;
+esac
+]]>
+  </content>
+  <tabTrigger>shellc</tabTrigger>
+  <description>Shell Case</description>
+  <scope>source.shell</scope>
+</snippet>

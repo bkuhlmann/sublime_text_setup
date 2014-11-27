@@ -1,0 +1,21 @@
+<snippet>
+  <content>
+<![CDATA[
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>$1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>$2</td>
+    </tr>
+  </tbody>
+</table>
+]]>
+  </content>
+  <tabTrigger>btable</tabTrigger>
+  <description>Twitter Bootstrap Table</description>
+  <scope>text.html, text.html.ruby</scope>
+</snippet>

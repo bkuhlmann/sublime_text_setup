@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
+-> { $1 }
+]]>
+  </content>
+  <tabTrigger>lambda</tabTrigger>
+  <description>Lambda (without parameters)</description>
+  <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[let($1) { $2 }]]></content>
+  <tabTrigger>let</tabTrigger>
+  <description>RSpec Let (single line)</description>
+  <scope>source.ruby</scope>
+</snippet>

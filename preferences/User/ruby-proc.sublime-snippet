@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Proc.new { |${1}| $2 }]]></content>
+  <tabTrigger>proc</tabTrigger>
+  <description>Ruby Proc</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

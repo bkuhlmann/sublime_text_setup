@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[stub_const "$1", $2]]></content>
+  <tabTrigger>stubc</tabTrigger>
+  <description>RSpec Stub Constant</description>
+  <scope>source.ruby</scope>
+</snippet>

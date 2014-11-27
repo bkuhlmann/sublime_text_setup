@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<!-- ${1:comment} -->]]></content>
+  <tabTrigger>cline</tabTrigger>
+  <description>HTML Comment Line</description>
+  <scope>text.html, text.html.ruby</scope>
+</snippet>

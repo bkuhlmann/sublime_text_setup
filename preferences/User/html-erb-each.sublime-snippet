@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+<% ${1:collection}.each do |${2:item}| %>
+  $3
+<% end %>
+]]>
+  </content>
+  <tabTrigger>erbe</tabTrigger>
+  <description>ERB each do..end</description>
+  <scope>text.html, text.html.ruby</scope>
+</snippet>

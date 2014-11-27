@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[${1:logger}.${2:debug} "${4:DEBUG}: ${5:message}"]]></content>
+  <tabTrigger>log</tabTrigger>
+  <description>Log</description>
+</snippet>

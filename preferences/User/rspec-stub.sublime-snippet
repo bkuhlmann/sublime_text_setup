@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[stub($1)]]></content>
+  <tabTrigger>stub</tabTrigger>
+  <description>RSpec Stub</description>
+  <scope>source.ruby</scope>
+</snippet>

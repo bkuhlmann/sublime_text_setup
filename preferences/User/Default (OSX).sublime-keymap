@@ -1,0 +1,31 @@
+[
+  // Clipboard: Paste and indent by default.
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+
+  // Clipboard: Paste without indenting.
+  { "keys": ["super+shift+v"], "command": "paste" },
+
+  // Clipboard: Copy current file path to clipboard.
+  { "keys": ["super+shift+c"], "command": "copy_path" },
+
+  // Movement: Move to beginning of line.
+  { "keys": ["super+left"], "command": "move_to", "args": {"to": "hardbol", "extend": false}},
+
+  // Movement: Move to end of line.
+  { "keys": ["super+right"], "command": "move_to", "args": {"to": "hardeol", "extend": false}},
+
+  // Movement: Move to beginning of line and select everything in between.
+  { "keys": ["super+shift+left"], "command": "move_to", "args": {"to": "hardbol", "extend": true}},
+
+  // Movement: Move to end of line and select everything in between.
+  { "keys": ["super+shift+right"], "command": "move_to", "args": {"to": "hardeol", "extend": true}},
+
+  // Editing: Reindent selected code.
+  { "keys": ["super+\\"], "command": "reindent" },
+
+  // Extension: Sidbar Enhancements -- Reveal in sidebar.
+  { "keys": ["super+ctrl+r"], "command": "reveal_in_side_bar"},
+
+  // Extension: Change Quotes -- Toggle between single and double quotes.
+  { "keys": ["ctrl+shift+'"], "command": "change_quotes" }
+]

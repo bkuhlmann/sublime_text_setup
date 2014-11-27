@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+before do
+  ${1}
+end
+]]>
+  </content>
+  <tabTrigger>beforem</tabTrigger>
+  <description>RSpec Before (multiple line)</description>
+  <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+map do |${2}|
+  ${3}
+end
+]]>
+  </content>
+  <tabTrigger>mapm</tabTrigger>
+  <description>Ruby Map (multiple line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

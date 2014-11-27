@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+for $1 in $2; do
+  $3
+done
+]]>
+  </content>
+  <tabTrigger>shellf</tabTrigger>
+  <description>Shell For</description>
+  <scope>source.shell</scope>
+</snippet>

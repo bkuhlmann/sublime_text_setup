@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+if [[ $1 ]]; then
+  $2
+fi
+]]>
+  </content>
+  <tabTrigger>shelli</tabTrigger>
+  <description>Shell If</description>
+  <scope>source.shell</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[# FIX: ${1:message}]]></content>
+  <tabTrigger>fix</tabTrigger>
+  <description>Fix Comment</description>
+  <scope>source.shell, source.ruby, source.rails</scope>
+</snippet>

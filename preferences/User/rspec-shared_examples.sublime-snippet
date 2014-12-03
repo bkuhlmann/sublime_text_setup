@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+shared_examples_for "${1}" do ${2}
+  ${3}
+end
+]]>
+  </content>
+  <tabTrigger>sharede</tabTrigger>
+  <description>RSpec Shared Examples</description>
+  <scope>source.ruby</scope>
+</snippet>

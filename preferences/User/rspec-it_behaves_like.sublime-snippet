@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[it_behaves_like "$1"]]></content>
+  <tabTrigger>itb</tabTrigger>
+  <description>RSpec It Behaves Like</description>
+  <scope>source.ruby</scope>
+</snippet>

@@ -6,7 +6,7 @@ it "$1" do
 end
 ]]>
   </content>
-  <tabTrigger>it</tabTrigger>
-  <description>RSpec it</description>
+  <tabTrigger>itm</tabTrigger>
+  <description>RSpec It (multiple line)</description>
   <scope>source.ruby</scope>
 </snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+also "$1" do
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>alsom</tabTrigger>
+  <description>RSpec Also (multiple line)</description>
+  <scope>source.ruby</scope>
+</snippet>

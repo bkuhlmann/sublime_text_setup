@@ -4,7 +4,7 @@
 # Defines general utility functions.
 
 # Install user preferences.
-function install_preferences() {
+install_preferences() {
   printf "\n"
   read -p "Destroy existing user preferences (y/n)?: " response
   if [[ "$response" == 'y' ]]; then
@@ -18,7 +18,7 @@ function install_preferences() {
 export -f install_preferences
 
 # Links user preferences.
-function link_preferences() {
+link_preferences() {
   printf "\n"
   read -p "Destroy existing user preferences (y/n)?: " response
   if [[ "$response" == 'y' ]]; then

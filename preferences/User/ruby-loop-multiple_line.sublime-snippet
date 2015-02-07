@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+loop do
+  ${1}
+end
+]]>
+  </content>
+  <tabTrigger>loopm</tabTrigger>
+  <description>Ruby Loop (multiple line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

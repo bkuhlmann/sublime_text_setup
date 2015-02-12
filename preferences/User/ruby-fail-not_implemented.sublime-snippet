@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[fail NotImplementedError, "The method, #${1:method}, is not implemented yet."]]></content>
+  <tabTrigger>failn</tabTrigger>
+  <description>Ruby Fail - Not Implemented</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

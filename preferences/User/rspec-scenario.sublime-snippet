@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+scenario "$1" $2do
+  ${3}
+end
+]]>
+  </content>
+  <tabTrigger>scenario</tabTrigger>
+  <description>RSpec Scenario</description>
+  <scope>source.ruby</scope>
+</snippet>

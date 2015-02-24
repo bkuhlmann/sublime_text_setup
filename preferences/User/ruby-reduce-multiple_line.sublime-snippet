@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+reduce $1do |${2}|
+  ${3}
+end
+]]>
+  </content>
+  <tabTrigger>reducem</tabTrigger>
+  <description>Ruby Reduce (multiple line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

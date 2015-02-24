@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[expect_any_instance_of($1).to receive($2)]]></content>
-  <tabTrigger>expecta</tabTrigger>
-  <description>RSpec Expect (mock all)</description>
-  <scope>source.ruby</scope>
-</snippet>

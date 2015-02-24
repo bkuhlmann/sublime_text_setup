@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[each { |${2}| ${3} }]]></content>
+  <content><![CDATA[each { |${1}| ${2} }]]></content>
   <tabTrigger>each</tabTrigger>
   <description>Ruby Each (single line)</description>
   <scope>source.ruby, source.rails</scope>

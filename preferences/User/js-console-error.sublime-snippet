@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[console.error($1);]]></content>
+  <tabTrigger>cerror</tabTrigger>
+  <description>JavaScript Console Error</description>
+  <scope>source.js</scope>
+</snippet>

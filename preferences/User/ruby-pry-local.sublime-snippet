@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[binding.pry]]></content>
+  <tabTrigger>pryl</tabTrigger>
+  <description>Ruby Pry (local)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

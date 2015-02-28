@@ -1,0 +1,16 @@
+<snippet>
+  <content>
+<![CDATA[
+switch (${1:expression}) {
+  case ${2:value}:
+    $3
+    break;
+  default:
+    $4
+}
+]]>
+  </content>
+  <tabTrigger>switch</tabTrigger>
+  <description>JavaScript Switch</description>
+  <scope>source.js</scope>
+</snippet>

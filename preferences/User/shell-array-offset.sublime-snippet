@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[\${${1:name}[@]:${2:offset}}]]></content>
+  <tabTrigger>arrayo</tabTrigger>
+  <description>Shell Array (offset)</description>
+  <scope>source.shell</scope>
+</snippet>

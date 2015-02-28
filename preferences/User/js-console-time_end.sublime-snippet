@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[console.timeEnd($1);]]></content>
+  <tabTrigger>ctimee</tabTrigger>
+  <description>JavaScript Console Time End</description>
+  <scope>source.js</scope>
+</snippet>

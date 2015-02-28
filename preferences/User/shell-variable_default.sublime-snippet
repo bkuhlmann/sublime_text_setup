@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[\${${1:name}:-${2:default}}]]></content>
+  <tabTrigger>vard</tabTrigger>
+  <description>Shell Variable Default</description>
+  <scope>source.shell</scope>
+</snippet>

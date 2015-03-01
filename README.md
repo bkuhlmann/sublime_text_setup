@@ -47,12 +47,11 @@ Type the following from the command line to install:
 
     ./run.sh
 
-NOTE: The install assumes this GitHub project will be kept locally since the Sublime Text Users folder will be
-symbolically linked to this project. Should this project be relocated, simply re-run the install to fix the symbolic
-link.
+*NOTE: The install assumes this GitHub project will be kept locally since the Sublime Text Users folder will be
+symbolically linked to this project. Should this project be relocated, re-run the install to fix the symbolic link.*
 
-Alternatively, the install can be skipped and content can be pilfered from the files located in the preferences/User
-folder of this project instead. :)
+Alternatively, the install can be skipped and content can be pilfered from the files located in the `preferences/User`
+folder of this project instead.
 
 # Keyboard Shortcuts
 
@@ -165,12 +164,12 @@ The following is a list of commonly used keyboard shortcuts (including default a
 
 To determine what commands are being fired in order to configure new key bindings, do the following:
 
-0. Type CONTROL+` to open console.
-0. Enter sublime.log_commands(True) within the console to enable command logging.
+0. Type `CONTROL+<backtick>` to open console.
+0. Enter `sublime.log_commands(True)` within the console to enable command logging.
 0. Right click, use menus, etc. to let a log of the actual commands being fired.
 0. Find the command you are looking for in the log and then use that command to build a key binding for.
-0. Enter sublime.log_commands(False) within the condole to disable command logging.
-0. Type CONTROL+` to exit console.
+0. Enter `sublime.log_commands(False)` within the condole to disable command logging.
+0. Type `CONTROL+<backtick>` to exit console.
 
 # Resources
 
@@ -194,7 +193,7 @@ Read [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 # Credits
 
-Developed by [Brooke Kuhlmann](https://www.alchemists.io) at [Alchemists](https://www.alchemists.io)
+Developed by [Brooke Kuhlmann](https://www.alchemists.io) at [Alchemists](https://www.alchemists.io).
 
 # License
 

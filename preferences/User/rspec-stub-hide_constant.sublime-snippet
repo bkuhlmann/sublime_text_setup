@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[hide_const $1]]></content>
-  <tabTrigger>stubh</tabTrigger>
-  <description>RSpec Stub Constant (Hide)</description>
-  <scope>source.ruby</scope>
-</snippet>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[/* ----- ${1:comment} ----- */]]></content>
-  <tabTrigger>cline</tabTrigger>
-  <description>CSS Comment Line</description>
+  <tabTrigger>comment</tabTrigger>
+  <description>CSS Comment</description>
   <scope>source.css</scope>
 </snippet>

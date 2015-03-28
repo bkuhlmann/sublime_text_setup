@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+get $1() {
+  return $2;
+}
+]]>
+  </content>
+  <tabTrigger>getter</tabTrigger>
+  <description>JavaScript Setter</description>
+  <scope>source.js</scope>
+</snippet>

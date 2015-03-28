@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+set $1(${2:value}) {
+  $3
+}
+]]>
+  </content>
+  <tabTrigger>setter</tabTrigger>
+  <description>JavaScript Setter</description>
+  <scope>source.js</scope>
+</snippet>

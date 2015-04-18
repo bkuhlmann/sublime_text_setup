@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[object_spy $1]]></content>
+  <tabTrigger>ospy</tabTrigger>
+  <description>RSpec Object Spy</description>
+  <scope>source.ruby</scope>
+</snippet>

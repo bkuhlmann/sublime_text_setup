@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[class_spy $1]]></content>
+  <tabTrigger>cspy</tabTrigger>
+  <description>RSpec Class Spy</description>
+  <scope>source.ruby</scope>
+</snippet>

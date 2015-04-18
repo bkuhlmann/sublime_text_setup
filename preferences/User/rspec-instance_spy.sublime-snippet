@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[instance_spy $1]]></content>
+  <tabTrigger>ispy</tabTrigger>
+  <description>RSpec Instance Spy</description>
+  <scope>source.ruby</scope>
+</snippet>

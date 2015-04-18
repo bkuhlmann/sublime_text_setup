@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[class_double $1]]></content>
+  <tabTrigger>cdouble</tabTrigger>
+  <description>RSpec Class Double</description>
+  <scope>source.ruby</scope>
+</snippet>

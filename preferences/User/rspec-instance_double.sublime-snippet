@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[instance_double $1]]></content>
+  <tabTrigger>idouble</tabTrigger>
+  <description>RSpec Instance Double</description>
+  <scope>source.ruby</scope>
+</snippet>

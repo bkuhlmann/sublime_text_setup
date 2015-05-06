@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[as_null_object]]></content>
-  <tabTrigger>ano</tabTrigger>
-  <description>RSpec As Null Object</description>
-  <scope>source.ruby</scope>
-</snippet>

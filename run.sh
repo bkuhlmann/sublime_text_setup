@@ -14,8 +14,8 @@ IFS=$'\n\t' # Defines how Bash splits words and iterates arrays. This defines ne
 SUBLIME_TEXT_ROOT="$HOME/Library/Application Support/Sublime Text 3"
 
 # FUNCTIONS
-source scripts/utilities.sh
-source scripts/options.sh
+source lib/utilities.sh
+source lib/options.sh
 
 # EXECUTION
 while true; do

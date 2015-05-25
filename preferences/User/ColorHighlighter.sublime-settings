@@ -1,0 +1,16 @@
+{
+  "ha_style": "solid",
+  "icons": false,
+  "file_exts": [
+    ".css",
+    ".sass",
+    ".scss",
+    ".html",
+    ".js",
+    ".sublime-settings",
+    ".tmTheme",
+    ".erb",
+    ".slim",
+    ".haml"
+  ]
+}

@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+require "spec_helper"
+
+describe $1 do
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>rts</tabTrigger>
+  <description>RSpec Template (Spec Helper)</description>
+  <scope>source.ruby</scope>
+</snippet>

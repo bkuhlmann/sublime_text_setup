@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+require "rails_helper"
+
+describe $1 do
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>rtr</tabTrigger>
+  <description>RSpec Template (Rails Helper)</description>
+  <scope>source.ruby</scope>
+</snippet>

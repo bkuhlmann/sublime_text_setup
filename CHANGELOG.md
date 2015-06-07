@@ -1,3 +1,27 @@
+# v3.0.0 (2015-06-07)
+
+- Removed bang support from single and multi-line let snippets.
+- Removed the `ano` alias (use `ispy` instead).
+- Fixed ERB snippet descriptions.
+- Fixed hanging script with invalid option.
+- Updated Jasmine snippets to use a space in function definitions.
+- Updated preferences with Sublime Text 3 adjustments
+- Updated to Sublime Text 3.
+- Added Color Highlighter and Sublime Linter to .gitignore.
+- Added Color Highlighter extension preferences.
+- Added Jasmine before snippet.
+- Added Jasmine describe and it snippets.
+- Added Jasmine expect snippet.
+- Added Jasmine spec template snippet.
+- Added JavaScript getter and setter snippets.
+- Added RSpec snippets for object, instance, and class doubles.
+- Added RSpec snippets for object, instance, and class spies.
+- Added Rails scope snippet.
+- Added RuboCop preferences.
+- Added code of conduct documentation.
+- Added file indexing debugging tips for the console to the README.
+- Added snippets for RSpec spec and rails helper templates.
+
 # v2.0.0 (2015-03-01)
 
 - Removed RSpec stub snippet.

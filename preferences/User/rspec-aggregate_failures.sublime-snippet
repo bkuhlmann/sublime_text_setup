@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[:aggregate_failures]]></content>
+  <tabTrigger>ag</tabTrigger>
+  <description>RSpec Aggregate Failures</description>
+  <scope>source.ruby</scope>
+</snippet>

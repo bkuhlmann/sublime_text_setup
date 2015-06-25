@@ -1,8 +1,8 @@
 <snippet>
   <content>
 <![CDATA[
-reduce $1do |${2}|
-  ${3}
+reduce $1do |$2|
+  $3
 end
 ]]>
   </content>

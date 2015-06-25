@@ -2,7 +2,7 @@
   <content>
 <![CDATA[
 feature "$1"$2 do
-  ${3}
+  $3
 end
 ]]>
   </content>

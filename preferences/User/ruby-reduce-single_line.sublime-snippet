@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[reduce$1 { |${2}| ${3} }]]></content>
+  <content><![CDATA[reduce$1 { |$2| $3 }]]></content>
   <tabTrigger>reduce</tabTrigger>
   <description>Ruby Reduce (single line)</description>
   <scope>source.ruby, source.rails</scope>

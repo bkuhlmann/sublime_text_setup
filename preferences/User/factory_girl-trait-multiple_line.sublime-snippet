@@ -2,7 +2,7 @@
   <content>
 <![CDATA[
 trait :$1 do
-  ${2}
+  $2
 end
 ]]>
   </content>

@@ -2,7 +2,7 @@
   <content>
 <![CDATA[
 loop do
-  ${1}
+  $1
 end
 ]]>
   </content>

@@ -5,6 +5,25 @@
 Shell scripts for applying custom settings, key bindings, extension preferences, code snippets, etc. When combined
 with [Dropbox](https://www.dropbox.com) these settings can be used across multiple machines.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+# Table of Contents
+
+- [Features](#features)
+- [Requirements](#requirements)
+- [Setup](#setup)
+- [Usage](#usage)
+    - [Keyboard Shortcuts](#keyboard-shortcuts)
+    - [Debugging](#debugging)
+- [Versioning](#versioning)
+- [Code of Conduct](#code-of-conduct)
+- [Contributions](#contributions)
+- [License](#license)
+- [History](#history)
+- [Credits](#credits)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Features
 
 - Applies preferences not enabled by default (see the Preferences.sublime-settings file).
@@ -53,7 +72,7 @@ symbolically linked to this project. Should this project be relocated, re-run th
 Alternatively, the install can be skipped and content can be pilfered from the files located in the `preferences/User`
 folder of this project instead.
 
-# Keyboard Shortcuts
+## Keyboard Shortcuts
 
 All keyboard shortcut settings are defined here:
 
@@ -160,7 +179,7 @@ The following is a list of commonly used keyboard shortcuts (including default a
     - `OPTION+↑` = Adjust CSS value up one decimal number.
     - `OPTION+↓` = Adjust CSS value down one decimal number.
 
-# Debugging
+## Debugging
 
 To open and close the console:
 
@@ -180,14 +199,6 @@ To see what files are being indexed:
 0. Enter `sublime.log_indexing(True)` to enable.
 0. Watch the log for file activity.
 0. Enter `sublime.log_indexing(False)` to disable.
-
-# Resources
-
-- [Sublime Productivity](https://leanpub.com/sublime-productivity) by Josh Earl
-- [Perfect Workflow in Sublime Text](http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course)
-- [Color Sublime](http://colorsublime.com) - A collection of custom themes
-- [Bryan Helmkamp's User Settings](https://github.com/brynary/sublime-text-2-user-settings)
-- [Neil Sarkar's User Settings](https://github.com/neilsarkar/sublime_user_directory)
 
 # Versioning
 

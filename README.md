@@ -1,7 +1,5 @@
 # # Sublime Text Setup
 
-[![Gittip](http://img.shields.io/gittip/bkuhlmann.svg)](https://www.gittip.com/bkuhlmann)
-
 Shell scripts for applying custom settings, key bindings, extension preferences, code snippets, etc. When combined
 with [Dropbox](https://www.dropbox.com) these settings can be used across multiple machines.
 

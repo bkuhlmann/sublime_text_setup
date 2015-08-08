@@ -1,0 +1,16 @@
+<snippet>
+  <content>
+<![CDATA[
+Benchmark.ips do |bm|
+  bm.config time: 5, warmup: 2
+
+  $1
+
+  bm.compare!
+end
+]]>
+  </content>
+  <tabTrigger>bmi</tabTrigger>
+  <description>Benchmark IPS</description>
+  <scope>source.ruby</scope>
+</snippet>

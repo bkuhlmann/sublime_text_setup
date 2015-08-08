@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+report $1 do
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>reportm</tabTrigger>
+  <description>Benchmark IPS (multiple line)</description>
+  <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+module ${1:ModuleName}
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>module</tabTrigger>
+  <description>Ruby Module</description>
+  <scope>source.ruby</scope>
+</snippet>

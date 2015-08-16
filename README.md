@@ -223,6 +223,7 @@ Read the [LICENSE](LICENSE.md) for details.
 # History
 
 Read the [CHANGELOG](CHANGELOG.md) for details.
+Built with [Bashsmith](https://github.com/bkuhlmann/bashsmith).
 
 # Credits
 

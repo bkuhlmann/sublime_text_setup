@@ -11,8 +11,8 @@ with [Dropbox](https://www.dropbox.com) these settings can be used across multip
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Usage](#usage)
-    - [Keyboard Shortcuts](#keyboard-shortcuts)
-    - [Debugging](#debugging)
+  - [Keyboard Shortcuts](#keyboard-shortcuts)
+  - [Debugging](#debugging)
 - [Versioning](#versioning)
 - [Code of Conduct](#code-of-conduct)
 - [Contributions](#contributions)
@@ -42,7 +42,7 @@ Current Version (stable)
 
     git clone git://github.com/bkuhlmann/sublime_text_setup.git
     cd sublime_text_setup
-    git checkout v3.0.0
+    git checkout v3.1.0
 
 Master Version (unstable)
 

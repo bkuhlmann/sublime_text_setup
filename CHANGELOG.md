@@ -1,3 +1,16 @@
+# v3.1.0 (2015-10-14)
+
+- Added Benchmark IPS snippets.
+- Added Climate Control snippet.
+- Added Jasmine `after` snippet for after each block support.
+- Added JavaScript function snippet.
+- Added RSpec `ag` snippet for :aggregate_failures
+- Added RSpec post-description tab stops for multi-line snippets.
+- Added Ruby `bb` snippet for `byebug`.
+- Added `class` snippet for creating Ruby class definitions.
+- Added `module` snippet for creating Ruby module definitions.
+- Removed unnecessary brackets used in snippet tab stops.
+
 # v3.0.0 (2015-06-07)
 
 - Removed bang support from single and multi-line let snippets.

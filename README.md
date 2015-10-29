@@ -1,5 +1,7 @@
 # # Sublime Text Setup
 
+[![Patreon](https://img.shields.io/badge/patreon-donate-brightgreen.svg)](https://www.patreon.com/bkuhlmann)
+
 Shell scripts for applying custom settings, key bindings, extension preferences, code snippets, etc. When combined
 with [Dropbox](https://www.dropbox.com) these settings can be used across multiple machines.
 

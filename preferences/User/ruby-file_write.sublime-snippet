@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[File.open(${1:path}, 'w') { |file| file.write ${2:data} }]]></content>
+  <content><![CDATA[File.open(${1:path}, "w") { |file| file.write ${2:data} }]]></content>
   <tabTrigger>filew</tabTrigger>
   <description>File Write</description>
   <scope>source.ruby, source.rails</scope>

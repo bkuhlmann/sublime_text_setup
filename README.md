@@ -5,8 +5,8 @@
 Shell scripts for applying custom settings, key bindings, extension preferences, code snippets, etc. When combined
 with [Dropbox](https://www.dropbox.com) these settings can be used across multiple machines.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- Tocer[start]: Auto-generated, don't remove. -->
+
 # Table of Contents
 
 - [Features](#features)
@@ -22,7 +22,7 @@ with [Dropbox](https://www.dropbox.com) these settings can be used across multip
 - [History](#history)
 - [Credits](#credits)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- Tocer[finish]: Auto-generated, don't remove. -->
 
 # Features
 

@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+/
+  $1
+/x
+]]>
+  </content>
+  <tabTrigger>regexm</tabTrigger>
+  <description>Ruby Regex (multiple line)</description>
+  <scope>source.ruby</scope>
+</snippet>

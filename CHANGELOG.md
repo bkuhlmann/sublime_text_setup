@@ -1,3 +1,16 @@
+# v3.2.0 (2015-12-02)
+
+- Fixed Ruby file reading and writing snippets.
+- Added Patreon badge to README.
+- Added Ruby fetch (multiple line) snippet.
+- Added Ruby initialize snippet.
+- Added `dc` snippet for creating a RSpec `described_class`.
+- Added `ia` snippet for Ruby instance assignment.
+- Added `regexm` Ruby Regex (multiple line) snippet.
+- Updated to Code of Conduct 1.3.0.
+- Updated README with Tocer generated Table of Contents.
+- Updated Ruby hash snippet to support Array and Hash syntax.
+
 # v3.1.0 (2015-10-14)
 
 - Added Benchmark IPS snippets.

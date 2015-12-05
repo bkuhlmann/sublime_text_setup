@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+refine $1 do
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>refine</tabTrigger>
+  <description>Ruby Refine</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

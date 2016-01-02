@@ -3,7 +3,7 @@
 <![CDATA[
 require "spec_helper"
 
-describe $1 do
+RSpec.describe $1 do
   $2
 end
 ]]>

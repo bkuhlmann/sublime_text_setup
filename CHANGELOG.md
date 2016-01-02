@@ -1,3 +1,11 @@
+# v3.3.0 (2016-01-02)
+
+- Fixed spacing for Bash and Ruby pragma comments.
+- Added ApplySyntax settings for HTML (Rails) and JSON.
+- Added RSpec namespace to RSpec template snippets.
+- Added `fsl` snippet for Ruby frozen string literal comment.
+- Added snippet for creating Ruby refinements.
+
 # v3.2.0 (2015-12-02)
 
 - Fixed Ruby file reading and writing snippets.

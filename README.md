@@ -1,4 +1,4 @@
-# # Sublime Text Setup
+# Sublime Text Setup
 
 [![Patreon](https://img.shields.io/badge/patreon-donate-brightgreen.svg)](https://www.patreon.com/bkuhlmann)
 
@@ -44,7 +44,7 @@ Current Version (stable)
 
     git clone git://github.com/bkuhlmann/sublime_text_setup.git
     cd sublime_text_setup
-    git checkout v3.2.0
+    git checkout v3.3.0
 
 Master Version (unstable)
 

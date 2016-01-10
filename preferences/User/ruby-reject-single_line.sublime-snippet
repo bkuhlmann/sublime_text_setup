@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[reject { |$1| $2 }]]></content>
+  <tabTrigger>reject</tabTrigger>
+  <description>Ruby Reject (single line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

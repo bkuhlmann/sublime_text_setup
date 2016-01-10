@@ -1,6 +1,5 @@
 {
   "check_for_rvm": false,
   "check_for_rbenv": true,
-  "rbenv_path":  "/usr/local/bin/rbenv",
-  "rubocop_config_file": ""
+  "rbenv_path": "/usr/local/bin/rbenv"
 }

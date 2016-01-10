@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[detect { |$1| $2 }]]></content>
+  <tabTrigger>detect</tabTrigger>
+  <description>Ruby Detect (single line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

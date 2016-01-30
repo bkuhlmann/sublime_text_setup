@@ -1,0 +1,15 @@
+<snippet>
+  <content>
+<![CDATA[
+# Label:
+# Description:
+# Parameters:
+$1() {
+  $2
+}
+]]>
+  </content>
+  <tabTrigger>function</tabTrigger>
+  <description>Shell Function</description>
+  <scope>source.shell</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[(\\$1 -> $2)]]></content>
+  <tabTrigger>afn</tabTrigger>
+  <description>Anonymous Function</description>
+  <scope>source.elm</scope>
+</snippet>

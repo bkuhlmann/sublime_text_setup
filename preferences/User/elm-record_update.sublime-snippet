@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{${1:record} | ${2:key} = ${3:value}}]]></content>
+  <tabTrigger>recu</tabTrigger>
+  <description>Record Update</description>
+  <scope>source.elm</scope>
+</snippet>

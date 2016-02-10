@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+{-
+$1
+-}
+]]>
+  </content>
+  <tabTrigger>comment</tabTrigger>
+  <description>Comment (multiple lines)</description>
+  <scope>source.elm</scope>
+</snippet>

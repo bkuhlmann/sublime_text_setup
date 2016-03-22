@@ -1,3 +1,22 @@
+# v4.0.0 (2016-03-21)
+
+- Fixed contributing guideline links.
+- Added Elm snippets.
+- Added GitHub issue and pull request templates.
+- Added RSpec "around" snippet.
+- Added Rubocop disable snippet.
+- Added Ruby `#detect` snippets (single and multiple line).
+- Added Ruby `#reject` snippets (single and multiple line).
+- Added Ruby `#select` snippets (single and multiple line).
+- Added Ruby snippets for `#tap` method (single and multiple line).
+- Added Shell `function` snippet.
+- Updated Ruby lamdba snippet to use `lam` macro.
+- Updated Ruby reduce macros so that object and items are defined.
+- Updated to Code of Conduct, Version 1.4.0.
+- Removed Rubocop config path from settings.
+- Removed Ruby `bb` snippet for `byebug`.
+- Removed Ruby `hashrm` snippet (i.e Hash Reverse Merge).
+
 # v3.3.0 (2016-01-02)
 
 - Fixed spacing for Bash and Ruby pragma comments.

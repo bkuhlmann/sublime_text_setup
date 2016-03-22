@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+around do |example|
+  $1
+  example.run
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>around</tabTrigger>
+  <description>RSpec Around</description>
+  <scope>source.ruby</scope>
+</snippet>

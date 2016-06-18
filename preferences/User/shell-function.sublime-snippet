@@ -3,7 +3,7 @@
 <![CDATA[
 # Label:
 # Description:
-# Parameters:
+# Parameters: \$1 (required|optional) - <description>.
 $1() {
   $2
 }

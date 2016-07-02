@@ -1,8 +1,8 @@
 <snippet>
   <content>
 <![CDATA[
-before do
-  $1
+before $1do
+  $2
 end
 ]]>
   </content>

@@ -1,10 +1,10 @@
 <snippet>
   <content>
 <![CDATA[
-around do |example|
-  $1
-  example.run
+around $1do |example|
   $2
+  example.run
+  $3
 end
 ]]>
   </content>

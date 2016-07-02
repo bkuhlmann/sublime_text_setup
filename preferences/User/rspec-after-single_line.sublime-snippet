@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[after { $1 }]]></content>
+  <content><![CDATA[after$1 { $2 }]]></content>
   <tabTrigger>after</tabTrigger>
   <description>RSpec After (single line)</description>
   <scope>source.ruby</scope>

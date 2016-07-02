@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+$1shared_context "$2"$3 do
+  $4
+end
+]]>
+  </content>
+  <tabTrigger>sharedc</tabTrigger>
+  <description>RSpec Shared Context</description>
+  <scope>source.ruby</scope>
+</snippet>

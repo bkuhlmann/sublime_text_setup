@@ -1,8 +1,8 @@
 <snippet>
   <content>
 <![CDATA[
-shared_examples_for "$1"$2 do $3
-  $4
+$1shared_examples_for "$2"$3 do $4
+  $5
 end
 ]]>
   </content>

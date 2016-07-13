@@ -27,5 +27,8 @@
   { "keys": ["super+ctrl+r"], "command": "reveal_in_side_bar"},
 
   // Extension: Change Quotes -- Toggle between single and double quotes.
-  { "keys": ["ctrl+shift+'"], "command": "change_quotes" }
+  { "keys": ["ctrl+shift+'"], "command": "change_quotes" },
+
+  // Extension: Wrap+ -- Git Commit word wrap.
+  { "keys": ["super+alt+q", "1"], "command": "wrap_lines_plus", "args": {"width": 71} }
 ]

@@ -1,12 +1,18 @@
 <snippet>
   <content>
 <![CDATA[
-Benchmark.ips do |bm|
-  bm.config time: 5, warmup: 2
+Benchmark.ips do |benchmark|
+  benchmark.config time: ${1:5}, warmup: ${2:2}
 
-  $1
+  benchmark.report "${3:Old}" do
+    $4
+  end
 
-  bm.compare!
+  benchmark.report "${5:New}" do
+    $6
+  end
+  $7
+  benchmark.compare!
 end
 ]]>
   </content>

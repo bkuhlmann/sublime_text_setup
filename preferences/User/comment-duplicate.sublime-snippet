@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[# DUPLICATE: ${1:message}]]></content>
+  <tabTrigger>dup</tabTrigger>
+  <description>Duplicate Comment</description>
+  <scope>source.shell, source.ruby, source.rails</scope>
+</snippet>

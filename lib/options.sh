@@ -9,16 +9,12 @@
 process_option() {
   case $1 in
     'i')
-      install_preferences
-      break;;
+      install_preferences;;
     'l')
-      link_preferences
-      break;;
-    'q')
-      break;;
+      link_preferences;;
+    'q');;
     *)
-      printf "ERROR: Invalid option.\n"
-      break;;
+      printf "ERROR: Invalid option.\n";;
   esac
 }
 export -f process_option

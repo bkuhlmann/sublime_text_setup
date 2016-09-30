@@ -1,3 +1,18 @@
+# v4.1.0 (2016-09-30)
+
+- Fixed RSpec "after" snippet cursor placement.
+- Fixed RSpec "around" snippet cursor placement.
+- Fixed RSpec "before" snippet cursor placement.
+- Fixed shell function snippet so parameter template is included.
+- Added RSpec shared context snippet.
+- Added duplicate comment snippet.
+- Added optional prefix for RSpec shared examples snippet.
+- Added word wrap key binding support for Git comments.
+- Updated GitHub issue and pull request templates.
+- Updated `bmi` snippet format.
+- Updated `failn` snippet format.
+- Updated user preferences for column ruler to use 100th column.
+
 # v4.0.0 (2016-03-21)
 
 - Fixed contributing guideline links.

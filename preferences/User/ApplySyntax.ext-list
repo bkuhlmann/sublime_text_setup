@@ -9,7 +9,8 @@
 		".csslintrc",
 		".eslintrc",
 		".jscsrc",
-		".jshintrc"
+		".jshintrc",
+		"geojson"
 	],
 	"PHP":
 	[
@@ -51,6 +52,7 @@
 	"YAML":
 	[
 		".gemrc",
+		"YAML-tmLanguage",
 		"yml",
 		"yml.dist"
 	]

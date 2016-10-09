@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[#! /bin/bash]]></content>
+  <content><![CDATA[#! /usr/bin/env bash]]></content>
   <tabTrigger>bashh</tabTrigger>
   <description>Bash Script Header</description>
   <scope>source.shell</scope>

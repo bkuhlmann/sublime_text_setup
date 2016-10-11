@@ -30,7 +30,7 @@ machines.
 - Applies preferences not enabled by default (see the Preferences.sublime-settings file).
 - Applies key bindings not enabled by default (see the Default (OSX).sublime-keymap file).
 - Applies extension preferences not enabled by default (see the
-  [macOS](https://github.com/bkuhlmann/osx) project for details.)
+  [macOS](https://github.com/bkuhlmann/mac_os) project for details.)
 - Provides tab-completion code snippets for HTML, CSS, Ruby, Rails, RSpec, etc.
 
 # Requirements
@@ -45,7 +45,7 @@ Current Version (stable)
 
     git clone https://github.com/bkuhlmann/sublime_text_setup.git
     cd sublime_text_setup
-    git checkout v4.1.0
+    git checkout v5.0.0
 
 Master Version (unstable)
 
@@ -56,8 +56,8 @@ Modify all files in the preferences/User folder as you see fit.
 
 For additional setup/support, the following projects might be of interest as well:
 
-- [OSX](https://github.com/bkuhlmann/osx) - Shell scripts for automated OSX machine setup (includes
-  installation of Sublime Text Extensions).
+- [macOS](https://github.com/bkuhlmann/mac_os) - Shell scripts for automated OSX machine setup
+  (includes installation of Sublime Text Extensions).
 - [Sublime Text Kit](https://github.com/bkuhlmann/sublime_text_setup_kit) - Command line utilities
   (Ruby Gem) for managing Sublime Text.
 
@@ -65,7 +65,7 @@ For additional setup/support, the following projects might be of interest as wel
 
 Type the following from the command line to install:
 
-    ./run.sh
+    bin/run
 
 *NOTE: The install assumes this GitHub project will be kept locally since the Sublime Text Users
 folder will be symbolically linked to this project. Should this project be relocated, re-run the
@@ -176,7 +176,7 @@ bindings/remappings):
     - `FN+F6` = Spell check.
     - `CONTROL+~` = Open command line.
     - `COMMAND+CONTROL+x` = Runs auto-CSS prefixer.
-- Extensions (see the [OSX](https://github.com/bkuhlmann/osx) project for an extensions list)
+- Extensions (see the [macOS](https://github.com/bkuhlmann/mac_os) project for an extensions list)
     - `COMMAND+CONTROL+r` = Reveal current file in sidebar.
     - `CONTROL+SHIFT+'` = Toggle between single and double quotes.
     - `CONTROL+↑` = Adjust CSS value up one whole number.
@@ -235,4 +235,5 @@ Built with [Bashsmith](https://github.com/bkuhlmann/bashsmith).
 
 # Credits
 
-Developed by [Brooke Kuhlmann](https://www.alchemists.io) at [Alchemists](https://www.alchemists.io).
+Developed by [Brooke Kuhlmann](https://www.alchemists.io) at
+[Alchemists](https://www.alchemists.io).

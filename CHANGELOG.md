@@ -1,3 +1,10 @@
+# v5.0.0 (2016-10-11)
+
+- Fixed Bash header snippet to dynamically use correct Bash version.
+- Fixed Bash script header to dynamically load correct environment.
+- Updated default extension preferences.
+- Removed `run.sh` (use `bin/run` instead).
+
 # v4.1.0 (2016-09-30)
 
 - Fixed RSpec "after" snippet cursor placement.

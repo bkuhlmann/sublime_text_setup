@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+set -o nounset
+set -o errexit
+set -o pipefail
+IFS=\$'\n\t'
+
+]]>
+  </content>
+  <tabTrigger>bashs</tabTrigger>
+  <description>Bash Script Settings</description>
+  <scope>source.shell</scope>
+</snippet>

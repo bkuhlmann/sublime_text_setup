@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+lambda$1 do
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>ldm</tabTrigger>
+  <description>Lambda (multiple line)</description>
+  <scope>source.ruby</scope>
+</snippet>

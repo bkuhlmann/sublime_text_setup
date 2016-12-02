@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+find do |$1|
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>findm</tabTrigger>
+  <description>Ruby Find (multiple line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

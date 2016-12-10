@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+case ${1:message} of
+  $2
+]]>
+  </content>
+  <tabTrigger>case</tabTrigger>
+  <description>Case</description>
+  <scope>source.elm</scope>
+</snippet>
+

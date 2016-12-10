@@ -7,6 +7,6 @@ $1
 ]]>
   </content>
   <tabTrigger>comment</tabTrigger>
-  <description>Comment (multiple lines)</description>
+  <description>Elm Comment (multiple lines)</description>
   <scope>source.elm</scope>
 </snippet>

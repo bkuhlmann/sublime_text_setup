@@ -6,7 +6,7 @@ case ${1:message} of
 ]]>
   </content>
   <tabTrigger>case</tabTrigger>
-  <description>Case</description>
+  <description>Elm Case</description>
   <scope>source.elm</scope>
 </snippet>
 

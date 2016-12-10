@@ -1,0 +1,52 @@
+<snippet>
+  <content>
+<![CDATA[
+module ${1:Application} exposing (${2:..})
+
+import Html exposing (Html, text)
+
+-- MODEL
+
+type alias ${3:Model} =
+  {
+  }
+
+init : ${3:Model}
+init =
+  {
+  }
+
+-- VIEW
+
+view : ${3:Model} -> Html Message
+view ${3/(.*)/\L\1\E/i} =
+  text ""
+
+-- MESSAGES
+
+type Message
+  = None
+
+-- UPDATE
+
+update : Message -> ${3:Model} -> (${3:Model}, Cmd Message)
+update message ${3/(.*)/\L\1\E/i} =
+  (${3/(.*)/\L\1\E/i}, Cmd.none)
+
+-- MAIN
+
+main : Program Never ${3:Model} Message
+main =
+  Html.program
+    {
+      init = (init, Cmd.none),
+      view = view,
+      update = update,
+      subscriptions = (\_ -> Sub.none)
+    }
+]]>
+  </content>
+  <tabTrigger>tthp</tabTrigger>
+  <description>Elm Template (HTML Program)</description>
+  <scope>source.elm</scope>
+</snippet>

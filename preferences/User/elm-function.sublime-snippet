@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+$1 : $2
+$1$3 =
+  $4
+]]>
+  </content>
+  <tabTrigger>fnn</tabTrigger>
+  <description>Elm Function</description>
+  <scope>source.elm</scope>
+</snippet>

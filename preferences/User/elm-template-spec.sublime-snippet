@@ -1,0 +1,25 @@
+<snippet>
+  <content>
+<![CDATA[
+module $1Spec exposing (..)
+
+import Test exposing (..)
+import Expect exposing (..)
+import ElmTestBDDStyle exposing (..)
+import $1 exposing (..)
+
+all : Test
+all =
+  describe "$1" [
+    $2
+  ]
+]]>
+  </content>
+  <tabTrigger>tts</tabTrigger>
+  <description>Elm Template (spec)</description>
+  <scope>source.elm</scope>
+</snippet>
+
+
+
+

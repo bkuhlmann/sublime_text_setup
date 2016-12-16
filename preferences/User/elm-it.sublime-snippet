@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+it "$1" <|
+  $2
+]]>
+  </content>
+  <tabTrigger>it</tabTrigger>
+  <description>Elm It</description>
+  <scope>source.elm</scope>
+</snippet>

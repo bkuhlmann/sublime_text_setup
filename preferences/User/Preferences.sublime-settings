@@ -11,6 +11,12 @@
 		".tags",
 		".tags_sorted_by_file"
 	],
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		"elm-stuff",
+		"coverage"
+	],
 	"font_size": 15,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,

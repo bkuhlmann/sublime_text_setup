@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+describe "$1" [
+  $2
+]
+]]>
+  </content>
+  <tabTrigger>describe</tabTrigger>
+  <description>Elm Describe</description>
+  <scope>source.elm</scope>
+</snippet>

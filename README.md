@@ -45,7 +45,7 @@ Current Version (stable)
 
     git clone https://github.com/bkuhlmann/sublime_text_setup.git
     cd sublime_text_setup
-    git checkout v5.0.0
+    git checkout v6.0.0
 
 Master Version (unstable)
 

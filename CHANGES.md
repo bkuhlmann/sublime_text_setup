@@ -1,3 +1,29 @@
+# v6.0.0 (2017-01-01)
+
+- Fixed Ruby Lambda snippet.
+- Fixed Ruby pragma.
+- Added Bash snippet for script settings.
+- Added Elm HTML node snippet.
+- Added Elm HTML program template snippet.
+- Added Elm case statement snippet.
+- Added Elm describe snippet.
+- Added Elm function snippet.
+- Added Elm it snippet.
+- Added Elm language extension preferences.
+- Added Elm spec template snippet.
+- Added Reek disable code comment snippet support.
+- Added Ruby Lambda (multiple line) snippet.
+- Added Ruby `find` snippet (single and multi-line).
+- Added SCSS include snippet.
+- Added SCSS mixin snippet.
+- Added ShellCheck disable code comment snippet support.
+- Updated Elm snippets to use "Elm" label.
+- Updated README versioning documentation.
+- Updated Sublime Text preferences to ignore Node, Elm, and Coverage.
+- Removed CHANGELOG.md (use CHANGES.md instead).
+- Removed Ruby detect snippets.
+- Refactored Elm anonymous function snippet.
+
 # v5.0.0 (2016-10-11)
 
 - Fixed Bash header snippet to dynamically use correct Bash version.

@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+type alias ${1:Model} =
+  {
+    $2: $3
+  }
+]]>
+  </content>
+  <tabTrigger>typea</tabTrigger>
+  <description>Elm Type Alias</description>
+  <scope>source.elm</scope>
+</snippet>
+

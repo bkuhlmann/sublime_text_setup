@@ -1,0 +1,40 @@
+<snippet>
+  <content>
+<![CDATA[
+module ${1:Widget} exposing (${2:..})
+
+import Html exposing (Html, text)
+
+-- MODEL
+
+type alias ${3:Model} =
+  {
+  }
+
+init : ${3:Model}
+init =
+  {
+  }
+
+-- VIEW
+
+view : ${3:Model} -> Html Message
+view ${3/(.*)/\L\1\E/i} =
+  text ""
+
+-- MESSAGES
+
+type Message
+  = None
+
+-- UPDATE
+
+update : Message -> ${3:Model} -> (${3:Model}, Cmd Message)
+update message ${3/(.*)/\L\1\E/i} =
+  (${3/(.*)/\L\1\E/i}, Cmd.none)
+]]>
+  </content>
+  <tabTrigger>tthc</tabTrigger>
+  <description>Elm Template (HTML Component)</description>
+  <scope>source.elm</scope>
+</snippet>

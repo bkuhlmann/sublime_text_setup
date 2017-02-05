@@ -1,3 +1,13 @@
+# v6.1.0 (2017-02-05)
+
+- Added Elm FIX and TODO comment snippets.
+- Added Elm HTML compoment template snippet.
+- Added Elm `if` snippet.
+- Added Elm `type alias` snippet.
+- Added Elm `type` snippet.
+- Added Elm module snippet.
+- Updated contributing documentation.
+
 # v6.0.0 (2017-01-01)
 
 - Fixed Ruby Lambda snippet.

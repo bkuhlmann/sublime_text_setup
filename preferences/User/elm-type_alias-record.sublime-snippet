@@ -2,11 +2,13 @@
   <content>
 <![CDATA[
 type alias ${1:Model} =
-  $2
+  {
+    $2: $3
+  }
 ]]>
   </content>
-  <tabTrigger>typea</tabTrigger>
-  <description>Elm Type Alias</description>
+  <tabTrigger>typear</tabTrigger>
+  <description>Elm Type Alias (record)</description>
   <scope>source.elm</scope>
 </snippet>
 

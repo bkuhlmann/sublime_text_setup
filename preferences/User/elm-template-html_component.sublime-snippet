@@ -11,10 +11,11 @@ type alias ${3:Model} =
   {
   }
 
-init : ${3:Model}
+-- INIT
+
+init : (${3:Model}, Cmd Message)
 init =
-  {
-  }
+  (${3:Model}, Cmd.none)
 
 -- VIEW
 
@@ -22,7 +23,7 @@ view : ${3:Model} -> Html Message
 view ${3/(.*)/\L\1\E/i} =
   text ""
 
--- MESSAGES
+-- MESSAGE
 
 type Message
   = None

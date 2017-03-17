@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Debug.crash "${1:label}"]]></content>
+  <tabTrigger>debugc</tabTrigger>
+  <description>Elm Debug (crash)</description>
+  <scope>source.elm</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[div [$1] [$2]]]></content>
+  <tabTrigger>div</tabTrigger>
+  <description>Elm HTML Div</description>
+  <scope>source.elm</scope>
+</snippet>

@@ -1,3 +1,19 @@
+# v6.2.0 (2017-03-19)
+
+- Fixed Elm type alias snippets.
+- Added Elm HTML div snippet.
+- Added Elm debug snippet.
+- Added Elm key=value snippet.
+- Added Elm navigation template snippet.
+- Added Elm record snippets.
+- Added Elm tuple snippet.
+- Added RSpec It block snippet.
+- Added init and subscription functions to Elm HTML program snippet.
+- Updated Elm HTML component template snippet to include initialization.
+- Updated Elm node snippet to use less characters.
+- Updated README semantic versioning order.
+- Updated RSpec behaves like snippet macro.
+
 # v6.1.0 (2017-02-05)
 
 - Added Elm FIX and TODO comment snippets.

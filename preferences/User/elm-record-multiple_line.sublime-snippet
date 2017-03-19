@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+{
+  ${1:key} = ${2:value}
+}
+]]>
+  </content>
+  <tabTrigger>recm</tabTrigger>
+  <description>Elm Record - Multiple Line</description>
+  <scope>source.elm</scope>
+</snippet>

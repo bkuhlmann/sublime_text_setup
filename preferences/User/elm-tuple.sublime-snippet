@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[($1, $2)]]></content>
+  <tabTrigger>tup</tabTrigger>
+  <description>Elm Tuple</description>
+  <scope>source.elm</scope>
+</snippet>

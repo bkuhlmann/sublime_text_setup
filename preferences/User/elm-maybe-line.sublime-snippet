@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[Maybe.withDefault ${1:default} ${2:actual}]]></content>
+  <tabTrigger>mayl</tabTrigger>
+  <description>Elm Maybe (line)</description>
+  <scope>source.elm</scope>
+</snippet>
+

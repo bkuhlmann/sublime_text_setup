@@ -1,0 +1,15 @@
+<snippet>
+  <content>
+<![CDATA[
+Just $1 ->
+  $2
+
+Nothing ->
+  $3
+]]>
+  </content>
+  <tabTrigger>mayb</tabTrigger>
+  <description>Elm Maybe (block)</description>
+  <scope>source.elm</scope>
+</snippet>
+

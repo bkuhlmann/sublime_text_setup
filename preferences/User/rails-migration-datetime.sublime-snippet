@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[table.datetime :$1]]></content>
+  <tabTrigger>rmdt</tabTrigger>
+  <description>Rails Migration (datetime)</description>
+  <scope>source.ruby</scope>
+</snippet>

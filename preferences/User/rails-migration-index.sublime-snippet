@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[table.index $1${2:, unique: true}]]></content>
+  <tabTrigger>rmx</tabTrigger>
+  <description>Rails Migration (Index)</description>
+  <scope>source.ruby</scope>
+</snippet>

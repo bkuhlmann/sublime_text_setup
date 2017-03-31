@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+table.string :${1:image}
+table.string :${1:image}_content_type, null: false, default: ""
+table.integer :${1:image}_file_size, null: false, default: 0
+table.integer :${1:image}_width, null: false, default: 0
+table.integer :${1:image}_height, null: false, default: 0
+]]>
+  </content>
+  <tabTrigger>rmimg</tabTrigger>
+  <description>Rails Migration (image)</description>
+  <scope>source.ruby</scope>
+</snippet>

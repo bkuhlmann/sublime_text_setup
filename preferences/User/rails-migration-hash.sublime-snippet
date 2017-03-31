@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[table.hstore :$1, null: false, default: {}, index: {using: :${2:gin}}]]></content>
+  <tabTrigger>rmh</tabTrigger>
+  <description>Rails Migration (hash)</description>
+  <scope>source.ruby</scope>
+</snippet>

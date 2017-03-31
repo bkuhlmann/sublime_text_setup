@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[table.text :$1${2:, null: false, default: ""}]]></content>
+  <tabTrigger>rmt</tabTrigger>
+  <description>Rails Migration (text)</description>
+  <scope>source.ruby</scope>
+</snippet>

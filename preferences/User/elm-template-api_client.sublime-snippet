@@ -1,0 +1,34 @@
+<snippet>
+  <content>
+<![CDATA[
+module ${1:namespace}API.${2:Namespace}${3:Name} exposing (..)
+
+import Http
+import ${1:namespace}App.Models as Models
+import ${1:namespace}App.Types exposing ($4Token)
+import ${1:namespace}App.Decoders as Decoders
+import ${1:namespace}API.Kit as APIKit
+
+-- REQUESTS
+
+-- MESSAGES
+
+type Message
+  = Response (Result Http.Error Models.${3:Name}Body)
+
+-- UPDATES
+
+update : Message -> Models.${3:Name}Body
+update message =
+  case message of
+    Response (Ok body) ->
+      {data = body.data, error = Nothing}
+
+    Response (Err error) ->
+      {data = ${5:Nothing}, error = APIKit.parseError error}
+]]>
+  </content>
+  <tabTrigger>ttac</tabTrigger>
+  <description>Elm Template (API Client)</description>
+  <scope>source.elm</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+enum ${1:name}: %i[
+  $2
+]
+]]>
+  </content>
+  <tabTrigger>enum</tabTrigger>
+  <description>Rails Enum</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

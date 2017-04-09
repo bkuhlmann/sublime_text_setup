@@ -1,3 +1,12 @@
+# v6.3.0 (2017-04-09)
+
+- Added Elm API (read/write) function snippets.
+- Added Elm API client template.
+- Added Elm `Maybe` block and line snippets.
+- Added Elm case API branch snippet.
+- Added Rails enum snippet.
+- Added Rails migration snippets.
+
 # v6.2.0 (2017-03-19)
 
 - Fixed Elm type alias snippets.

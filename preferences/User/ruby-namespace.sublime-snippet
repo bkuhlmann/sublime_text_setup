@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+namespace :${1:name} do
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>namespace</tabTrigger>
+  <description>Ruby Namespace</description>
+  <scope>source.ruby</scope>
+</snippet>

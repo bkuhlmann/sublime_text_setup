@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+class ${1}Controller < ${2}Controller
+  $3
+end
+]]>
+  </content>
+  <tabTrigger>controller</tabTrigger>
+  <description>Rails Controller</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

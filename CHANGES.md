@@ -1,3 +1,10 @@
+# v6.4.0 (2017-06-18)
+
+- Added Git Cop support.
+- Added Rails Controller snippet.
+- Added Ruby namespace snippet.
+- Added parenthesis to Rails scopes.
+
 # v6.3.0 (2017-04-09)
 
 - Added Elm API (read/write) function snippets.

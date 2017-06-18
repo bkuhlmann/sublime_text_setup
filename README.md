@@ -1,5 +1,6 @@
 # Sublime Text Setup
 
+[![Circle CI Status](https://circleci.com/gh/bkuhlmann/sublime_text_setup.svg?style=svg)](https://circleci.com/gh/bkuhlmann/sublime_text_setup)
 [![Patreon](https://img.shields.io/badge/patreon-donate-brightgreen.svg)](https://www.patreon.com/bkuhlmann)
 
 Shell scripts for applying custom settings, key bindings, extension preferences, code snippets, etc.

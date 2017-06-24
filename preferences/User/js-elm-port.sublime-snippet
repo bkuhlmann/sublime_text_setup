@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+${1:app}.ports.${2:function}.subscribe(function($3) {
+  $4
+});
+]]>
+  </content>
+  <tabTrigger>port</tabTrigger>
+  <description>JavaScript Elm Port</description>
+  <scope>source.js</scope>
+</snippet>

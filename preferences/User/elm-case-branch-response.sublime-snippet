@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+${1:name}Response response ->
+  ({model | ${1/(.*)/\L\1\E/i}Response = response}, Cmd.none)
+]]>
+  </content>
+  <tabTrigger>cbr</tabTrigger>
+  <description>Elm Case Branch (Response)</description>
+  <scope>source.elm</scope>
+</snippet>

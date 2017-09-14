@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[table.jsonb :$1, null: false, default: ${2:\{\}}${3:, index: :gin}]]></content>
+  <tabTrigger>rmj</tabTrigger>
+  <description>Rails Migration (JSON)</description>
+  <scope>source.ruby</scope>
+</snippet>

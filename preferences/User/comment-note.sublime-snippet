@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[# NOTE: ${1:message}]]></content>
-  <tabTrigger>note</tabTrigger>
-  <description>Note Comment</description>
-  <scope>source.shell, source.ruby, source.rails</scope>
-</snippet>

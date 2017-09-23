@@ -1,3 +1,18 @@
+# v7.0.0 (2017-09-23)
+
+- Added Elm case branch response snippet.
+- Added Elm case branch snippet for remote data.
+- Added Gemfile.lock to .gitignore.
+- Added JavaScript Elm port snippet.
+- Added snippet for Rails JSON migration.
+- Updated CONTRIBUTING documentation.
+- Updated GitHub templates.
+- Updated Rails migration decimal snippet to not allow nulls.
+- Updated gem dependencies.
+- Updated to Ruby 2.4.2.
+- Removed comment note snippet.
+- Removed default string from Rails string/text migrations.
+
 # v6.4.0 (2017-06-18)
 
 - Added Git Cop support.

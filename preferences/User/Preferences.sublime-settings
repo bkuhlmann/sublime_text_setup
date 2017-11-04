@@ -1,4 +1,9 @@
 {
+	"binary_file_patterns":
+	[
+		"tmp/*",
+		"vendor/*"
+	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/SublimeLinter/iPlastic (SL).tmTheme",
@@ -13,9 +18,10 @@
 	],
 	"folder_exclude_patterns":
 	[
-		"node_modules",
+		".git",
 		"elm-stuff",
-		"coverage"
+		"coverage",
+		"node_modules"
 	],
 	"font_size": 15,
 	"highlight_line": true,

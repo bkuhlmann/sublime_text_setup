@@ -1,3 +1,14 @@
+# v7.1.0 (2017-11-19)
+
+- Fixed global file and folder exclude settings.
+- Added Ruby initialize (body) snippet.
+- Added Ruby snippets for attribute reader, writer, and accessor.
+- Updated Gemfile.lock file.
+- Updated to Bundler 1.16.0.
+- Updated to Git Cop 1.7.0.
+- Updated to Rake 12.3.0.
+- Updated to Rubocop 0.51.0.
+
 # v7.0.0 (2017-09-23)
 
 - Added Elm case branch response snippet.

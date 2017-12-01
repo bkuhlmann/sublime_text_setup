@@ -6,7 +6,7 @@
 	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/iPlastic (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Sixteen (SL).tmTheme",
 	"copy_with_empty_selection": false,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
@@ -44,6 +44,7 @@
 		100
 	],
 	"tab_size": 2,
+	"theme": "El Capitan.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,

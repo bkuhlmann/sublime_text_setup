@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[table.boolean :$1, null: false, default: ${2:false}]]></content>
+  <content><![CDATA[table.boolean :$1, null: false, default: ${2:false}, comment: "$3"]]></content>
   <tabTrigger>rmb</tabTrigger>
   <description>Rails Migration (boolean)</description>
   <scope>source.ruby</scope>

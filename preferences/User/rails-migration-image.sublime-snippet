@@ -1,11 +1,11 @@
 <snippet>
   <content>
 <![CDATA[
-table.string :${1:image}
-table.string :${1:image}_content_type, null: false, default: ""
-table.integer :${1:image}_file_size, null: false, default: 0
-table.integer :${1:image}_width, null: false, default: 0
-table.integer :${1:image}_height, null: false, default: 0
+table.string :${1:image}, comment: "Image attachment name."
+table.string :${1:image}_content_type, null: false, default: "", comment: "Image type."
+table.integer :${1:image}_file_size, null: false, default: 0, comment: "Image size (in bytes)."
+table.integer :${1:image}_width, null: false, default: 0, comment: "Image width."
+table.integer :${1:image}_height, null: false, default: 0, comment: "Image height."
 ]]>
   </content>
   <tabTrigger>rmimg</tabTrigger>

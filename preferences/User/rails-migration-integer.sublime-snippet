@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[table.integer :$1, null: false, default: 0]]></content>
+  <content><![CDATA[table.integer :$1, null: false, default: 0, comment: "$2"]]></content>
   <tabTrigger>rmi</tabTrigger>
   <description>Rails Migration (integer)</description>
   <scope>source.ruby</scope>

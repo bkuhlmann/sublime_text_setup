@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[table.string :$1${2:, null: false}]]></content>
+  <content><![CDATA[table.string :$1${2:, null: false}, comment: "$3"]]></content>
   <tabTrigger>rms</tabTrigger>
   <description>Rails Migration (string)</description>
   <scope>source.ruby</scope>

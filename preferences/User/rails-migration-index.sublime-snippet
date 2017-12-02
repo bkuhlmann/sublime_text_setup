@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[table.index $1${2:, unique: true}]]></content>
+  <content><![CDATA[table.index $1${2:, unique: true}, comment: "$3"]]></content>
   <tabTrigger>rmx</tabTrigger>
   <description>Rails Migration (Index)</description>
   <scope>source.ruby</scope>

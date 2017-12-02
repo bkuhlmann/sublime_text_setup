@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[table.text :$1, array: true, null: false, default: []]]></content>
+  <content><![CDATA[table.text :$1, array: true, null: false, default: [], comment: "$2"]]></content>
   <tabTrigger>rma</tabTrigger>
   <description>Rails Migration (array)</description>
   <scope>source.ruby</scope>

@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[table.jsonb :$1, null: false, default: ${2:\{\}}${3:, index: :gin}]]></content>
+  <content><![CDATA[table.jsonb :$1, null: false, default: ${2:\{\}}, index: :${3:gin}, comment: "$4"]]></content>
   <tabTrigger>rmj</tabTrigger>
   <description>Rails Migration (JSON)</description>
   <scope>source.ruby</scope>

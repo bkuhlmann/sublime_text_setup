@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[table.datetime :$1]]></content>
+  <content><![CDATA[table.datetime :$1, comment: "$2"]]></content>
   <tabTrigger>rmdt</tabTrigger>
   <description>Rails Migration (datetime)</description>
   <scope>source.ruby</scope>

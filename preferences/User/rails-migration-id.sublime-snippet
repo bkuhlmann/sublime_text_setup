@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[table.uuid :$1, null: false${2:, index: true}]]></content>
+  <content><![CDATA[table.uuid :$1, null: false${2:, index: true}, comment: "$3"]]></content>
   <tabTrigger>rmid</tabTrigger>
   <description>Rails Migration (ID)</description>
   <scope>source.ruby</scope>

@@ -1,0 +1,17 @@
+<snippet>
+  <content>
+<![CDATA[
+class Create$1 < ActiveRecord::Migration[${2:version}]
+  def change
+    create_table :${1/(.*)/\L\1\E/i}, id: :uuid, comment: "$3" do |table|
+      $4
+      table.timestamps null: false
+    end
+  end
+end
+]]>
+  </content>
+  <tabTrigger>rm</tabTrigger>
+  <description>Rails Migration</description>
+  <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+  <content>
+<![CDATA[
+RSpec::Matchers.define :${1:name} do |${2:expected}|
+  match do |${3:actual}|
+    ${3:actual} == ${2:expected}
+  end
+end
+]]>
+  </content>
+  <tabTrigger>matchera</tabTrigger>
+  <description>RSpec Matcher (argument)</description>
+  <scope>source.ruby</scope>
+</snippet>
+
+

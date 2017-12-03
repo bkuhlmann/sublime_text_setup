@@ -1,23 +1,9 @@
 <snippet>
   <content>
 <![CDATA[
-RSpec::Matchers.define :${1:name} do |${2:expectation}|
-  match do |${3:actual}|
-    ${3:actual} == ${2:expectation}
-  end
-
-  failure_message_for_should do |${3:actual}|
-    ${3:actual} == ${2:expectation}
-    "expected that #{${3:actual}} would match #{${2:expectation}}"
-  end
-
-  failure_message_for_should_not do |${3:actual}|
-    ${3:actual} != ${2:expectation}
-    "expected that #{${3:actual}} would not match #{${2:expectation}}"
-  end
-
-  description do
-    "match #{${2:expectation}}"
+RSpec::Matchers.define :${1:name} do
+  match do |${2:actual}|
+    ${2:actual} == ${3:expected}
   end
 end
 ]]>
@@ -26,5 +12,3 @@ end
   <description>RSpec Matcher</description>
   <scope>source.ruby</scope>
 </snippet>
-
-

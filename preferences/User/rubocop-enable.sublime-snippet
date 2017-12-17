@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[# rubocop:enable $1]]></content>
+  <tabTrigger>cope</tabTrigger>
+  <description>Rubocop (enable)</description>
+  <scope>source.ruby</scope>
+</snippet>

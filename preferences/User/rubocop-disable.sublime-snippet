@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[# rubocop:disable $1]]></content>
   <tabTrigger>copd</tabTrigger>
-  <description>Rubocop Disable</description>
+  <description>Rubocop (disable)</description>
   <scope>source.ruby</scope>
 </snippet>

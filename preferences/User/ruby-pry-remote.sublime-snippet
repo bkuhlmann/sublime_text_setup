@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[binding.remote_pry]]></content>
-  <tabTrigger>pryr</tabTrigger>
-  <description>Ruby Pry (remote)</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

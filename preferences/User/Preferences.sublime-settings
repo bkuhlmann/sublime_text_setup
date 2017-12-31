@@ -13,6 +13,7 @@
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
+		"tags",
 		".tags",
 		".tags_sorted_by_file"
 	],

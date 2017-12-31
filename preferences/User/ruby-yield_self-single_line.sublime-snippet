@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[yield_self { |$1| $2 }]]></content>
+  <tabTrigger>yelf</tabTrigger>
+  <description>Ruby Yield Self (single line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+yield_self do |$1|
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>yelfm</tabTrigger>
+  <description>Ruby Yield Self (multiple line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

@@ -1,3 +1,24 @@
+# v8.0.0 (2018-01-01)
+
+- Added Gemfile.lock to .gitignore.
+- Added Package Control support.
+- Added RSpec matcher (with block argument) snippet.
+- Added Rails create table migration snippet.
+- Added Rubocop (enable) snippet.
+- Added Ruby snippet for `yield_self`.
+- Added comments to Rails migration snippets.
+- Added ctags `tags` file to file exclude pattern list.
+- Updated RSpec matcher snippet to be a simple block.
+- Updated Rubocop (disable) snippet label.
+- Updated to Apache 2.0 license.
+- Updated to Ruby 2.4.3.
+- Updated to Ruby 2.5.0.
+- Updated to Sublime Text 3 default theme.
+- Removed Jasmine snippets.
+- Removed Pry remote debugger snippet.
+- Removed `pryl` snippet (use `debug` instead).
+- Refactored Factory Bot snippet file names.
+
 # v7.1.0 (2017-11-19)
 
 - Fixed global file and folder exclude settings.

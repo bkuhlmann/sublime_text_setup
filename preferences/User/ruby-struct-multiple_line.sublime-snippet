@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+Struct.new $1${2:, keyword_init: true} do
+  $3
+end
+]]>
+  </content>
+  <tabTrigger>structm</tabTrigger>
+  <description>Ruby Struct (multiple line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

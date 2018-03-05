@@ -5,9 +5,21 @@ module ${1:Widget} exposing (${2:..})
 
 import Html exposing (Html, text)
 
--- MODEL
+-- TYPES
+
+type Message
+  = None
+
+-- MODELS
 
 type alias ${3:Model} =
+  {
+  }
+
+-- RECORDS
+
+initial${3:Model} : ${3:Model}
+initial${3:Model} =
   {
   }
 
@@ -22,11 +34,6 @@ init =
 view : ${3:Model} -> Html Message
 view ${3/(.*)/\L\1\E/i} =
   text ""
-
--- MESSAGE
-
-type Message
-  = None
 
 -- UPDATE
 

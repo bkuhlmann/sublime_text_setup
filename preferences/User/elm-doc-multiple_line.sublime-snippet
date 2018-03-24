@@ -1,0 +1,15 @@
+<snippet>
+  <content>
+<![CDATA[
+{-|
+
+$1
+
+-}
+]]>
+  </content>
+  <tabTrigger>docm</tabTrigger>
+  <description>Elm Documentation (multiple line)</description>
+  <scope>source.elm</scope>
+</snippet>
+

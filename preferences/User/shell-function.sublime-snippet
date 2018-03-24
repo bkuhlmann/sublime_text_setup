@@ -9,7 +9,7 @@ $1() {
 }
 ]]>
   </content>
-  <tabTrigger>function</tabTrigger>
+  <tabTrigger>fn</tabTrigger>
   <description>Shell Function</description>
   <scope>source.shell</scope>
 </snippet>

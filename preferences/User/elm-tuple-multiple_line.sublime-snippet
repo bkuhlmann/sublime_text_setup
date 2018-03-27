@@ -1,0 +1,13 @@
+<snippet>
+    <content>
+<![CDATA[
+(
+  $1,
+  $2
+)
+]]>
+    </content>
+  <tabTrigger>tupm</tabTrigger>
+  <description>Elm Tuple (multiple line</description>
+  <scope>source.elm</scope>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+  <content>
+<![CDATA[
+require "bundler/inline"
+
+gemfile do
+  source "https://rubygems.org"
+  gem "$1", "~> $2"$3
+end
+]]>
+  </content>
+  <tabTrigger>bi</tabTrigger>
+  <description>Bundler Inline</description>
+  <scope>source.ruby</scope>
+</snippet>

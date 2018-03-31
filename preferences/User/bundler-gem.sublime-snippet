@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[gem "$1", "~> $2"]]></content>
+  <tabTrigger>bg</tabTrigger>
+  <description>Bundler Gem</description>
+  <scope>source.ruby</scope>
+</snippet>

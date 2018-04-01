@@ -1,4 +1,4 @@
-# v8.1.0 (2018-04-01)
+# 8.1.0 (2018-04-01)
 
 - Added Elm HTML component snippet types and records.
 - Added Elm documentation snippets.
@@ -16,7 +16,7 @@
 - Removed Patreon badge from README.
 - Refactored Elm snippets for tuple single and multiple lines.
 
-# v8.0.0 (2018-01-01)
+# 8.0.0 (2018-01-01)
 
 - Added Gemfile.lock to .gitignore.
 - Added Package Control support.
@@ -37,7 +37,7 @@
 - Removed `pryl` snippet (use `debug` instead).
 - Refactored Factory Bot snippet file names.
 
-# v7.1.0 (2017-11-19)
+# 7.1.0 (2017-11-19)
 
 - Fixed global file and folder exclude settings.
 - Added Ruby initialize (body) snippet.
@@ -48,7 +48,7 @@
 - Updated to Rake 12.3.0.
 - Updated to Rubocop 0.51.0.
 
-# v7.0.0 (2017-09-23)
+# 7.0.0 (2017-09-23)
 
 - Added Elm case branch response snippet.
 - Added Elm case branch snippet for remote data.
@@ -63,14 +63,14 @@
 - Removed comment note snippet.
 - Removed default string from Rails string/text migrations.
 
-# v6.4.0 (2017-06-18)
+# 6.4.0 (2017-06-18)
 
 - Added Git Cop support.
 - Added Rails Controller snippet.
 - Added Ruby namespace snippet.
 - Added parenthesis to Rails scopes.
 
-# v6.3.0 (2017-04-09)
+# 6.3.0 (2017-04-09)
 
 - Added Elm API (read/write) function snippets.
 - Added Elm API client template.
@@ -79,7 +79,7 @@
 - Added Rails enum snippet.
 - Added Rails migration snippets.
 
-# v6.2.0 (2017-03-19)
+# 6.2.0 (2017-03-19)
 
 - Fixed Elm type alias snippets.
 - Added Elm HTML div snippet.
@@ -95,7 +95,7 @@
 - Updated README semantic versioning order.
 - Updated RSpec behaves like snippet macro.
 
-# v6.1.0 (2017-02-05)
+# 6.1.0 (2017-02-05)
 
 - Added Elm FIX and TODO comment snippets.
 - Added Elm HTML compoment template snippet.
@@ -105,7 +105,7 @@
 - Added Elm module snippet.
 - Updated contributing documentation.
 
-# v6.0.0 (2017-01-01)
+# 6.0.0 (2017-01-01)
 
 - Fixed Ruby Lambda snippet.
 - Fixed Ruby pragma.
@@ -131,14 +131,14 @@
 - Removed Ruby detect snippets.
 - Refactored Elm anonymous function snippet.
 
-# v5.0.0 (2016-10-11)
+# 5.0.0 (2016-10-11)
 
 - Fixed Bash header snippet to dynamically use correct Bash version.
 - Fixed Bash script header to dynamically load correct environment.
 - Updated default extension preferences.
 - Removed `run.sh` (use `bin/run` instead).
 
-# v4.1.0 (2016-09-30)
+# 4.1.0 (2016-09-30)
 
 - Fixed RSpec "after" snippet cursor placement.
 - Fixed RSpec "around" snippet cursor placement.
@@ -153,7 +153,7 @@
 - Updated `failn` snippet format.
 - Updated user preferences for column ruler to use 100th column.
 
-# v4.0.0 (2016-03-21)
+# 4.0.0 (2016-03-21)
 
 - Fixed contributing guideline links.
 - Added Elm snippets.
@@ -172,7 +172,7 @@
 - Removed Ruby `bb` snippet for `byebug`.
 - Removed Ruby `hashrm` snippet (i.e Hash Reverse Merge).
 
-# v3.3.0 (2016-01-02)
+# 3.3.0 (2016-01-02)
 
 - Fixed spacing for Bash and Ruby pragma comments.
 - Added ApplySyntax settings for HTML (Rails) and JSON.
@@ -180,7 +180,7 @@
 - Added `fsl` snippet for Ruby frozen string literal comment.
 - Added snippet for creating Ruby refinements.
 
-# v3.2.0 (2015-12-02)
+# 3.2.0 (2015-12-02)
 
 - Fixed Ruby file reading and writing snippets.
 - Added Patreon badge to README.
@@ -193,7 +193,7 @@
 - Updated README with Tocer generated Table of Contents.
 - Updated Ruby hash snippet to support Array and Hash syntax.
 
-# v3.1.0 (2015-10-14)
+# 3.1.0 (2015-10-14)
 
 - Added Benchmark IPS snippets.
 - Added Climate Control snippet.
@@ -206,7 +206,7 @@
 - Added `module` snippet for creating Ruby module definitions.
 - Removed unnecessary brackets used in snippet tab stops.
 
-# v3.0.0 (2015-06-07)
+# 3.0.0 (2015-06-07)
 
 - Removed bang support from single and multi-line let snippets.
 - Removed the `ano` alias (use `ispy` instead).
@@ -230,7 +230,7 @@
 - Added file indexing debugging tips for the console to the README.
 - Added snippets for RSpec spec and rails helper templates.
 
-# v2.0.0 (2015-03-01)
+# 2.0.0 (2015-03-01)
 
 - Removed RSpec stub snippet.
 - Removed RSpec expect_any_instance_of snippet.
@@ -264,6 +264,6 @@
 - Added Shell snippets for array list, delete, index, length, and offset.
 - Added Shell variable default snippet.
 
-# v1.0.0 (2014-11-27)
+# 1.0.0 (2014-11-27)
 
 - Initial version.

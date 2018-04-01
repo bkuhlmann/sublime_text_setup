@@ -1,3 +1,21 @@
+# v8.1.0 (2018-04-01)
+
+- Added Elm HTML component snippet types and records.
+- Added Elm documentation snippets.
+- Added Ruby case snippet.
+- Added bundler snippets.
+- Added multi-line Ruby `if` snippet.
+- Added snippet for Ruby structs.
+- Updated README license information.
+- Updated package control settings.
+- Updated shell function snippet to trigger on `fn`.
+- Updated to Adaptive theme.
+- Updated to Circle CI 2.0.0 configuration.
+- Updated to Git Cop 2.2.0.
+- Updated to Ruby 2.5.1.
+- Removed Patreon badge from README.
+- Refactored Elm snippets for tuple single and multiple lines.
+
 # v8.0.0 (2018-01-01)
 
 - Added Gemfile.lock to .gitignore.

@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+$1 {
+  $2
+}
+]]>
+</content>
+  <tabTrigger>cs</tabTrigger>
+  <description>CSS Style</description>
+  <scope>source.css, source.scss</scope>
+</snippet>

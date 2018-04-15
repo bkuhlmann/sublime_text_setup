@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[footer [$1] [$2]]]></content>
+  <tabTrigger>footer</tabTrigger>
+  <description>Elm HTML Header</description>
+  <scope>source.elm</scope>
+</snippet>

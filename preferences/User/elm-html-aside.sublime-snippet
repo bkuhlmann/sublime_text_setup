@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[aside [$1] [$2]]]></content>
+  <tabTrigger>aside</tabTrigger>
+  <description>Elm HTML Aside</description>
+  <scope>source.elm</scope>
+</snippet>

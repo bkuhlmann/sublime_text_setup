@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[image-url("${1:url}")]]></content>
-  <tabTrigger>imageu</tabTrigger>
-  <description>CSS Image URL (Rails Asset Path)</description>
-  <scope>source.css</scope>
-</snippet>

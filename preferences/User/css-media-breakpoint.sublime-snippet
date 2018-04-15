@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+@media only ${1:screen} and (min-width: $2) {
+  $3
+}
+]]>
+</content>
+  <tabTrigger>mbp</tabTrigger>
+  <description>CSS Media (breakpoint)</description>
+  <scope>source.css, source.scss</scope>
+</snippet>

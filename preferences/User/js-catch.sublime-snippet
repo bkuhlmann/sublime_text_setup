@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+catch(${1:error} => {
+  $2
+})
+]]>
+  </content>
+  <tabTrigger>catch</tabTrigger>
+  <description>JavaScript Catch</description>
+  <scope>source.js</scope>
+</snippet>

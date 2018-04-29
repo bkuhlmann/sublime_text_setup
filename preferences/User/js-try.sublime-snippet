@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+try {
+  $1
+}
+]]>
+  </content>
+  <tabTrigger>try</tabTrigger>
+  <description>JavaScript Try</description>
+  <scope>source.js</scope>
+</snippet>

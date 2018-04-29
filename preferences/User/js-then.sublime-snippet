@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+then ($1 => {
+  $2
+})
+]]>
+  </content>
+  <tabTrigger>then</tabTrigger>
+  <description>JavaScript Then</description>
+  <scope>source.js</scope>
+</snippet>

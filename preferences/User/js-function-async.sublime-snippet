@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+async function $1($2) {
+  $3
+}
+]]>
+  </content>
+  <tabTrigger>afn</tabTrigger>
+  <description>JavaScript Function (async)</description>
+  <scope>source.js</scope>
+</snippet>

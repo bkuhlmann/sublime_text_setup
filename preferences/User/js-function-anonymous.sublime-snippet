@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+function($1) {
+  $2
+}
+]]>
+  </content>
+  <tabTrigger>fna</tabTrigger>
+  <description>JavaScript Function (anonymous)</description>
+  <scope>source.js</scope>
+</snippet>

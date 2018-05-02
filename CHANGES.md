@@ -1,3 +1,26 @@
+# 8.2.0 (2018-05-01)
+
+- Fixed CSS/SCSS snippets to be appropriately sourced.
+- Fixed SCSS image URL snippet.
+- Added CSS Flexbox snippet.
+- Added CSS Grid snippets.
+- Added CSS border radius snippet.
+- Added CSS media snippet.
+- Added CSS root snippet.
+- Added CSS style snippet.
+- Added CSS variable snippets.
+- Added Elm HTML snippets.
+- Added JavaScript anonymous function snippet.
+- Added JavaScript async function snippet.
+- Added JavaScript catch snippet.
+- Added JavaScript event listener snippet.
+- Added JavaScript then snippet.
+- Added JavaScript try snippet.
+- Added SCSS variable define snippet.
+- Added print shell snippet.
+- Updated JavaScript function snippet.
+- Updated project changes to use semantic versions.
+
 # 8.1.0 (2018-04-01)
 
 - Added Elm HTML component snippet types and records.

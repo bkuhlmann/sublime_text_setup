@@ -8,7 +8,7 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/SublimeLinter/Sixteen (SL).tmTheme",
 	"copy_with_empty_selection": false,
-	"draw_white_space": "all",
+	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":

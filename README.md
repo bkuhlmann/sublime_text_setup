@@ -208,7 +208,7 @@ To see what files are being indexed:
 
 # Versioning
 
-Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
+Read [Semantic Versioning](https://semver.org) for details. Briefly, it means:
 
 - Major (X.y.z) - Incremented for any backwards incompatible public API changes.
 - Minor (x.Y.z) - Incremented for new, backwards compatible, public API enhancements/fixes.

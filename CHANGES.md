@@ -1,3 +1,11 @@
+# 8.3.0 (2018-07-01)
+
+- Fixed Bundler inline snippet to install gems by default.
+- Fixed Ruby initialize snippet file name.
+- Added complete Package Control installed packages list.
+- Updated Semantic Versioning links to be HTTPS.
+- Updated draw white space preference to be selection only.
+
 # 8.2.0 (2018-05-01)
 
 - Fixed CSS/SCSS snippets to be appropriately sourced.

@@ -188,23 +188,23 @@ bindings/remappings):
 
 To open and close the console:
 
-0. Type `CONTROL+<backtick>` to open console.
-0. Type `CONTROL+<backtick>` to exit console.
+1. Type `CONTROL+<backtick>` to open console.
+1. Type `CONTROL+<backtick>` to exit console.
 
 To see what commands/key bindings are being fired:
 
-0. Enter `sublime.log_commands(True)` within the console to enable command logging.
-0. Right click, use menus, etc. to let a log of the actual commands being fired.
-0. Find the command you are looking for in the log and then use that command to build a key binding
+1. Enter `sublime.log_commands(True)` within the console to enable command logging.
+1. Right click, use menus, etc. to let a log of the actual commands being fired.
+1. Find the command you are looking for in the log and then use that command to build a key binding
    for.
-0. Enter `sublime.log_commands(False)` within the condole to disable command logging.
+1. Enter `sublime.log_commands(False)` within the condole to disable command logging.
 
 To see what files are being indexed:
 
-0. Ensure the `index_files` settings is set to `true`.
-0. Enter `sublime.log_indexing(True)` to enable.
-0. Watch the log for file activity.
-0. Enter `sublime.log_indexing(False)` to disable.
+1. Ensure the `index_files` settings is set to `true`.
+1. Enter `sublime.log_indexing(True)` to enable.
+1. Watch the log for file activity.
+1. Enter `sublime.log_indexing(False)` to disable.
 
 # Versioning
 

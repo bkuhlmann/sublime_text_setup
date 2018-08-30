@@ -3,6 +3,10 @@
 	"in_process_packages":
 	[
 	],
+	"install_prereleases":
+	[
+		"Elm Language support"
+	],
 	"installed_packages":
 	[
 		"A File Icon",

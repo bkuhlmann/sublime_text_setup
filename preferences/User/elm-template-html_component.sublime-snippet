@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[
-module ${1:Widget} exposing (${2:..})
+module ${1:Component} exposing (${2:..})
 
 import Html exposing (Html, text)
 
@@ -27,7 +27,7 @@ initial${3:Model} =
 
 init : (${3:Model}, Cmd Message)
 init =
-  (${3:Model}, Cmd.none)
+  (initial${3:Model}, Cmd.none)
 
 -- VIEW
 

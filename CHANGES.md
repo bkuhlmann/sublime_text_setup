@@ -1,3 +1,15 @@
+# 8.4.0 (2018-11-01)
+
+- Fixed Markdown ordered list numbering.
+- Added Elm HTML application snippet.
+- Added Elm HTML element snippet.
+- Added Elm browser document snippet.
+- Updated Elm HTMl component snippet.
+- Updated to Contributor Covenant Code of Conduct 1.4.1.
+- Updated to Elm 0.19 support.
+- Updated to Ruby 2.5.2.
+- Updated to Ruby 2.5.3.
+
 # 8.3.0 (2018-07-01)
 
 - Fixed Bundler inline snippet to install gems by default.

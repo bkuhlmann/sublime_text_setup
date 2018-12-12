@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+${1:report} = MemoryProfiler.report do
+  $2
+end
+
+${1:report}.pretty_print to_file: %(${3:memory}-#{Time.now.strftime "%Y-%m-%d_%H-%M-%S"}.log)
+]]>
+  </content>
+  <tabTrigger>mp</tabTrigger>
+  <description>Memory Profiler</description>
+  <scope>source.ruby</scope>
+</snippet>

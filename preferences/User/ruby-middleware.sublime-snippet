@@ -1,0 +1,24 @@
+<snippet>
+  <content>
+<![CDATA[
+# frozen_string_literal: true
+
+class $1
+  def initialize application
+    @application = application
+  end
+
+  def call environment
+    ${2:application.call environment}
+  end
+
+  private
+
+  attr_reader :application
+end
+]]>
+  </content>
+  <tabTrigger>mid</tabTrigger>
+  <description>Middleware</description>
+  <scope>source.ruby</scope>
+</snippet>

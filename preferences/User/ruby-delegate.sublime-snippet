@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[delegate :${1:method}, to: :${2:model}, prefix: ${3:true}, allow_nil: ${4:true}]]></content>
+  <content><![CDATA[delegate %i[$1] => :$2]]></content>
   <tabTrigger>delegate</tabTrigger>
   <description>Ruby Delegate</description>
   <scope>source.ruby, source.rails</scope>

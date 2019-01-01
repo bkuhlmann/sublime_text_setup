@@ -1,3 +1,19 @@
+# 9.0.0 (2019-01-01)
+
+- Fixed Circle CI cache for Ruby version.
+- Added Circle CI Bundler cache.
+- Added Ruby Memory Profiler snippet.
+- Added Ruby forwardable snippet.
+- Added Ruby snippet for Rack Middleware.
+- Added Ruby struct initialize snippet.
+- Added frozen string literal to Bundler inline snippet.
+- Updated RSpec subject snippet to enforce explicit subject.
+- Updated Ruby delegate snippet to use forwardable syntax.
+- Updated application settings.
+- Updated to Git Cop 3.0.0.
+- Updated to Ruby 2.6.0.
+- Removed Rack Mini-Profiler step snippet.
+
 # 8.4.0 (2018-11-01)
 
 - Fixed Markdown ordered list numbering.

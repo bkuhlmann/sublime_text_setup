@@ -29,8 +29,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"A File Icon",
-		"Markdown Extended"
+		"A File Icon"
 	],
 	"indent_guide_options":
 	[

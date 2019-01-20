@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[times { $1 }]]></content>
+  <tabTrigger>times</tabTrigger>
+  <description>Ruby Times (single line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

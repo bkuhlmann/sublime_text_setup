@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+split do |$1|
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>splitm</tabTrigger>
+  <description>Ruby Split (multiple line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

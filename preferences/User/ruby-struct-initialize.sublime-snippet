@@ -1,10 +1,10 @@
 <snippet>
   <content>
 <![CDATA[
-def initialize *arguments
+def initialize ${1:*arguments}
   super
 
-  $3
+  $2
 end
 ]]>
   </content>

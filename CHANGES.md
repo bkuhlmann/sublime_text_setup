@@ -1,3 +1,15 @@
+# 9.1.0 (2019-02-01)
+
+- Fixed Ruby struct initialize method to allow for argument customization.
+- Added Ruby Benchmark Memory snippet.
+- Added Ruby split snippets.
+- Added Ruby times snippets.
+- Updated to Ruby 2.6.1.
+- Updated user preferences.
+- Removed Markdown Extended extension.
+- Refactored Ruby benchmark report snippets.
+- Refactored Ruby debug as breakpoint snippet.
+
 # 9.0.0 (2019-01-01)
 
 - Fixed Circle CI cache for Ruby version.

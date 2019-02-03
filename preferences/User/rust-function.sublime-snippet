@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+fn $1{
+  $2
+}
+]]>
+  </content>
+  <tabTrigger>fn</tabTrigger>
+  <description>Rust Function</description>
+  <scope>source.rust</scope>
+</snippet>

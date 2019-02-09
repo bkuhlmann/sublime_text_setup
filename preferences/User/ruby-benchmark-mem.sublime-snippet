@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[
-Benchmark.memory do |benchmark|
+Benchmark.mem do |benchmark|
   benchmark.report "${2:Old}" do
     $3
   end
@@ -15,6 +15,6 @@ end
 ]]>
   </content>
   <tabTrigger>bmm</tabTrigger>
-  <description>Benchmark Memory</description>
+  <description>Benchmark Mem</description>
   <scope>source.ruby</scope>
 </snippet>

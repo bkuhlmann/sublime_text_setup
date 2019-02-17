@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[
-class ${1}Controller < ${2}Controller
+class ${1:Name}Controller < ${2:Super}Controller
   $3
 end
 ]]>

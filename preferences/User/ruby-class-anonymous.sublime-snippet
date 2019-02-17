@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+Class.new$1 do
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>classa</tabTrigger>
+  <description>Ruby Class (anonymous)</description>
+  <scope>source.ruby</scope>
+</snippet>

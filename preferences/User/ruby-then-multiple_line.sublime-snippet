@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+then do |$1|
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>thenm</tabTrigger>
+  <description>Ruby Then (multiple line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

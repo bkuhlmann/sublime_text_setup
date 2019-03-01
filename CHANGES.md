@@ -1,3 +1,17 @@
+# 9.2.0 (2019-03-01)
+
+- Fixed Ruby file read snippet to use less code.
+- Fixed Ruby file write snippet to use less code.
+- Fixed Ruby not implemented error snippet to be dynamic.
+- Fixed Ruby proc snippet to use Kernal method.
+- Fixed Ruby snippet name placeholders.
+- Added Ruby anonymous class snippet.
+- Added Ruby at exit snippets.
+- Added Rust function snippet.
+- Added key binding for reseting font zoom.
+- Updated Ruby memory benchmark snippet.
+- Updated Ruby yield self snippets as then snippets.
+
 # 9.1.0 (2019-02-01)
 
 - Fixed Ruby struct initialize method to allow for argument customization.

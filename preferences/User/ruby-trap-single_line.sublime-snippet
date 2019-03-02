@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[trap("${1:SIGNAL}") { ${2:command} }]]></content>
+  <tabTrigger>trap</tabTrigger>
+  <description>Ruby Trap (single line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

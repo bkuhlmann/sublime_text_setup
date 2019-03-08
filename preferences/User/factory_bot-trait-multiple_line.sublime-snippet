@@ -6,7 +6,7 @@ trait :$1 do
 end
 ]]>
   </content>
-  <tabTrigger>traitm</tabTrigger>
-  <description>Factory Girl Trait (multiple line)</description>
+  <tabTrigger>fbtm</tabTrigger>
+  <description>Factory Bot Trait (multiple line)</description>
   <scope>source.ruby</scope>
 </snippet>

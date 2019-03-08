@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[trait(:$1) { $2 }]]></content>
-  <tabTrigger>trait</tabTrigger>
-  <description>Factory Girl Trait (single line)</description>
+  <tabTrigger>fbt</tabTrigger>
+  <description>Factory Bot Trait (single line)</description>
   <scope>source.ruby</scope>
 </snippet>

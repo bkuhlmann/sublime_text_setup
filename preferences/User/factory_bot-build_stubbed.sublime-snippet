@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[FactoryBot.build_stubbed :$1]]></content>
+  <tabTrigger>fbs</tabTrigger>
+  <description>Factory Girl Build Stubbed</description>
+  <scope>source.ruby</scope>
+</snippet>

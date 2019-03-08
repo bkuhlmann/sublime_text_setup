@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[FactoryBot.create :$1]]></content>
+  <tabTrigger>fbc</tabTrigger>
+  <description>Factory Girl Create</description>
+  <scope>source.ruby</scope>
+</snippet>

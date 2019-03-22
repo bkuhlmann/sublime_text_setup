@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Hash.new { |new_hash, missing_key| new_hash[missing_key] = ${1:default} }]]></content>
+  <tabTrigger>hashd</tabTrigger>
+  <description>Ruby Hash - Default Proc (single line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

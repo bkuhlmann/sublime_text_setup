@@ -1,3 +1,17 @@
+# 9.3.0 (2019-04-01)
+
+- Fixed FactoryBot trait snippet labels.
+- Added FactoryBot build snippet.
+- Added FactoryBot build stubbed snippet.
+- Added FactoryBot create snippet.
+- Added Ruby Hash default proc snippet.
+- Added Ruby proc multiple line snippet.
+- Added Ruby trap snippets.
+- Added Terraform extension.
+- Updated default font size.
+- Updated extension settings.
+- Updated to Ruby 2.6.2.
+
 # 9.2.0 (2019-03-01)
 
 - Fixed Ruby file read snippet to use less code.

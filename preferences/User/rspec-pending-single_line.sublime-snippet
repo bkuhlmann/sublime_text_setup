@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[pending "$1"]]></content>
+  <tabTrigger>pend</tabTrigger>
+  <description>RSpec Pending (single line)</description>
+  <scope>source.ruby</scope>
+</snippet>

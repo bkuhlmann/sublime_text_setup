@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[then(&method(:$1))]]></content>
+  <tabTrigger>thenp</tabTrigger>
+  <description>Ruby Then (proc)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

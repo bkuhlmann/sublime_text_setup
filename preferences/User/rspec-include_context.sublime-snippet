@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[include_context "$1"]]></content>
+  <tabTrigger>inc</tabTrigger>
+  <description>RSpec Include Context</description>
+  <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[include_examples "$1"]]></content>
+  <tabTrigger>ine</tabTrigger>
+  <description>RSpec Include Examples</description>
+  <scope>source.ruby</scope>
+</snippet>

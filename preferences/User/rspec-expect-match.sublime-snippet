@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[expect($1).${2:to} match($3)]]></content>
+  <tabTrigger>xm</tabTrigger>
+  <description>RSpec Expect - Match</description>
+  <scope>source.ruby</scope>
+</snippet>

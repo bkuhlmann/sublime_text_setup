@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[expect($1).${2:to} contain_exactly($3)]]></content>
+  <tabTrigger>xx</tabTrigger>
+  <description>RSpec Expect - Contain Exactly</description>
+  <scope>source.ruby</scope>
+</snippet>

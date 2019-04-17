@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[expect(&$1).${2:to} raise_error(${3:exception}, ${4:pattern})]]></content>
+  <tabTrigger>xe</tabTrigger>
+  <description>RSpec Expect - Raise Error</description>
+  <scope>source.ruby</scope>
+</snippet>

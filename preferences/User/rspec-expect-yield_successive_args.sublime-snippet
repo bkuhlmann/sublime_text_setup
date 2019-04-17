@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[expect(&$1).${2:to} yield_successive_args($3)]]></content>
+  <tabTrigger>xys</tabTrigger>
+  <description>RSpec Expect - Yield Successive Args</description>
+  <scope>source.ruby</scope>
+</snippet>

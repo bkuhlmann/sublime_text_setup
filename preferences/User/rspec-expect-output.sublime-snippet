@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[expect($1).${2:to} output($3).to_std${4:out_or_err}]]></content>
+  <tabTrigger>xo</tabTrigger>
+  <description>RSpec Expect - Output</description>
+  <scope>source.ruby</scope>
+</snippet>

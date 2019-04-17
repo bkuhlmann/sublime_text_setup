@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[expect(&$1).${2:to} yield_control]]></content>
+  <tabTrigger>xyc</tabTrigger>
+  <description>RSpec Expect - Yield Control</description>
+  <scope>source.ruby</scope>
+</snippet>

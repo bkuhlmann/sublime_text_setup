@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[expect($1).${2:to} be_within($3).of($4)]]></content>
+  <tabTrigger>xw</tabTrigger>
+  <description>RSpec Expect - Within</description>
+  <scope>source.ruby</scope>
+</snippet>

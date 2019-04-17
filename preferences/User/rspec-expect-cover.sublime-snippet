@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[expect($1).${2:to} cover($3)]]></content>
+  <tabTrigger>xv</tabTrigger>
+  <description>RSpec Expect - Cover</description>
+  <scope>source.ruby</scope>
+</snippet>

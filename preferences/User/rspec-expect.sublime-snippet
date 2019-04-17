@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[expect($1).${2:to} $3]]></content>
-  <tabTrigger>expect</tabTrigger>
-  <description>RSpec Expect (mock)</description>
+  <content><![CDATA[expect($1).$2to $3]]></content>
+  <tabTrigger>x</tabTrigger>
+  <description>RSpec Expect</description>
   <scope>source.ruby</scope>
 </snippet>

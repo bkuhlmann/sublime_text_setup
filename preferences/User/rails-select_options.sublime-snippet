@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[map { |${2:target}| [${2:target}.${4:method}, ${2:target}.id] }]]></content>
-  <tabTrigger>options</tabTrigger>
-  <description>Rails Select Options</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

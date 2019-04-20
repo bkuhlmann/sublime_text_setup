@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[allow($1).to receive($3)]]></content>
-  <tabTrigger>allow</tabTrigger>
-  <description>RSpec Allow (stub)</description>
+  <content><![CDATA[allow($1).to receive(:$2)]]></content>
+  <tabTrigger>al</tabTrigger>
+  <description>RSpec Allow</description>
   <scope>source.ruby</scope>
 </snippet>

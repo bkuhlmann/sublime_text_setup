@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[allow($1).to receive(:$2).and_call_original]]></content>
+  <tabTrigger>alo</tabTrigger>
+  <description>RSpec Allow Original</description>
+  <scope>source.ruby</scope>
+</snippet>

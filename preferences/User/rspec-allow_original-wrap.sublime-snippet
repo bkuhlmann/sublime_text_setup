@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+allow($1).to receive(:$2).and_wrap_original do |original_method, *arguments|
+  orignal_method.call(*arguments)$3
+end
+]]>
+  </content>
+  <tabTrigger>alow</tabTrigger>
+  <description>RSpec Allow Original Wrap</description>
+  <scope>source.ruby</scope>
+</snippet>

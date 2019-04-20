@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+allow($1).to receive(:$2) do$3
+  $4
+end
+]]>
+  </content>
+  <tabTrigger>albm</tabTrigger>
+  <description>RSpec Allow Block (multiple line)</description>
+  <scope>source.ruby</scope>
+</snippet>

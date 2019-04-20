@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[allow($1).to receive(:$2).with($3).and_throw(:$4)]]></content>
+  <tabTrigger>alwt</tabTrigger>
+  <description>RSpec Allow With Throw</description>
+  <scope>source.ruby</scope>
+</snippet>

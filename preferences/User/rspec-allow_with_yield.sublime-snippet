@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[allow($1).to receive(:$2).with($3).and_yield($4)]]></content>
+  <tabTrigger>alwy</tabTrigger>
+  <description>RSpec Allow With Yield</description>
+  <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[allow($1).to receive(:$2).and_return($3)]]></content>
+  <tabTrigger>alr</tabTrigger>
+  <description>RSpec Allow Return</description>
+  <scope>source.ruby</scope>
+</snippet>

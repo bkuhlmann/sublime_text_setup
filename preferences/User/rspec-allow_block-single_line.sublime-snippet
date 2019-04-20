@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[allow($1).to receive(:$2) { $3 }]]></content>
+  <tabTrigger>alb</tabTrigger>
+  <description>RSpec Allow Block (single line)</description>
+  <scope>source.ruby</scope>
+</snippet>

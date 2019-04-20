@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[also "$1"]]></content>
-  <tabTrigger>also</tabTrigger>
-  <description>RSpec Also (single line)</description>
-  <scope>source.ruby</scope>
-</snippet>

@@ -14,6 +14,7 @@ machines.
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Usage](#usage)
+  - [Snippets](#snippets)
   - [Keyboard Shortcuts](#keyboard-shortcuts)
   - [Debugging](#debugging)
 - [Versioning](#versioning)
@@ -31,7 +32,7 @@ machines.
 - Applies key bindings not enabled by default (see the Default (OSX).sublime-keymap file).
 - Applies extension preferences not enabled by default (see the
   [macOS](https://github.com/bkuhlmann/mac_os) project for details.)
-- Provides tab-completion code snippets for HTML, CSS, Ruby, Rails, RSpec, etc.
+- Provides tab-completion code snippets for HTML, CSS, Elm, Ruby, Rails, RSpec, Rust, etc.
 
 # Requirements
 
@@ -45,7 +46,7 @@ Current Version (stable)
 
     git clone https://github.com/bkuhlmann/sublime_text_setup.git
     cd sublime_text_setup
-    git checkout 9.3.0
+    git checkout 10.0.0
 
 Master Version (unstable)
 
@@ -67,12 +68,299 @@ Type the following from the command line to install:
 
     bin/run
 
-*NOTE: The install assumes this GitHub project will be kept locally since the Sublime Text Users
+*The install assumes this GitHub project will be kept locally since the Sublime Text `Users`
 folder will be symbolically linked to this project. Should this project be relocated, re-run the
 install to fix the symbolic link.*
 
 Alternatively, the install can be skipped and content can be pilfered from the files located in the
 `preferences/User` folder of this project instead.
+
+## Snippets
+
+The following snippets are supported by this project. Each is sorted by description and followed by
+the trigger to activate the snippet.
+
+- Bash Script Header - `bashh`
+- Bash Script Settings - `bashs`
+- Benchmark IPS - `bmi`
+- Benchmark Mem - `bmm`
+- Benchmark Report (multiple line) - `reportm`
+- Benchmark Report (single line) - `report`
+- Bundler Gem - `bg`
+- Bundler Inline - `bi`
+- CSS Border Radius - `br`
+- CSS Comment - `comment`
+- CSS Media (breakpoint) - `mbp`
+- CSS Root - `root`
+- CSS Style - `cs`
+- CSS Variable - `var`
+- CSS Variable (define) - `varc`
+- Capybara Save and Open Page - `saop`
+- Climate Control - `cc`
+- Deprecate - `deprecate`
+- Duplicate Comment - `dup`
+- ERB - `erb`
+- ERB Comment - `erbc`
+- ERB Output - `erbo`
+- ERB each do..end - `erbe`
+- ERB if..else..end - `erbie`
+- ERB link_to - `erbl`
+- Elm Case - `case`
+- Elm Case (Response) - `cr`
+- Elm Case Branch (Response) - `cbr`
+- Elm Comment (multiple lines) - `comment`
+- Elm Debug - `debug`
+- Elm Debug (crash) - `debugc`
+- Elm Debug (log) - `debugl`
+- Elm Describe - `describe`
+- Elm Documentation (multiple line) - `docm`
+- Elm Documentation (single line) - `doc`
+- Elm Function - `fnn`
+- Elm Function (API Read) - `fnapir`
+- Elm Function (API Write) - `fnapiw`
+- Elm Function (Anonymous) - `fna`
+- Elm HTML Aside - `aside`
+- Elm HTML Div - `div`
+- Elm HTML Header - `header`
+- Elm HTML Header - `footer`
+- Elm HTML Node - `nd`
+- Elm HTML Section - `section`
+- Elm If - `if`
+- Elm It - `it`
+- Elm Let - `let`
+- Elm Maybe (block) - `mayb`
+- Elm Maybe (line) - `mayl`
+- Elm Module - `module`
+- Elm Record - `rec`
+- Elm Record - Multiple Line - `recm`
+- Elm Record Update - `recu`
+- Elm Template (API Client) - `ttac`
+- Elm Template (HTML Application) - `ttha`
+- Elm Template (HTML Component) - `tthc`
+- Elm Template (HTML Document) - `tthd`
+- Elm Template (HTML Element) - `tthe`
+- Elm Template (Navigation Program) - `ttnp`
+- Elm Template (spec) - `tts`
+- Elm Tuple - `kv`
+- Elm Tuple (multiple line - `tupm`
+- Elm Tuple (single line) - `tup`
+- Elm Type - `type`
+- Elm Type Alias - `typea`
+- Elm Type Alias (record) - `typear`
+- Factory Bot Trait (multiple line) - `fbtm`
+- Factory Bot Trait (single line) - `fbt`
+- Factory Girl Build - `fbb`
+- Factory Girl Build Stubbed - `fbs`
+- Factory Girl Create - `fbc`
+- File Read - `filer`
+- File Write - `filew`
+- Fix Comment - `fix`
+- Fix Comment - `fix`
+- Flexbox - `flex`
+- Frozen String Literals - `fsl`
+- Grid - `grid`
+- Grid Area - `ga`
+- Grid Auto Flow - `gaf`
+- Grid Gap - `gg`
+- Grid Template - `gt`
+- Grid Template Areas - `gta`
+- Grid Template Columns - `gtc`
+- Grid Template Rows - `gtr`
+- HTML Comment - `comment`
+- Hash - Default Proc (multiple line) - `hashdm`
+- JavaScript Catch - `catch`
+- JavaScript Console Count - `ccount`
+- JavaScript Console Dir - `cdir`
+- JavaScript Console Error - `cerror`
+- JavaScript Console Info - `cinfo`
+- JavaScript Console Log - `clog`
+- JavaScript Console Time - `ctime`
+- JavaScript Console Time End - `ctimee`
+- JavaScript Console Trace - `ctrace`
+- JavaScript Console Warn - `cwarn`
+- JavaScript Elm Port - `port`
+- JavaScript Event Listener - `eventl`
+- JavaScript Function - `fn`
+- JavaScript Function (anonymous) - `fna`
+- JavaScript Function (async) - `afn`
+- JavaScript Setter - `getter`
+- JavaScript Setter - `setter`
+- JavaScript Switch - `switch`
+- JavaScript Then - `then`
+- JavaScript Try - `try`
+- Lambda (multiple line) - `ldm`
+- Lambda (single line) - `ld`
+- Log - `log`
+- Memory Profiler - `mp`
+- Middleware - `mid`
+- Placehold.it Image - `placehold`
+- RSpec After (multiple line) - `afterm`
+- RSpec After (single line) - `after`
+- RSpec Aggregate Failures - `ag`
+- RSpec Allow - `al`
+- RSpec Allow Block (multiple line) - `albm`
+- RSpec Allow Block (single line) - `alb`
+- RSpec Allow Error - `ale`
+- RSpec Allow Original - `alo`
+- RSpec Allow Original Wrap - `alow`
+- RSpec Allow Return - `alr`
+- RSpec Allow Throw - `alt`
+- RSpec Allow With - `alw`
+- RSpec Allow With Error - `alwe`
+- RSpec Allow With Return - `alwr`
+- RSpec Allow With Throw - `alwt`
+- RSpec Allow With Yield - `alwy`
+- RSpec Allow Yield - `aly`
+- RSpec Around - `around`
+- RSpec Before (multiple line) - `beforem`
+- RSpec Before (single line) - `before`
+- RSpec Class Double - `cdouble`
+- RSpec Class Spy - `cspy`
+- RSpec Context - `context`
+- RSpec Describe - `describe`
+- RSpec Described Class - `dc`
+- RSpec Expect - `x`
+- RSpec Expect - Change - `xc`
+- RSpec Expect - Contain Exactly - `xx`
+- RSpec Expect - Cover - `xv`
+- RSpec Expect - Eq - `xq`
+- RSpec Expect - Have Attributes - `xa`
+- RSpec Expect - Have Received - `xr`
+- RSpec Expect - Include - `xi`
+- RSpec Expect - Match - `xm`
+- RSpec Expect - Output - `xo`
+- RSpec Expect - Raise Error - `xe`
+- RSpec Expect - Throw - `xt`
+- RSpec Expect - Within - `xw`
+- RSpec Expect - Yield Control - `xyc`
+- RSpec Expect - Yield Successive Args - `xys`
+- RSpec Expect - Yield With Args - `xya`
+- RSpec Feature - `feature`
+- RSpec Include Context - `inc`
+- RSpec Include Examples - `ine`
+- RSpec Instance Double - `idouble`
+- RSpec Instance Spy - `ispy`
+- RSpec It (block) - `itb`
+- RSpec It (multiple line) - `itm`
+- RSpec It (single line) - `it`
+- RSpec It Behaves Like (multiple line) - `itlm`
+- RSpec It Behaves Like (single line) - `itl`
+- RSpec Let (multiple line) - `letm`
+- RSpec Let (single line) - `let`
+- RSpec Matcher - `matcher`
+- RSpec Matcher (argument) - `matchera`
+- RSpec Object Double - `odouble`
+- RSpec Object Spy - `ospy`
+- RSpec Pending (multiple line) - `pendm`
+- RSpec Pending (single line) - `pend`
+- RSpec Scenario - `scenario`
+- RSpec Shared Context - `sharedc`
+- RSpec Shared Examples - `sharede`
+- RSpec Skip (multiple line) - `skipm`
+- RSpec Skip (single line) - `skip`
+- RSpec Subject (multiple line) - `subjectm`
+- RSpec Subject (single line) - `subject`
+- RSpec Template (Rails Helper) - `rtr`
+- RSpec Template (Spec Helper) - `rts`
+- Rails Controller - `controller`
+- Rails Enum - `enum`
+- Rails Migration - `rm`
+- Rails Migration (ID) - `rmid`
+- Rails Migration (Index) - `rmx`
+- Rails Migration (JSON) - `rmj`
+- Rails Migration (array) - `rma`
+- Rails Migration (boolean) - `rmb`
+- Rails Migration (datetime) - `rmdt`
+- Rails Migration (decimal) - `rmd`
+- Rails Migration (hash) - `rmh`
+- Rails Migration (image) - `rmimg`
+- Rails Migration (integer) - `rmi`
+- Rails Migration (string) - `rms`
+- Rails Migration (text) - `rmt`
+- Rails Migration (timestamps) - `rmts`
+- Rails Scope - `scope`
+- Reek Disable - `rd`
+- Rubocop (disable) - `copd`
+- Rubocop (enable) - `cope`
+- Ruby At Exit (multiple line) - `aexitm`
+- Ruby At Exit (single line) - `aexit`
+- Ruby Attribute (accessor) - `ata`
+- Ruby Attribute (reader) - `atr`
+- Ruby Attribute (writer) - `atw`
+- Ruby Breakpoint - `bp`
+- Ruby Case - `case`
+- Ruby Class - `class`
+- Ruby Class (anonymous) - `classa`
+- Ruby Delegate - `delegate`
+- Ruby Each (multiple line) - `eachm`
+- Ruby Each (single line) - `each`
+- Ruby Encoding - `encode`
+- Ruby Fail - Not Implemented - `failn`
+- Ruby Fetch (multiple line) - `fetchm`
+- Ruby Fetch (single line) - `fetch`
+- Ruby Find (multiple line) - `findm`
+- Ruby Find (single line) - `find`
+- Ruby Forwardable - `forward`
+- Ruby Hash - Default Proc (single line) - `hashd`
+- Ruby If (multiple line) - `ifm`
+- Ruby Initialize - `init`
+- Ruby Initialize (body) - `initb`
+- Ruby Instance Assign - `ia`
+- Ruby Loop (multiple line) - `loopm`
+- Ruby Loop (single line) - `loop`
+- Ruby Map (multiple line) - `mapm`
+- Ruby Map (single line) - `tap`
+- Ruby Map (single line) - `map`
+- Ruby Module - `module`
+- Ruby Namespace - `namespace`
+- Ruby Proc (multiple line) - `procm`
+- Ruby Proc (single line) - `proc`
+- Ruby Reduce (multiple line) - `reducem`
+- Ruby Reduce (single line) - `reduce`
+- Ruby Refine - `refine`
+- Ruby Regex (multiple line) - `regexm`
+- Ruby Reject (multiple line) - `rejectm`
+- Ruby Reject (single line) - `reject`
+- Ruby Script Header - `ruby`
+- Ruby Select (multiple line) - `selectm`
+- Ruby Select (single line) - `select`
+- Ruby Split (multiple line) - `splitm`
+- Ruby Split (single line) - `split`
+- Ruby Struct (initialize) - `structi`
+- Ruby Struct (multiple line) - `structm`
+- Ruby Struct (single line) - `struct`
+- Ruby Sum - `sum`
+- Ruby Tap (multiple line) - `tapm`
+- Ruby Then (multiple line) - `thenm`
+- Ruby Then (proc) - `thenp`
+- Ruby Then (single line) - `then`
+- Ruby Times (multiple line) - `timesm`
+- Ruby Times (single line) - `times`
+- Ruby Trap (multiple line) - `trapm`
+- Ruby Trap (single line) - `trap`
+- Ruby With Object (multiple line) - `withm`
+- Ruby With Object (single line) - `with`
+- Rust Function - `fn`
+- SCSS Image URL (Rails Asset Path) - `imgu`
+- SCSS Include - `in`
+- SCSS Mixin - `mix`
+- SCSS Variable (define) - `vars`
+- Shell Array - `array`
+- Shell Array (delete) - `arrayd`
+- Shell Array (index) - `arrayi`
+- Shell Array (length) - `arrayl`
+- Shell Array (offset) - `arrayo`
+- Shell Case - `shellc`
+- Shell For - `shellf`
+- Shell Function - `fn`
+- Shell If - `shelli`
+- Shell Print - `print`
+- Shell Script Header - `shellh`
+- Shell Variable Default - `vard`
+- Shell While - `shellw`
+- ShellCheck Disable - `scd`
+- ToDo Comment - `todo`
+- ToDo Comment - `todo`
 
 ## Keyboard Shortcuts
 

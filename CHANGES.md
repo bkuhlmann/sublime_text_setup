@@ -1,3 +1,21 @@
+# 10.0.0 (2019-04-21)
+
+- Added RSpec *it behaves like* multi-line snippet.
+- Added RSpec extension.
+- Added RSpec include context snippet.
+- Added RSpec include examples snippet.
+- Added RSpec pending snippets.
+- Added Ruby `then` snippet for method procs.
+- Added additional RSpec allow snippets.
+- Added additional RSpec expect snippets.
+- Added version release notes.
+- Updated RSpec allow snippet to use shorter macro.
+- Updated RSpec expect snippet to use shorter macro.
+- Updated to Ruby 2.6.3.
+- Removed RSpec `also` snippets.
+- Removed Rails select options snippet.
+- Refactored RSpec *it behaves like* snippet as single line.
+
 # 9.3.0 (2019-04-01)
 
 - Fixed FactoryBot trait snippet labels.

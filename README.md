@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="sublime_text_setup.png" alt="Sublime Text Setup Icon"/>
+</p>
+
 # Sublime Text Setup
 
 [![Circle CI Status](https://circleci.com/gh/bkuhlmann/sublime_text_setup.svg?style=svg)](https://circleci.com/gh/bkuhlmann/sublime_text_setup)

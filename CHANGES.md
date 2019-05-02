@@ -1,3 +1,9 @@
+# 10.0.1 (2019-05-01)
+
+- Fixed RSpec allow original wrap typo.
+- Fixed RSpec expect output snippet to use block.
+- Added project icon to README.
+
 # 10.0.0 (2019-04-21)
 
 - Added RSpec *it behaves like* multi-line snippet.

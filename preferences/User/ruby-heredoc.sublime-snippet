@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+<<~${1:content}
+  $2
+${1:content}
+]]>
+  </content>
+  <tabTrigger>doc</tabTrigger>
+  <description>Ruby Heredoc</description>
+  <scope>source.ruby</scope>
+</snippet>

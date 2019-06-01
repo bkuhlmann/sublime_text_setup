@@ -1,3 +1,11 @@
+# 10.1.0 (2019-06-01)
+
+- Added Ruby snippet for method proc.
+- Added Ruby squiggly heredoc snippet.
+- Updated Ruby anonymous class snippet to mention superclass.
+- Updated contributing documentation.
+- Updated to Git Cop 3.5.0.
+
 # 10.0.1 (2019-05-01)
 
 - Fixed RSpec allow original wrap typo.

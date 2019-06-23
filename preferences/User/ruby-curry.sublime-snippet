@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[method(:$1).curry]]></content>
+  <tabTrigger>cur</tabTrigger>
+  <description>Ruby Curry</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

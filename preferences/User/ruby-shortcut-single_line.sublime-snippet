@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[%${1:w}[$2]]]></content>
+  <tabTrigger>sc</tabTrigger>
+  <description>Ruby Shortcut (single line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

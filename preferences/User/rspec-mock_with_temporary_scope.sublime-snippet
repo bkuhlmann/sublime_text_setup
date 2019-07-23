@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+RSpec::Mocks.with_temporary_scope do
+  $1
+end
+]]>
+  </content>
+  <tabTrigger>mope</tabTrigger>
+  <description>RSpec Mock With Temporary Scope</description>
+  <scope>source.ruby</scope>
+</snippet>

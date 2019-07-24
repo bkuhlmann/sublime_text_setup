@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[save_and_open_page]]></content>
-  <tabTrigger>saop</tabTrigger>
-  <description>Capybara Save and Open Page</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

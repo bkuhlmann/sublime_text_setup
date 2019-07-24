@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[File.read ${1:path}]]></content>
   <tabTrigger>filer</tabTrigger>
-  <description>File Read</description>
+  <description>Ruby File Read</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

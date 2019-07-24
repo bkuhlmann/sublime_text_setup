@@ -7,6 +7,6 @@ Hash.new do |new_hash, missing_key|
 ]]>
   </content>
   <tabTrigger>hashdm</tabTrigger>
-  <description>Hash - Default Proc (multiple line)</description>
+  <description>Ruby Hash - Default Proc (multiple line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

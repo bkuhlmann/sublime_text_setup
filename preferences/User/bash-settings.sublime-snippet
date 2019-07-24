@@ -9,6 +9,6 @@ IFS=\$'\n\t'
 ]]>
   </content>
   <tabTrigger>bashs</tabTrigger>
-  <description>Bash Script Settings</description>
+  <description>Bash Settings</description>
   <scope>source.shell</scope>
 </snippet>

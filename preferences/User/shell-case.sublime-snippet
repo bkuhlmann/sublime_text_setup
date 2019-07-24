@@ -7,7 +7,7 @@ case $1 in
 esac
 ]]>
   </content>
-  <tabTrigger>shellc</tabTrigger>
+  <tabTrigger>case</tabTrigger>
   <description>Shell Case</description>
   <scope>source.shell</scope>
 </snippet>

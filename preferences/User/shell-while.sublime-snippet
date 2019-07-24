@@ -6,7 +6,7 @@ while $1; do
 done
 ]]>
   </content>
-  <tabTrigger>shellw</tabTrigger>
+  <tabTrigger>while</tabTrigger>
   <description>Shell While</description>
   <scope>source.shell</scope>
 </snippet>

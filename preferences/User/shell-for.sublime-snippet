@@ -6,7 +6,7 @@ for $1 in $2; do
 done
 ]]>
   </content>
-  <tabTrigger>shellf</tabTrigger>
+  <tabTrigger>for</tabTrigger>
   <description>Shell For</description>
   <scope>source.shell</scope>
 </snippet>

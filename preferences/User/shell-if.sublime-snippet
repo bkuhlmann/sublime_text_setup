@@ -6,7 +6,7 @@ if [[ $1 ]]; then
 fi
 ]]>
   </content>
-  <tabTrigger>shelli</tabTrigger>
+  <tabTrigger>if</tabTrigger>
   <description>Shell If</description>
   <scope>source.shell</scope>
 </snippet>

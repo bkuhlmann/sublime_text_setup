@@ -50,7 +50,7 @@ Current Version (stable)
 
     git clone https://github.com/bkuhlmann/sublime_text_setup.git
     cd sublime_text_setup
-    git checkout 10.1.0
+    git checkout 11.0.0
 
 Master Version (unstable)
 
@@ -84,8 +84,8 @@ Alternatively, the install can be skipped and content can be pilfered from the f
 The following snippets are supported by this project. Each is sorted by description and followed by
 the trigger to activate the snippet.
 
-- Bash Script Header - `bashh`
-- Bash Script Settings - `bashs`
+- Bash Header - `bashh`
+- Bash Settings - `bashs`
 - Benchmark IPS - `bmi`
 - Benchmark Mem - `bmm`
 - Benchmark Report (multiple line) - `reportm`
@@ -94,13 +94,20 @@ the trigger to activate the snippet.
 - Bundler Inline - `bi`
 - CSS Border Radius - `br`
 - CSS Comment - `comment`
+- CSS Flexbox - `flex`
+- CSS Grid - `grid`
+- CSS Grid Area - `ga`
+- CSS Grid Auto Flow - `gaf`
+- CSS Grid Gap - `gg`
+- CSS Grid Template - `gt`
+- CSS Grid Template Areas - `gta`
+- CSS Grid Template Columns - `gtc`
+- CSS Grid Template Rows - `gtr`
 - CSS Media (breakpoint) - `mbp`
 - CSS Root - `root`
 - CSS Style - `cs`
 - CSS Variable - `var`
 - CSS Variable (define) - `varc`
-- Capybara Save and Open Page - `saop`
-- Climate Control - `cc`
 - Deprecate - `deprecate`
 - Duplicate Comment - `dup`
 - ERB - `erb`
@@ -119,14 +126,15 @@ the trigger to activate the snippet.
 - Elm Describe - `describe`
 - Elm Documentation (multiple line) - `docm`
 - Elm Documentation (single line) - `doc`
+- Elm Fix Comment - `fix`
 - Elm Function - `fnn`
 - Elm Function (API Read) - `fnapir`
 - Elm Function (API Write) - `fnapiw`
 - Elm Function (Anonymous) - `fna`
 - Elm HTML Aside - `aside`
 - Elm HTML Div - `div`
-- Elm HTML Header - `header`
 - Elm HTML Header - `footer`
+- Elm HTML Header - `header`
 - Elm HTML Node - `nd`
 - Elm HTML Section - `section`
 - Elm If - `if`
@@ -145,33 +153,20 @@ the trigger to activate the snippet.
 - Elm Template (HTML Element) - `tthe`
 - Elm Template (Navigation Program) - `ttnp`
 - Elm Template (spec) - `tts`
+- Elm ToDo Comment - `todo`
 - Elm Tuple - `kv`
 - Elm Tuple (multiple line - `tupm`
 - Elm Tuple (single line) - `tup`
 - Elm Type - `type`
 - Elm Type Alias - `typea`
 - Elm Type Alias (record) - `typear`
+- Factory Bot Build - `fbb`
+- Factory Bot Build Stubbed - `fbs`
+- Factory Bot Create - `fbc`
 - Factory Bot Trait (multiple line) - `fbtm`
 - Factory Bot Trait (single line) - `fbt`
-- Factory Girl Build - `fbb`
-- Factory Girl Build Stubbed - `fbs`
-- Factory Girl Create - `fbc`
-- File Read - `filer`
-- File Write - `filew`
 - Fix Comment - `fix`
-- Fix Comment - `fix`
-- Flexbox - `flex`
-- Frozen String Literals - `fsl`
-- Grid - `grid`
-- Grid Area - `ga`
-- Grid Auto Flow - `gaf`
-- Grid Gap - `gg`
-- Grid Template - `gt`
-- Grid Template Areas - `gta`
-- Grid Template Columns - `gtc`
-- Grid Template Rows - `gtr`
 - HTML Comment - `comment`
-- Hash - Default Proc (multiple line) - `hashdm`
 - JavaScript Catch - `catch`
 - JavaScript Console Count - `ccount`
 - JavaScript Console Dir - `cdir`
@@ -182,22 +177,18 @@ the trigger to activate the snippet.
 - JavaScript Console Time End - `ctimee`
 - JavaScript Console Trace - `ctrace`
 - JavaScript Console Warn - `cwarn`
-- JavaScript Elm Port - `port`
 - JavaScript Event Listener - `eventl`
 - JavaScript Function - `fn`
 - JavaScript Function (anonymous) - `fna`
 - JavaScript Function (async) - `afn`
-- JavaScript Setter - `getter`
+- JavaScript Port (Elm) - `port`
 - JavaScript Setter - `setter`
+- JavaScript Setter - `getter`
 - JavaScript Switch - `switch`
 - JavaScript Then - `then`
 - JavaScript Try - `try`
-- Lambda (multiple line) - `ldm`
-- Lambda (single line) - `ld`
-- Log - `log`
 - Memory Profiler - `mp`
 - Middleware - `mid`
-- Placehold.it Image - `placehold`
 - RSpec After (multiple line) - `afterm`
 - RSpec After (single line) - `after`
 - RSpec Aggregate Failures - `ag`
@@ -253,6 +244,7 @@ the trigger to activate the snippet.
 - RSpec Let (single line) - `let`
 - RSpec Matcher - `matcher`
 - RSpec Matcher (argument) - `matchera`
+- RSpec Mock With Temporary Scope - `mope`
 - RSpec Object Double - `odouble`
 - RSpec Object Spy - `ospy`
 - RSpec Pending (multiple line) - `pendm`
@@ -292,9 +284,11 @@ the trigger to activate the snippet.
 - Ruby Attribute (reader) - `atr`
 - Ruby Attribute (writer) - `atw`
 - Ruby Breakpoint - `bp`
+- Ruby Breakpoint Tap - `bpt`
 - Ruby Case - `case`
 - Ruby Class - `class`
 - Ruby Class (anonymous) - `classa`
+- Ruby Curry - `cur`
 - Ruby Delegate - `delegate`
 - Ruby Each (multiple line) - `eachm`
 - Ruby Each (single line) - `each`
@@ -302,19 +296,28 @@ the trigger to activate the snippet.
 - Ruby Fail - Not Implemented - `failn`
 - Ruby Fetch (multiple line) - `fetchm`
 - Ruby Fetch (single line) - `fetch`
+- Ruby File Read - `filer`
+- Ruby File Write - `filew`
 - Ruby Find (multiple line) - `findm`
 - Ruby Find (single line) - `find`
 - Ruby Forwardable - `forward`
+- Ruby Frozen String Literals - `fsl`
+- Ruby Hash - Default Proc (multiple line) - `hashdm`
 - Ruby Hash - Default Proc (single line) - `hashd`
+- Ruby Heredoc - `doc`
 - Ruby If (multiple line) - `ifm`
 - Ruby Initialize - `init`
 - Ruby Initialize (body) - `initb`
 - Ruby Instance Assign - `ia`
+- Ruby Lambda (multiple line) - `ldm`
+- Ruby Lambda (single line) - `ld`
+- Ruby Log - `log`
 - Ruby Loop (multiple line) - `loopm`
 - Ruby Loop (single line) - `loop`
 - Ruby Map (multiple line) - `mapm`
-- Ruby Map (single line) - `tap`
 - Ruby Map (single line) - `map`
+- Ruby Map (single line) - `tap`
+- Ruby Method Proc - `mroc`
 - Ruby Module - `module`
 - Ruby Namespace - `namespace`
 - Ruby Proc (multiple line) - `procm`
@@ -325,14 +328,17 @@ the trigger to activate the snippet.
 - Ruby Regex (multiple line) - `regexm`
 - Ruby Reject (multiple line) - `rejectm`
 - Ruby Reject (single line) - `reject`
-- Ruby Script Header - `ruby`
+- Ruby Script Header - `head`
 - Ruby Select (multiple line) - `selectm`
 - Ruby Select (single line) - `select`
+- Ruby Shortcut (multiple line) - `scm`
+- Ruby Shortcut (single line) - `sc`
 - Ruby Split (multiple line) - `splitm`
 - Ruby Split (single line) - `split`
 - Ruby Struct (initialize) - `structi`
 - Ruby Struct (multiple line) - `structm`
 - Ruby Struct (single line) - `struct`
+- Ruby Struct Instance Assign - `sia`
 - Ruby Sum - `sum`
 - Ruby Tap (multiple line) - `tapm`
 - Ruby Then (multiple line) - `thenm`
@@ -354,16 +360,15 @@ the trigger to activate the snippet.
 - Shell Array (index) - `arrayi`
 - Shell Array (length) - `arrayl`
 - Shell Array (offset) - `arrayo`
-- Shell Case - `shellc`
-- Shell For - `shellf`
+- Shell Case - `case`
+- Shell For - `for`
 - Shell Function - `fn`
-- Shell If - `shelli`
+- Shell If - `if`
 - Shell Print - `print`
-- Shell Script Header - `shellh`
+- Shell Script Header - `head`
 - Shell Variable Default - `vard`
-- Shell While - `shellw`
+- Shell While - `while`
 - ShellCheck Disable - `scd`
-- ToDo Comment - `todo`
 - ToDo Comment - `todo`
 
 ## Keyboard Shortcuts

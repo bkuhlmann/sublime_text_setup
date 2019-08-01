@@ -1,3 +1,17 @@
+# 11.0.0 (2019-08-01)
+
+- Fixed Ruby script header trigger.
+- Fixed Shell snippets to use natural expression for triggers.
+- Fixed snippet descriptions.
+- Added RSpec mock with temporary scope snippet.
+- Added Ruby breakpoint tap snippet.
+- Added Ruby curry snippet.
+- Added Ruby shortcut snippets.
+- Added struct instance assignment snippet.
+- Removed Capybara save and open snippet.
+- Removed Climate Control snippet.
+- Removed HTML image placeholder snippet.
+
 # 10.1.0 (2019-06-01)
 
 - Added Ruby snippet for method proc.

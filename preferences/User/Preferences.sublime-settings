@@ -22,7 +22,10 @@
 		".git",
 		"elm-stuff",
 		"coverage",
-		"node_modules"
+		"node_modules",
+		"public/assets",
+		"public/packs",
+		"public/packs-test"
 	],
 	"font_size": 14,
 	"highlight_line": true,

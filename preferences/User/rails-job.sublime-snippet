@@ -1,0 +1,16 @@
+<snippet>
+  <content>
+<![CDATA[
+class ${1:Name}Job < ${2:Application}Job
+  queue_as $3
+
+  def perform
+    $4
+  end
+end
+]]>
+  </content>
+  <tabTrigger>job</tabTrigger>
+  <description>Rails Job</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

@@ -8,7 +8,7 @@ def initialize ${1:*arguments}
 end
 ]]>
   </content>
-  <tabTrigger>structi</tabTrigger>
+  <tabTrigger>sinit</tabTrigger>
   <description>Ruby Struct (initialize)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

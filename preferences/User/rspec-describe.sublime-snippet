@@ -1,12 +1,12 @@
 <snippet>
   <content>
 <![CDATA[
-describe $1 do
-  $2
+describe "${1:#}$2" do
+  $3
 end
 ]]>
   </content>
-  <tabTrigger>describe</tabTrigger>
+  <tabTrigger>des</tabTrigger>
   <description>RSpec Describe</description>
   <scope>source.ruby</scope>
 </snippet>

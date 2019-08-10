@@ -6,7 +6,7 @@ module ${1:Name}
 end
 ]]>
   </content>
-  <tabTrigger>module</tabTrigger>
+  <tabTrigger>mod</tabTrigger>
   <description>Ruby Module</description>
   <scope>source.ruby</scope>
 </snippet>

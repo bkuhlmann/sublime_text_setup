@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[module $1 exposing (${2:..})]]></content>
-  <tabTrigger>module</tabTrigger>
+  <tabTrigger>mod</tabTrigger>
   <description>Elm Module</description>
   <scope>source.elm</scope>
 </snippet>

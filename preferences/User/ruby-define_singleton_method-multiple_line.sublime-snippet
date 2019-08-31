@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+define_singleton_method :${1:name} do
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>dsmm</tabTrigger>
+  <description>Ruby Define Singleton Method (multiple line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+define_method :${1:name} do
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>dmm</tabTrigger>
+  <description>Ruby Define Method (multiple line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

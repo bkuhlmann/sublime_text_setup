@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+def self.${1:name}
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>sef</tabTrigger>
+  <description>Ruby Self Method</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

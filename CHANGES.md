@@ -1,3 +1,21 @@
+# 12.0.0 (2019-09-01)
+
+- Added Package Resource Viewer package.
+- Added Rails application job snippet.
+- Added Rails find each snippet.
+- Added Ruby define method snippet.
+- Added Ruby define singleton method snippet.
+- Added Ruby method snippet.
+- Added Ruby self method snippet.
+- Updated Elm and Ruby modules to use shorter trigger.
+- Updated Elm package name.
+- Updated RSpec describe snippet to default to instance methods.
+- Updated Ruby curry snippet to include name placeholder.
+- Updated Ruby method proc to use new trigger.
+- Updated Ruby struct initialize snippet trigger.
+- Updated preferences to exclude public assets.
+- Updated to Ruby 2.6.4.
+
 # 11.0.0 (2019-08-01)
 
 - Fixed Ruby script header trigger.

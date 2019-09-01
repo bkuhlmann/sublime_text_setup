@@ -50,7 +50,7 @@ Current Version (stable)
 
     git clone https://github.com/bkuhlmann/sublime_text_setup.git
     cd sublime_text_setup
-    git checkout 11.0.0
+    git checkout 12.0.0
 
 Master Version (unstable)
 
@@ -142,7 +142,7 @@ the trigger to activate the snippet.
 - Elm Let - `let`
 - Elm Maybe (block) - `mayb`
 - Elm Maybe (line) - `mayl`
-- Elm Module - `module`
+- Elm Module - `mod`
 - Elm Record - `rec`
 - Elm Record - Multiple Line - `recm`
 - Elm Record Update - `recu`
@@ -212,7 +212,7 @@ the trigger to activate the snippet.
 - RSpec Class Double - `cdouble`
 - RSpec Class Spy - `cspy`
 - RSpec Context - `context`
-- RSpec Describe - `describe`
+- RSpec Describe - `des`
 - RSpec Described Class - `dc`
 - RSpec Expect - `x`
 - RSpec Expect - Change - `xc`
@@ -260,6 +260,8 @@ the trigger to activate the snippet.
 - RSpec Template (Spec Helper) - `rts`
 - Rails Controller - `controller`
 - Rails Enum - `enum`
+- Rails Find Each - `finde`
+- Rails Job - `job`
 - Rails Migration - `rm`
 - Rails Migration (ID) - `rmid`
 - Rails Migration (Index) - `rmx`
@@ -289,6 +291,10 @@ the trigger to activate the snippet.
 - Ruby Class - `class`
 - Ruby Class (anonymous) - `classa`
 - Ruby Curry - `cur`
+- Ruby Define Method (multiple line) - `dmm`
+- Ruby Define Method (single line) - `dm`
+- Ruby Define Singleton Method (multiple line) - `dsmm`
+- Ruby Define Singleton Method (single line) - `dsm`
 - Ruby Delegate - `delegate`
 - Ruby Each (multiple line) - `eachm`
 - Ruby Each (single line) - `each`
@@ -317,8 +323,9 @@ the trigger to activate the snippet.
 - Ruby Map (multiple line) - `mapm`
 - Ruby Map (single line) - `map`
 - Ruby Map (single line) - `tap`
-- Ruby Method Proc - `mroc`
-- Ruby Module - `module`
+- Ruby Method - `met`
+- Ruby Method Proc - `metp`
+- Ruby Module - `mod`
 - Ruby Namespace - `namespace`
 - Ruby Proc (multiple line) - `procm`
 - Ruby Proc (single line) - `proc`
@@ -331,11 +338,12 @@ the trigger to activate the snippet.
 - Ruby Script Header - `head`
 - Ruby Select (multiple line) - `selectm`
 - Ruby Select (single line) - `select`
+- Ruby Self Method - `sef`
 - Ruby Shortcut (multiple line) - `scm`
 - Ruby Shortcut (single line) - `sc`
 - Ruby Split (multiple line) - `splitm`
 - Ruby Split (single line) - `split`
-- Ruby Struct (initialize) - `structi`
+- Ruby Struct (initialize) - `sinit`
 - Ruby Struct (multiple line) - `structm`
 - Ruby Struct (single line) - `struct`
 - Ruby Struct Instance Assign - `sia`

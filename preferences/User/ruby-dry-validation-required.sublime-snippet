@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[required(:${1:name}).${2:filled}]]></content>
+  <tabTrigger>dvr</tabTrigger>
+  <description>Ruby Dry Validation - Required</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

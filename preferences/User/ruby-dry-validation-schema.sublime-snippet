@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+schema do
+  $1
+end
+]]>
+  </content>
+  <tabTrigger>dvs</tabTrigger>
+  <description>Ruby Dry Validation - Schema</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

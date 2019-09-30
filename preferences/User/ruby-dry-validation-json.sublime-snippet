@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+json do
+  $1
+end
+]]>
+  </content>
+  <tabTrigger>dvj</tabTrigger>
+  <description>Ruby Dry Validation - JSON</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

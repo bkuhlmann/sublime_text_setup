@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+params do
+  $1
+end
+]]>
+  </content>
+  <tabTrigger>dvp</tabTrigger>
+  <description>Ruby Dry Validation - Params</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

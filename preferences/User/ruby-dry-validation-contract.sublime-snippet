@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+class ${1:Name} < Dry::Validation::Contract
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>dvc</tabTrigger>
+  <description>Ruby Dry Validation - Contract</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

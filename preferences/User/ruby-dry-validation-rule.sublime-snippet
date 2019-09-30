@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+rule $1do
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>dvu</tabTrigger>
+  <description>Ruby Dry Validation - Rule</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

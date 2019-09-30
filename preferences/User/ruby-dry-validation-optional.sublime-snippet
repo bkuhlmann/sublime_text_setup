@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[optional(:${1:name}).${2:maybe}]]></content>
+  <tabTrigger>dvo</tabTrigger>
+  <description>Ruby Dry Validation - Optional</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

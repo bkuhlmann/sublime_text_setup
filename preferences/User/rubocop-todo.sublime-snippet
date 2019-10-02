@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[# rubocop:todo $1]]></content>
+  <tabTrigger>copt</tabTrigger>
+  <description>Rubocop (todo)</description>
+  <scope>source.ruby</scope>
+</snippet>

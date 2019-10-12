@@ -50,7 +50,7 @@ Current Version (stable)
 
     git clone https://github.com/bkuhlmann/sublime_text_setup.git
     cd sublime_text_setup
-    git checkout 12.0.0
+    git checkout 12.1.0
 
 Master Version (unstable)
 
@@ -133,8 +133,8 @@ the trigger to activate the snippet.
 - Elm Function (Anonymous) - `fna`
 - Elm HTML Aside - `aside`
 - Elm HTML Div - `div`
-- Elm HTML Header - `footer`
 - Elm HTML Header - `header`
+- Elm HTML Header - `footer`
 - Elm HTML Node - `nd`
 - Elm HTML Section - `section`
 - Elm If - `if`
@@ -182,8 +182,8 @@ the trigger to activate the snippet.
 - JavaScript Function (anonymous) - `fna`
 - JavaScript Function (async) - `afn`
 - JavaScript Port (Elm) - `port`
-- JavaScript Setter - `setter`
 - JavaScript Setter - `getter`
+- JavaScript Setter - `setter`
 - JavaScript Switch - `switch`
 - JavaScript Then - `then`
 - JavaScript Try - `try`
@@ -280,6 +280,7 @@ the trigger to activate the snippet.
 - Reek Disable - `rd`
 - Rubocop (disable) - `copd`
 - Rubocop (enable) - `cope`
+- Rubocop (todo) - `copt`
 - Ruby At Exit (multiple line) - `aexitm`
 - Ruby At Exit (single line) - `aexit`
 - Ruby Attribute (accessor) - `ata`
@@ -296,6 +297,13 @@ the trigger to activate the snippet.
 - Ruby Define Singleton Method (multiple line) - `dsmm`
 - Ruby Define Singleton Method (single line) - `dsm`
 - Ruby Delegate - `delegate`
+- Ruby Dry Validation - Contract - `dvc`
+- Ruby Dry Validation - JSON - `dvj`
+- Ruby Dry Validation - Optional - `dvo`
+- Ruby Dry Validation - Params - `dvp`
+- Ruby Dry Validation - Required - `dvr`
+- Ruby Dry Validation - Rule - `dvu`
+- Ruby Dry Validation - Schema - `dvs`
 - Ruby Each (multiple line) - `eachm`
 - Ruby Each (single line) - `each`
 - Ruby Encoding - `encode`
@@ -321,8 +329,8 @@ the trigger to activate the snippet.
 - Ruby Loop (multiple line) - `loopm`
 - Ruby Loop (single line) - `loop`
 - Ruby Map (multiple line) - `mapm`
-- Ruby Map (single line) - `map`
 - Ruby Map (single line) - `tap`
+- Ruby Map (single line) - `map`
 - Ruby Method - `met`
 - Ruby Method Proc - `metp`
 - Ruby Module - `mod`

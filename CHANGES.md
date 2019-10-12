@@ -1,3 +1,12 @@
+# 12.1.0 (2019-10-12)
+
+- Fixed README keyboard shortcut indentation.
+- Added Dockerfile syntax highlighting extension.
+- Added Rubocop todo snippet.
+- Added Ruby Dry Validation snippets.
+- Updated to Rake 13.0.0.
+- Updated to Ruby 2.6.5.
+
 # 12.0.0 (2019-09-01)
 
 - Added Package Resource Viewer package.

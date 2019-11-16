@@ -6,9 +6,9 @@
 
 [![Circle CI Status](https://circleci.com/gh/bkuhlmann/sublime_text_setup.svg?style=svg)](https://circleci.com/gh/bkuhlmann/sublime_text_setup)
 
-Shell scripts for applying custom settings, key bindings, extension preferences, code snippets, etc.
-When combined with [Dropbox](https://www.dropbox.com) these settings can be used across multiple
-machines.
+Shell scripts for managing settings, key bindings, extensions, code snippets, etc. When combined
+with synchornizers, like [Dropbox](https://www.dropbox.com), these settings can be used across
+multiple machines.
 
 <!-- Tocer[start]: Auto-generated, don't remove. -->
 

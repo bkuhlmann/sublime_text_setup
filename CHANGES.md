@@ -1,3 +1,10 @@
+# 12.2.0 (2020-01-01)
+
+- Updated preferences.
+- Updated project summary.
+- Updated to Ruby 2.7.0.
+- Removed unnecessary Bash script documentation.
+
 # 12.1.0 (2019-10-12)
 
 - Fixed README keyboard shortcut indentation.

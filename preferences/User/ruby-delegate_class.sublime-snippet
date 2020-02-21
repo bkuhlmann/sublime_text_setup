@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+require "delegate"
+
+class ${1:Class} < DelegateClass(${2:Super})
+  $3
+end
+]]>
+  </content>
+  <tabTrigger>delc</tabTrigger>
+  <description>Ruby Delegate (class)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[delegate %i[$1] => :$2]]></content>
-  <tabTrigger>delegate</tabTrigger>
+  <tabTrigger>dele</tabTrigger>
   <description>Ruby Delegate</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

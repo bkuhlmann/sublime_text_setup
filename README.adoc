@@ -35,7 +35,7 @@ Current Version (stable)
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 12.2.0
+git checkout 13.0.0
 ----
 
 Master Version (unstable)
@@ -125,8 +125,8 @@ the trigger to activate the snippet.
 * Elm Function (Anonymous) - `fna`
 * Elm HTML Aside - `aside`
 * Elm HTML Div - `div`
-* Elm HTML Header - `header`
 * Elm HTML Header - `footer`
+* Elm HTML Header - `header`
 * Elm HTML Node - `nd`
 * Elm HTML Section - `section`
 * Elm If - `if`
@@ -174,8 +174,8 @@ the trigger to activate the snippet.
 * JavaScript Function (anonymous) - `fna`
 * JavaScript Function (async) - `afn`
 * JavaScript Port (Elm) - `port`
-* JavaScript Setter - `getter`
 * JavaScript Setter - `setter`
+* JavaScript Setter - `getter`
 * JavaScript Switch - `switch`
 * JavaScript Then - `then`
 * JavaScript Try - `try`
@@ -288,7 +288,9 @@ the trigger to activate the snippet.
 * Ruby Define Method (single line) - `dm`
 * Ruby Define Singleton Method (multiple line) - `dsmm`
 * Ruby Define Singleton Method (single line) - `dsm`
-* Ruby Delegate - `delegate`
+* Ruby Delegate - `dele`
+* Ruby Delegate (class) - `delc`
+* Ruby Delegate (simple) - `dels`
 * Ruby Dry Validation - Contract - `dvc`
 * Ruby Dry Validation - JSON - `dvj`
 * Ruby Dry Validation - Optional - `dvo`
@@ -321,8 +323,8 @@ the trigger to activate the snippet.
 * Ruby Loop (multiple line) - `loopm`
 * Ruby Loop (single line) - `loop`
 * Ruby Map (multiple line) - `mapm`
-* Ruby Map (single line) - `tap`
 * Ruby Map (single line) - `map`
+* Ruby Map (single line) - `tap`
 * Ruby Method - `met`
 * Ruby Method Proc - `metp`
 * Ruby Module - `mod`

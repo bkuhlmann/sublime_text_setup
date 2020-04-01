@@ -1,5 +1,19 @@
 = Changes
 
+== 13.0.0 (2020-04-01)
+
+* Added ASCII Doctor syntax highligher package
+* Added Ruby simple and class delegation snippets
+* Updated Circle CI build label
+* Updated Ruby delegate snippet to only use four characters
+* Updated documentation to ASCII Doc format
+* Updated preferences
+* Updated to Code of Conduct 2.0.0
+* Updated to Git Cop 4.0.0
+* Updated to Ruby 2.7.1
+* Removed Color Highlighter package
+* Removed README images
+
 == 12.2.0 (2020-01-01)
 
 * Updated preferences.

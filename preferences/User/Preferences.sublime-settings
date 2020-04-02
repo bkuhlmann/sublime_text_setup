@@ -1,6 +1,7 @@
 {
 	"binary_file_patterns":
 	[
+		"build",
 		"tmp/*",
 		"vendor/*"
 	],
@@ -20,8 +21,9 @@
 	"folder_exclude_patterns":
 	[
 		".git",
-		"elm-stuff",
+		".sass-cache",
 		"coverage",
+		"elm-stuff",
 		"node_modules",
 		"public/assets",
 		"public/packs",

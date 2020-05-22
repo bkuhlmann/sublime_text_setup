@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[
-proc do |$1|
+proc do $1
   $2
 end
 ]]>

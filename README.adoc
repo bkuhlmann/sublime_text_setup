@@ -35,7 +35,7 @@ Current Version (stable)
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 13.0.0
+git checkout 14.0.0
 ----
 
 Master Version (unstable)
@@ -223,6 +223,7 @@ the trigger to activate the snippet.
 * RSpec Expect - Yield Successive Args - `xys`
 * RSpec Expect - Yield With Args - `xya`
 * RSpec Feature - `feature`
+* RSpec Helper - `rsh`
 * RSpec Include Context - `inc`
 * RSpec Include Examples - `ine`
 * RSpec Instance Double - `idouble`
@@ -248,8 +249,6 @@ the trigger to activate the snippet.
 * RSpec Skip (single line) - `skip`
 * RSpec Subject (multiple line) - `subjectm`
 * RSpec Subject (single line) - `subject`
-* RSpec Template (Rails Helper) - `rtr`
-* RSpec Template (Spec Helper) - `rts`
 * Rails Controller - `controller`
 * Rails Enum - `enum`
 * Rails Find Each - `finde`

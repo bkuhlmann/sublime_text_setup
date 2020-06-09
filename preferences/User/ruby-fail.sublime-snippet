@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[fail ${1:StandardError}]]></content>
+  <tabTrigger>fail</tabTrigger>
+  <description>Ruby Fail</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

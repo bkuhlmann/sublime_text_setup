@@ -1,8 +1,6 @@
 <snippet>
   <content>
 <![CDATA[
-# frozen_string_literal: true
-
 class $1
   def initialize application
     @application = application

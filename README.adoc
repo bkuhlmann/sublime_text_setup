@@ -23,7 +23,7 @@ toc::[]
 
 == Requirements
 
-. http://www.sublimetext.com[Sublime Text 3]
+. link:http://www.sublimetext.com[Sublime Text]
 
 == Setup
 

@@ -1,14 +1,23 @@
 = Changes
 
+== 14.1.0 (2020-07-13)
+
+* Fixed project requirements
+* Added Ruby fail snippet
+* Updated GitHub templates
+* Updated to Git Lint 1.0.0
+* Removed frozen string literal from rack middleware snippet
+* Refactored Rakefile requirements
+
 == 14.0.0 (2020-05-25)
 
-- Added RSpec helper snippet
-- Added user preference directory filtering
-- Updated Bundler inline snippet to ignore Bundler version
-- Updated README credit URL
-- Removed RSpec spec and rails helper snippets
-- Removed file icon as an ignored package
-- Removed manditory block argument from proc snippets
+* Added RSpec helper snippet
+* Added user preference directory filtering
+* Updated Bundler inline snippet to ignore Bundler version
+* Updated README credit URL
+* Removed RSpec spec and rails helper snippets
+* Removed file icon as an ignored package
+* Removed manditory block argument from proc snippets
 
 == 13.0.0 (2020-04-01)
 

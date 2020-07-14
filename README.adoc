@@ -35,7 +35,7 @@ Current Version (stable)
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 14.0.0
+git checkout 14.1.0
 ----
 
 Master Version (unstable)
@@ -174,8 +174,8 @@ the trigger to activate the snippet.
 * JavaScript Function (anonymous) - `fna`
 * JavaScript Function (async) - `afn`
 * JavaScript Port (Elm) - `port`
-* JavaScript Setter - `setter`
 * JavaScript Setter - `getter`
+* JavaScript Setter - `setter`
 * JavaScript Switch - `switch`
 * JavaScript Then - `then`
 * JavaScript Try - `try`
@@ -300,6 +300,7 @@ the trigger to activate the snippet.
 * Ruby Each (multiple line) - `eachm`
 * Ruby Each (single line) - `each`
 * Ruby Encoding - `encode`
+* Ruby Fail - `fail`
 * Ruby Fail - Not Implemented - `failn`
 * Ruby Fetch (multiple line) - `fetchm`
 * Ruby Fetch (single line) - `fetch`

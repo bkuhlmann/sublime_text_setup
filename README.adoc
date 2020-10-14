@@ -27,9 +27,7 @@ toc::[]
 
 == Setup
 
-Open a terminal window and execute the following commands:
-
-Current Version (stable)
+To install, run:
 
 [source,bash]
 ----
@@ -37,23 +35,6 @@ git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
 git checkout 14.1.0
 ----
-
-Master Version (unstable)
-
-[source,bash]
-----
-git clone https://github.com/bkuhlmann/sublime_text_setup.git
-cd sublime_text_setup
-----
-
-Modify all files in the preferences/User folder as you see fit.
-
-For additional setup/support, the following projects might be of interest as well:
-
-* link:https://www.alchemists.io/projects/mac_os[macOS] - Shell scripts for automated OSX machine
-  setup (includes installation of Sublime Text Extensions).
-* link:https://www.alchemists.io/projects/sublime_text_setup_kit[Sublime Text Kit] - Command line
-  utilities (Ruby Gem) for managing Sublime Text.
 
 == Usage
 
@@ -70,6 +51,17 @@ install to fix the symbolic link._
 
 Alternatively, the install can be skipped and content can be pilfered from the files located in the
 `preferences/User` folder of this project instead.
+
+=== Customization
+
+Modify all files in the preferences/User folder as you see fit.
+
+For additional setup/support, the following projects might be of interest as well:
+
+* link:https://www.alchemists.io/projects/mac_os[macOS] - Shell scripts for automated OSX machine
+  setup (includes installation of Sublime Text Extensions).
+* link:https://www.alchemists.io/projects/sublime_text_setup_kit[Sublime Text Kit] - Command line
+  utilities (Ruby Gem) for managing Sublime Text.
 
 === Snippets
 
@@ -512,6 +504,16 @@ To see what files are being indexed:
 . Enter `sublime.log_indexing(True)` to enable.
 . Watch the log for file activity.
 . Enter `sublime.log_indexing(False)` to disable.
+
+== Development
+
+To contribute, run:
+
+[source,bash]
+----
+git clone https://github.com/bkuhlmann/sublime_text_setup.git
+cd sublime_text_setup
+----
 
 == Versioning
 

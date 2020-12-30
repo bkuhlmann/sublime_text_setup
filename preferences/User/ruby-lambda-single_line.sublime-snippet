@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[->$1 { $2 }]]></content>
+  <content><![CDATA[->($1) { $2 }]]></content>
   <tabTrigger>ld</tabTrigger>
   <description>Ruby Lambda (single line)</description>
   <scope>source.ruby</scope>

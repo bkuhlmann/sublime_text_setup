@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[File.write ${1:path}, ${2:content}]]></content>
-  <tabTrigger>filew</tabTrigger>
-  <description>Ruby File Write</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

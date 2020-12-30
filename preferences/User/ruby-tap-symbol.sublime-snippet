@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[tap(&:$1)]]></content>
+  <tabTrigger>tps</tabTrigger>
+  <description>Ruby Tap (symbol-to-proc)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

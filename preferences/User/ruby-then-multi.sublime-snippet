@@ -6,7 +6,7 @@ then do |$1|
 end
 ]]>
   </content>
-  <tabTrigger>thenm</tabTrigger>
-  <description>Ruby Then (multiple line)</description>
+  <tabTrigger>tnm</tabTrigger>
+  <description>Ruby Then (multi)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[then(&:$1)]]></content>
+  <tabTrigger>tns</tabTrigger>
+  <description>Ruby Then (symbol-to-proc)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

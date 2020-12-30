@@ -1,11 +1,38 @@
 = Changes
 
+== 15.0.0 (2020-12-30)
+
+* Fixed Circle CI configuration for Bundler config path - Brooke Kuhlmann
+* Added Circle CI explicit Bundle install configuration - Brooke Kuhlmann
+* Added Ruby closure snippets - Brooke Kuhlmann
+* Added Ruby tap empty snippet - Brooke Kuhlmann
+* Added Ruby tap symbol-to-proc snippet - Brooke Kuhlmann
+* Updated Ruby lambda snippets to always require an argument - Brooke Kuhlmann
+* Updated Ruby tap macros - Brooke Kuhlmann
+* Updated Ruby then snippets - Brooke Kuhlmann
+* Updated to Git Lint 2.0.0 - Brooke Kuhlmann
+* Updated to Ruby 3.0.0 - Brooke Kuhlmann
+* Removed Ruby at exit snippets - Brooke Kuhlmann
+* Removed Ruby define method snippets - Brooke Kuhlmann
+* Removed Ruby each snippets - Brooke Kuhlmann
+* Removed Ruby file read and write snippets - Brooke Kuhlmann
+* Removed Ruby find snippets - Brooke Kuhlmann
+* Removed Ruby hash default proc snippets - Brooke Kuhlmann
+* Removed Ruby loop snippets - Brooke Kuhlmann
+* Removed Ruby map snippets - Brooke Kuhlmann
+* Removed Ruby method snippets - Brooke Kuhlmann
+* Removed Ruby reject snippets - Brooke Kuhlmann
+* Removed Ruby select snippets - Brooke Kuhlmann
+* Removed Ruby split snippets - Brooke Kuhlmann
+* Removed Ruby times snippets - Brooke Kuhlmann
+* Removed frozen string literal from Bundler Inline snippet - Brooke Kuhlmann
+
 == 14.2.0 (2020-11-14)
 
-- Added Emmet preferences
-- Updated project documentation to conform to Rubysmith template
-- Updated to Git Lint 1.3.0
-- Updated to Ruby 2.7.2
+* Added Emmet preferences
+* Updated project documentation to conform to Rubysmith template
+* Updated to Git Lint 1.3.0
+* Updated to Ruby 2.7.2
 
 == 14.1.0 (2020-07-13)
 

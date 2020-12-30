@@ -33,7 +33,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 14.2.0
+git checkout 15.0.0
 ----
 
 == Usage
@@ -117,8 +117,8 @@ the trigger to activate the snippet.
 * Elm Function (Anonymous) - `fna`
 * Elm HTML Aside - `aside`
 * Elm HTML Div - `div`
-* Elm HTML Header - `footer`
 * Elm HTML Header - `header`
+* Elm HTML Header - `footer`
 * Elm HTML Node - `nd`
 * Elm HTML Section - `section`
 * Elm If - `if`
@@ -264,8 +264,6 @@ the trigger to activate the snippet.
 * Rubocop (disable) - `copd`
 * Rubocop (enable) - `cope`
 * Rubocop (todo) - `copt`
-* Ruby At Exit (multiple line) - `aexitm`
-* Ruby At Exit (single line) - `aexit`
 * Ruby Attribute (accessor) - `ata`
 * Ruby Attribute (reader) - `atr`
 * Ruby Attribute (writer) - `atw`
@@ -274,11 +272,11 @@ the trigger to activate the snippet.
 * Ruby Case - `case`
 * Ruby Class - `class`
 * Ruby Class (anonymous) - `classa`
+* Ruby Closure (argument) - `ca`
+* Ruby Closure (empty) - `ce`
+* Ruby Closure (multi) - `cm`
+* Ruby Closure (symbol-to-proc) - `cs`
 * Ruby Curry - `cur`
-* Ruby Define Method (multiple line) - `dmm`
-* Ruby Define Method (single line) - `dm`
-* Ruby Define Singleton Method (multiple line) - `dsmm`
-* Ruby Define Singleton Method (single line) - `dsm`
 * Ruby Delegate - `dele`
 * Ruby Delegate (class) - `delc`
 * Ruby Delegate (simple) - `dels`
@@ -289,21 +287,13 @@ the trigger to activate the snippet.
 * Ruby Dry Validation - Required - `dvr`
 * Ruby Dry Validation - Rule - `dvu`
 * Ruby Dry Validation - Schema - `dvs`
-* Ruby Each (multiple line) - `eachm`
-* Ruby Each (single line) - `each`
 * Ruby Encoding - `encode`
 * Ruby Fail - `fail`
 * Ruby Fail - Not Implemented - `failn`
 * Ruby Fetch (multiple line) - `fetchm`
 * Ruby Fetch (single line) - `fetch`
-* Ruby File Read - `filer`
-* Ruby File Write - `filew`
-* Ruby Find (multiple line) - `findm`
-* Ruby Find (single line) - `find`
 * Ruby Forwardable - `forward`
 * Ruby Frozen String Literals - `fsl`
-* Ruby Hash - Default Proc (multiple line) - `hashdm`
-* Ruby Hash - Default Proc (single line) - `hashd`
 * Ruby Heredoc - `doc`
 * Ruby If (multiple line) - `ifm`
 * Ruby Initialize - `init`
@@ -312,13 +302,6 @@ the trigger to activate the snippet.
 * Ruby Lambda (multiple line) - `ldm`
 * Ruby Lambda (single line) - `ld`
 * Ruby Log - `log`
-* Ruby Loop (multiple line) - `loopm`
-* Ruby Loop (single line) - `loop`
-* Ruby Map (multiple line) - `mapm`
-* Ruby Map (single line) - `map`
-* Ruby Map (single line) - `tap`
-* Ruby Method - `met`
-* Ruby Method Proc - `metp`
 * Ruby Module - `mod`
 * Ruby Namespace - `namespace`
 * Ruby Proc (multiple line) - `procm`
@@ -327,27 +310,22 @@ the trigger to activate the snippet.
 * Ruby Reduce (single line) - `reduce`
 * Ruby Refine - `refine`
 * Ruby Regex (multiple line) - `regexm`
-* Ruby Reject (multiple line) - `rejectm`
-* Ruby Reject (single line) - `reject`
 * Ruby Script Header - `head`
-* Ruby Select (multiple line) - `selectm`
-* Ruby Select (single line) - `select`
 * Ruby Self Method - `sef`
 * Ruby Shortcut (multiple line) - `scm`
 * Ruby Shortcut (single line) - `sc`
-* Ruby Split (multiple line) - `splitm`
-* Ruby Split (single line) - `split`
 * Ruby Struct (initialize) - `sinit`
 * Ruby Struct (multiple line) - `structm`
 * Ruby Struct (single line) - `struct`
 * Ruby Struct Instance Assign - `sia`
 * Ruby Sum - `sum`
-* Ruby Tap (multiple line) - `tapm`
-* Ruby Then (multiple line) - `thenm`
-* Ruby Then (proc) - `thenp`
-* Ruby Then (single line) - `then`
-* Ruby Times (multiple line) - `timesm`
-* Ruby Times (single line) - `times`
+* Ruby Tap (argument) - `tpa`
+* Ruby Tap (empty) - `tpe`
+* Ruby Tap (multiple line) - `tpm`
+* Ruby Tap (symbol-to-proc) - `tps`
+* Ruby Then (arguments) - `tna`
+* Ruby Then (multi) - `tnm`
+* Ruby Then (symbol-to-proc) - `tns`
 * Ruby Trap (multiple line) - `trapm`
 * Ruby Trap (single line) - `trap`
 * Ruby With Object (multiple line) - `withm`

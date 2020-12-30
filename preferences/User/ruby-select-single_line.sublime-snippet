@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[select { |$1| $2 }]]></content>
-  <tabTrigger>select</tabTrigger>
-  <description>Ruby Select (single line)</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

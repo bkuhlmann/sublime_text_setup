@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[at_exit { $1 }]]></content>
-  <tabTrigger>aexit</tabTrigger>
-  <description>Ruby At Exit (single line)</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

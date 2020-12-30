@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[method(:${1:name})]]></content>
-  <tabTrigger>met</tabTrigger>
-  <description>Ruby Method</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

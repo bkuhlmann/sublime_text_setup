@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[&method(:${1:name})]]></content>
-  <tabTrigger>metp</tabTrigger>
-  <description>Ruby Method Proc</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

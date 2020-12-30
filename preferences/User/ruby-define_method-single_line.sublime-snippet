@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[define_method(:${1:name}) { $3 }]]></content>
-  <tabTrigger>dm</tabTrigger>
-  <description>Ruby Define Method (single line)</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

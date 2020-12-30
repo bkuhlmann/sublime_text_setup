@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[define_singleton_method(:${1:name}) { $3 }]]></content>
-  <tabTrigger>dsm</tabTrigger>
-  <description>Ruby Define Singleton Method (single line)</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

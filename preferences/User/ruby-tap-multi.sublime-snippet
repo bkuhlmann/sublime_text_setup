@@ -6,7 +6,7 @@ tap do |$1|
 end
 ]]>
   </content>
-  <tabTrigger>tapm</tabTrigger>
+  <tabTrigger>tpm</tabTrigger>
   <description>Ruby Tap (multiple line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

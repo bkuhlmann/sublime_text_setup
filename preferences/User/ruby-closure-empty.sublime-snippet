@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{ $1 }]]></content>
+  <tabTrigger>ce</tabTrigger>
+  <description>Ruby Closure (empty)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

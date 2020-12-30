@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{ |$1| $2 }]]></content>
+  <tabTrigger>ca</tabTrigger>
+  <description>Ruby Closure (argument)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

@@ -1,6 +1,5 @@
 #! /usr/bin/env bash
 
-# DESCRIPTION
 # Defines command line prompt options.
 
 # Process option selection.
@@ -9,8 +8,10 @@
 process_option() {
   case $1 in
     'i')
+      link_executable
       install_preferences;;
     'l')
+      link_executable
       link_preferences;;
     'q');;
     *)

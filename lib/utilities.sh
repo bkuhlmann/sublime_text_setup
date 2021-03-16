@@ -1,7 +1,14 @@
 #! /usr/bin/env bash
 
-# DESCRIPTION
 # Defines general utility functions.
+
+# Link executable for command line usage.
+link_executable() {
+  if [ ! -e "/usr/bin/sublime" ]; then
+    sudo ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" "/usr/bin/sublime"
+  fi
+}
+export -f link_executable
 
 # Install user preferences.
 install_preferences() {

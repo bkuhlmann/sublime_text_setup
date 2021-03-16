@@ -1,20 +1,16 @@
 #! /usr/bin/env bash
 
-# DESCRIPTION
 # Executes the command line interface.
 
-# SETTINGS
 set -o nounset
 set -o errexit
 set -o pipefail
 IFS=$'\n\t'
 SUBLIME_TEXT_ROOT="$HOME/Library/Application Support/Sublime Text 3"
 
-# FUNCTIONS
 source lib/utilities.sh
 source lib/options.sh
 
-# EXECUTION
 while true; do
   if [[ $# == 0 ]]; then
     printf "\nUsage: run OPTION\n\n"

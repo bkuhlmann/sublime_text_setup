@@ -1,5 +1,13 @@
 = Changes
 
+== 15.1.0 (2021-03-15)
+
+* Added Ruby endless method snippet - Brooke Kuhlmann
+* Added executable linking - Brooke Kuhlmann
+* Updated to Circle CI 2.1.0 - Brooke Kuhlmann
+* Updated to Docker Alpine Ruby image - Brooke Kuhlmann
+* Refactored Ruby self method snippet - Brooke Kuhlmann
+
 == 15.0.0 (2020-12-30)
 
 * Fixed Circle CI configuration for Bundler config path - Brooke Kuhlmann

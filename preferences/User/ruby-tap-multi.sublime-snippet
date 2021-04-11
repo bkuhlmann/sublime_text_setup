@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>tpm</tabTrigger>
-  <description>Ruby Tap (multiple line)</description>
+  <description>Ruby Tap (multi-line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

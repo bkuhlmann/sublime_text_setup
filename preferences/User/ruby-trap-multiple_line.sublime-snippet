@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>trapm</tabTrigger>
-  <description>Ruby Trap (multiple line)</description>
+  <description>Ruby Trap (multi-line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

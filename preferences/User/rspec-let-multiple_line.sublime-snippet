@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>letm</tabTrigger>
-  <description>RSpec Let (multiple line)</description>
+  <description>RSpec Let (multi-line)</description>
   <scope>source.ruby</scope>
 </snippet>

@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>ldm</tabTrigger>
-  <description>Ruby Lambda (multiple line)</description>
+  <description>Ruby Lambda (multi-line)</description>
   <scope>source.ruby</scope>
 </snippet>

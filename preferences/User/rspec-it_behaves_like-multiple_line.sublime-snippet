@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>itlm</tabTrigger>
-  <description>RSpec It Behaves Like (multiple line)</description>
+  <description>RSpec It Behaves Like (multi-line)</description>
   <scope>source.ruby</scope>
 </snippet>

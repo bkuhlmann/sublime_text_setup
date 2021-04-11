@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>tnm</tabTrigger>
-  <description>Ruby Then (multi)</description>
+  <description>Ruby Then (multi-line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

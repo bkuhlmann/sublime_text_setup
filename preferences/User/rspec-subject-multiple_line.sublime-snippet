@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>subjectm</tabTrigger>
-  <description>RSpec Subject (multiple line)</description>
+  <description>RSpec Subject (multi-line)</description>
   <scope>source.ruby</scope>
 </snippet>

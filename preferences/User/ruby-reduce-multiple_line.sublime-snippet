@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>reducem</tabTrigger>
-  <description>Ruby Reduce (multiple line)</description>
+  <description>Ruby Reduce (multi-line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

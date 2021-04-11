@@ -7,6 +7,6 @@
 ]]>
   </content>
   <tabTrigger>scm</tabTrigger>
-  <description>Ruby Shortcut (multiple line)</description>
+  <description>Ruby Shortcut (multi-line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>fbtm</tabTrigger>
-  <description>Factory Bot Trait (multiple line)</description>
+  <description>Factory Bot Trait (multi-line)</description>
   <scope>source.ruby</scope>
 </snippet>

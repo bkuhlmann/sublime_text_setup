@@ -9,6 +9,6 @@ end
 ]]>
   </content>
   <tabTrigger>ifm</tabTrigger>
-  <description>Ruby If (multiple line)</description>
+  <description>Ruby If (multi-line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

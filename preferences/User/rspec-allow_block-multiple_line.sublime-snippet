@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>albm</tabTrigger>
-  <description>RSpec Allow Block (multiple line)</description>
+  <description>RSpec Allow Block (multi-line)</description>
   <scope>source.ruby</scope>
 </snippet>

@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>itm</tabTrigger>
-  <description>RSpec It (multiple line)</description>
+  <description>RSpec It (multi-line)</description>
   <scope>source.ruby</scope>
 </snippet>

@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>pendm</tabTrigger>
-  <description>RSpec Pending (multiple line)</description>
+  <description>RSpec Pending (multi-line)</description>
   <scope>source.ruby</scope>
 </snippet>

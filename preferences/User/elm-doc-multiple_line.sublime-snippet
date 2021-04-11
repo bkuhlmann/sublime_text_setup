@@ -9,7 +9,7 @@ $1
 ]]>
   </content>
   <tabTrigger>docm</tabTrigger>
-  <description>Elm Documentation (multiple line)</description>
+  <description>Elm Documentation (multi-line)</description>
   <scope>source.elm</scope>
 </snippet>
 

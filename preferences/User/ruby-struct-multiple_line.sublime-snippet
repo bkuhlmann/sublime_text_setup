@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>structm</tabTrigger>
-  <description>Ruby Struct (multiple line)</description>
+  <description>Ruby Struct (multi-line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

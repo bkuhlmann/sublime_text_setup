@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>procm</tabTrigger>
-  <description>Ruby Proc (multiple line)</description>
+  <description>Ruby Proc (multi-line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

@@ -7,6 +7,6 @@
 ]]>
   </content>
   <tabTrigger>regexm</tabTrigger>
-  <description>Ruby Regex (multiple line)</description>
+  <description>Ruby Regex (multi-line)</description>
   <scope>source.ruby</scope>
 </snippet>

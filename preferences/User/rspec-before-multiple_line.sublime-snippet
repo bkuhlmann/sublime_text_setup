@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>beforem</tabTrigger>
-  <description>RSpec Before (multiple line)</description>
+  <description>RSpec Before (multi-line)</description>
   <scope>source.ruby</scope>
 </snippet>

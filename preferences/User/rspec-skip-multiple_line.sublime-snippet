@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>skipm</tabTrigger>
-  <description>RSpec Skip (multiple line)</description>
+  <description>RSpec Skip (multi-line)</description>
   <scope>source.ruby</scope>
 </snippet>

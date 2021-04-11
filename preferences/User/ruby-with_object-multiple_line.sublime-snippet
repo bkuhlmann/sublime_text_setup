@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>withm</tabTrigger>
-  <description>Ruby With Object (multiple line)</description>
+  <description>Ruby With Object (multi-line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

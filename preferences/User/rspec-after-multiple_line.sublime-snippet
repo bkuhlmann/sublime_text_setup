@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>afterm</tabTrigger>
-  <description>RSpec After (multiple line)</description>
+  <description>RSpec After (multi-line)</description>
   <scope>source.ruby</scope>
 </snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+do |$1|
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>fnm</tabTrigger>
+  <description>Ruby Function (multi-line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[&:$1]]></content>
+  <tabTrigger>fns</tabTrigger>
+  <description>Ruby Function (symbol-to-proc)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

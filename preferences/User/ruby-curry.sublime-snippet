@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[method(:${1:name}).curry]]></content>
-  <tabTrigger>cur</tabTrigger>
+  <tabTrigger>cy</tabTrigger>
   <description>Ruby Curry</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

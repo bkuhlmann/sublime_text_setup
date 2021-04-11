@@ -33,7 +33,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 15.1.0
+git checkout 16.0.0
 ----
 
 == Usage
@@ -72,7 +72,7 @@ the trigger to activate the snippet.
 * Bash Settings - `bashs`
 * Benchmark IPS - `bmi`
 * Benchmark Mem - `bmm`
-* Benchmark Report (multiple line) - `reportm`
+* Benchmark Report (multi-line) - `reportm`
 * Benchmark Report (single line) - `report`
 * Bundler Gem - `bg`
 * Bundler Inline - `bi`
@@ -108,7 +108,7 @@ the trigger to activate the snippet.
 * Elm Debug (crash) - `debugc`
 * Elm Debug (log) - `debugl`
 * Elm Describe - `describe`
-* Elm Documentation (multiple line) - `docm`
+* Elm Documentation (multi-line) - `docm`
 * Elm Documentation (single line) - `doc`
 * Elm Fix Comment - `fix`
 * Elm Function - `fnn`
@@ -147,7 +147,7 @@ the trigger to activate the snippet.
 * Factory Bot Build - `fbb`
 * Factory Bot Build Stubbed - `fbs`
 * Factory Bot Create - `fbc`
-* Factory Bot Trait (multiple line) - `fbtm`
+* Factory Bot Trait (multi-line) - `fbtm`
 * Factory Bot Trait (single line) - `fbt`
 * Fix Comment - `fix`
 * HTML Comment - `comment`
@@ -173,11 +173,11 @@ the trigger to activate the snippet.
 * JavaScript Try - `try`
 * Memory Profiler - `mp`
 * Middleware - `mid`
-* RSpec After (multiple line) - `afterm`
+* RSpec After (multi-line) - `afterm`
 * RSpec After (single line) - `after`
 * RSpec Aggregate Failures - `ag`
 * RSpec Allow - `al`
-* RSpec Allow Block (multiple line) - `albm`
+* RSpec Allow Block (multi-line) - `albm`
 * RSpec Allow Block (single line) - `alb`
 * RSpec Allow Error - `ale`
 * RSpec Allow Original - `alo`
@@ -191,7 +191,7 @@ the trigger to activate the snippet.
 * RSpec Allow With Yield - `alwy`
 * RSpec Allow Yield - `aly`
 * RSpec Around - `around`
-* RSpec Before (multiple line) - `beforem`
+* RSpec Before (multi-line) - `beforem`
 * RSpec Before (single line) - `before`
 * RSpec Class Double - `cdouble`
 * RSpec Class Spy - `cspy`
@@ -221,25 +221,25 @@ the trigger to activate the snippet.
 * RSpec Instance Double - `idouble`
 * RSpec Instance Spy - `ispy`
 * RSpec It (block) - `itb`
-* RSpec It (multiple line) - `itm`
+* RSpec It (multi-line) - `itm`
 * RSpec It (single line) - `it`
-* RSpec It Behaves Like (multiple line) - `itlm`
+* RSpec It Behaves Like (multi-line) - `itlm`
 * RSpec It Behaves Like (single line) - `itl`
-* RSpec Let (multiple line) - `letm`
+* RSpec Let (multi-line) - `letm`
 * RSpec Let (single line) - `let`
 * RSpec Matcher - `matcher`
 * RSpec Matcher (argument) - `matchera`
 * RSpec Mock With Temporary Scope - `mope`
 * RSpec Object Double - `odouble`
 * RSpec Object Spy - `ospy`
-* RSpec Pending (multiple line) - `pendm`
+* RSpec Pending (multi-line) - `pendm`
 * RSpec Pending (single line) - `pend`
 * RSpec Scenario - `scenario`
 * RSpec Shared Context - `sharedc`
 * RSpec Shared Examples - `sharede`
-* RSpec Skip (multiple line) - `skipm`
+* RSpec Skip (multi-line) - `skipm`
 * RSpec Skip (single line) - `skip`
-* RSpec Subject (multiple line) - `subjectm`
+* RSpec Subject (multi-line) - `subjectm`
 * RSpec Subject (single line) - `subject`
 * Rails Controller - `controller`
 * Rails Enum - `enum`
@@ -272,11 +272,7 @@ the trigger to activate the snippet.
 * Ruby Case - `case`
 * Ruby Class - `class`
 * Ruby Class (anonymous) - `classa`
-* Ruby Closure (argument) - `ca`
-* Ruby Closure (empty) - `ce`
-* Ruby Closure (multi) - `cm`
-* Ruby Closure (symbol-to-proc) - `cs`
-* Ruby Curry - `cur`
+* Ruby Curry - `cy`
 * Ruby Delegate - `dele`
 * Ruby Delegate (class) - `delc`
 * Ruby Delegate (simple) - `dels`
@@ -288,47 +284,52 @@ the trigger to activate the snippet.
 * Ruby Dry Validation - Rule - `dvu`
 * Ruby Dry Validation - Schema - `dvs`
 * Ruby Encoding - `encode`
+* Ruby Endless Method - `dee`
 * Ruby Fail - `fail`
 * Ruby Fail - Not Implemented - `failn`
-* Ruby Fetch (multiple line) - `fetchm`
+* Ruby Fetch (multi-line) - `fetchm`
 * Ruby Fetch (single line) - `fetch`
 * Ruby Forwardable - `forward`
 * Ruby Frozen String Literals - `fsl`
+* Ruby Function (argument) - `fna`
+* Ruby Function (empty) - `fne`
+* Ruby Function (multi-line) - `fnm`
+* Ruby Function (symbol-to-proc) - `fns`
 * Ruby Heredoc - `doc`
-* Ruby If (multiple line) - `ifm`
+* Ruby If (multi-line) - `ifm`
 * Ruby Initialize - `init`
 * Ruby Initialize (body) - `initb`
 * Ruby Instance Assign - `ia`
-* Ruby Lambda (multiple line) - `ldm`
+* Ruby Lambda (multi-line) - `ldm`
 * Ruby Lambda (single line) - `ld`
 * Ruby Log - `log`
 * Ruby Module - `mod`
 * Ruby Namespace - `namespace`
-* Ruby Proc (multiple line) - `procm`
+* Ruby Proc (multi-line) - `procm`
 * Ruby Proc (single line) - `proc`
-* Ruby Reduce (multiple line) - `reducem`
+* Ruby Reduce (multi-line) - `reducem`
 * Ruby Reduce (single line) - `reduce`
 * Ruby Refine - `refine`
-* Ruby Regex (multiple line) - `regexm`
+* Ruby Regex (multi-line) - `rxm`
 * Ruby Script Header - `head`
 * Ruby Self Method - `sef`
-* Ruby Shortcut (multiple line) - `scm`
+* Ruby Shortcut (multi-line) - `scm`
 * Ruby Shortcut (single line) - `sc`
 * Ruby Struct (initialize) - `sinit`
-* Ruby Struct (multiple line) - `structm`
+* Ruby Struct (multi-line) - `structm`
 * Ruby Struct (single line) - `struct`
 * Ruby Struct Instance Assign - `sia`
 * Ruby Sum - `sum`
 * Ruby Tap (argument) - `tpa`
 * Ruby Tap (empty) - `tpe`
-* Ruby Tap (multiple line) - `tpm`
+* Ruby Tap (multi-line) - `tpm`
 * Ruby Tap (symbol-to-proc) - `tps`
 * Ruby Then (arguments) - `tna`
-* Ruby Then (multi) - `tnm`
+* Ruby Then (multi-line) - `tnm`
 * Ruby Then (symbol-to-proc) - `tns`
-* Ruby Trap (multiple line) - `trapm`
+* Ruby Trap (multi-line) - `trapm`
 * Ruby Trap (single line) - `trap`
-* Ruby With Object (multiple line) - `withm`
+* Ruby With Object (multi-line) - `withm`
 * Ruby With Object (single line) - `with`
 * Rust Function - `fn`
 * SCSS Image URL (Rails Asset Path) - `imgu`

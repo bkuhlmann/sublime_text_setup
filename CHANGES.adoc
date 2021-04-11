@@ -1,5 +1,15 @@
 = Changes
 
+== 16.0.0 (2021-04-11)
+
+* Fixed Sublime Text CLI symbolic link - Brooke Kuhlmann
+* Fixed multi-line snippet descriptions - Brooke Kuhlmann
+* Added Ruby function snippets - Brooke Kuhlmann
+* Updated Ruby curry snippet macro to use shorter macro - Brooke Kuhlmann
+* Updated Ruby regular expression snippet to use shorter macro - Brooke Kuhlmann
+* Updated to Ruby 3.0.1 - Brooke Kuhlmann
+* Removed Ruby closure snippets - Brooke Kuhlmann
+
 == 15.1.0 (2021-03-15)
 
 * Added Ruby endless method snippet - Brooke Kuhlmann

@@ -6,7 +6,7 @@
 /x
 ]]>
   </content>
-  <tabTrigger>regexm</tabTrigger>
+  <tabTrigger>rxm</tabTrigger>
   <description>Ruby Regex (multi-line)</description>
   <scope>source.ruby</scope>
 </snippet>

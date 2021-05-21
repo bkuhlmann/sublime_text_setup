@@ -32,6 +32,13 @@
 	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"ignored_snippets": [
+		"CSS/*",
+		"Elm/*",
+		"JavaScript/*",
+		"Ruby/*",
+		"Shell/*"
+	],
 	"ignored_packages":
 	[
 	],
@@ -43,7 +50,7 @@
 	"margin": 2,
 	"new_window_settings":
 	{
-		"show_minimap": false
+		"show_minimap": false,
 	},
 	"rulers":
 	[
@@ -54,5 +61,5 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
-	"word_wrap": false
+	"word_wrap": false,
 }

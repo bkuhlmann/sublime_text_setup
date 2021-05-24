@@ -8,7 +8,7 @@
 image::https://circleci.com/gh/bkuhlmann/sublime_text_setup.svg?style=svg[Circle CI Status]
 
 Shell scripts for managing settings, key bindings, extensions, code snippets, etc. When combined
-with synchornizers, like https://www.dropbox.com[Dropbox], these settings can be used across
+with synchronizers, like link:https://www.dropbox.com[Dropbox], these settings can be used across
 multiple machines.
 
 toc::[]
@@ -38,19 +38,23 @@ git checkout 16.0.0
 
 == Usage
 
-Type the following from the command line to install:
+Start by installing link:https://packagecontrol.io[Package Control] if you haven't already. The
+quick steps are:
+
+1. Open the command palette via `COMMAND + SHIFT + p`.
+2. Type `Install Package Control` and press `ENTER` to install.
+
+Now you can switch to your terminal and type the following install:
 
 [source,bash]
 ----
 bin/run
 ----
 
-_The install assumes this GitHub project will be kept locally since the Sublime Text `Users`
-folder will be symbolically linked to this project. Should this project be relocated, re-run the
-install to fix the symbolic link._
-
-Alternatively, the install can be skipped and content can be pilfered from the files located in the
-`preferences/User` folder of this project instead.
+_The install assumes this GitHub project will be kept locally since the Sublime Text `Users` folder
+will be symbolically linked to this project. Should this project be relocated, re-run the install to
+fix the symbolic link._ Alternatively, the install can be skipped and content can be pilfered from
+the files located in the `preferences/User` folder of this project instead.
 
 === Customization
 
@@ -58,7 +62,7 @@ Modify all files in the preferences/User folder as you see fit.
 
 For additional setup/support, the following projects might be of interest as well:
 
-* link:https://www.alchemists.io/projects/mac_os[macOS] - Shell scripts for automated OSX machine
+* link:https://www.alchemists.io/projects/mac_os[macOS] - Shell scripts for automated macOS machine
   setup (includes installation of Sublime Text Extensions).
 * link:https://www.alchemists.io/projects/sublime_text_setup_kit[Sublime Text Kit] - Command line
   utilities (Ruby Gem) for managing Sublime Text.
@@ -375,7 +379,7 @@ to filter further:
 ** `COMMAND+i` = Incremental file search (search panel immediately closes).
 ** `COMMAND+SHIFT+g` = Find previous occurrence of current search.
 ** `COMMAND+g` = Find next occurrence of current search.
-** `OPTION+ENTER` = Find all occurences of current search.
+** `OPTION+ENTER` = Find all occurrences of current search.
 ** `COMMAND+r` = Find file symbol/function.
 ** `COMMAND+SHIFT+f` = Project-wide search. Within the search panel, the following is also
 possible:
@@ -383,7 +387,7 @@ possible:
 *** `COMMAND+OPTION+c` = Toggle case sensitive search.
 *** `COMMAND+OPTION+w` = Toggle whole word search.
 ** `COMMAND+OPTION+r` = File find and replace.
-** `COMMAND+OPTION+g` = Find all matching occurences of what is under current cursor position.
+** `COMMAND+OPTION+g` = Find all matching occurrences of what is under current cursor position.
 * *Movement*
 ** `CONTROL+OPTION+<arrow up/down key>` = Scroll up/down by one line.
 ** `CONTROL+l` = Scroll to selection.

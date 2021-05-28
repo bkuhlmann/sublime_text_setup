@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+<![CDATA[
+case $1
+  in $2
+  else $3
+end
+]]>
+  </content>
+  <tabTrigger>ci</tabTrigger>
+  <description>Ruby Case (in)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

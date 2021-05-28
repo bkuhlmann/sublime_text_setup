@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[super(**${1:dependencies})]]></content>
+  <tabTrigger>dcs</tabTrigger>
+  <description>Ruby Dry Container - Super</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

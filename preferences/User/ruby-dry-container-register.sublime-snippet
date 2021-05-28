@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[register(:$1) { $2 }]]></content>
+  <tabTrigger>dcr</tabTrigger>
+  <description>Ruby Dry Container - Register</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

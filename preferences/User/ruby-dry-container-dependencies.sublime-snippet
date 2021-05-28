@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[**${1:dependencies}]]></content>
+  <tabTrigger>dcd</tabTrigger>
+  <description>Ruby Dry Container - Dependencies</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

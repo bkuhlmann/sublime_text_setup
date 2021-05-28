@@ -7,7 +7,7 @@ case $1
 end
 ]]>
   </content>
-  <tabTrigger>case</tabTrigger>
-  <description>Ruby Case</description>
+  <tabTrigger>cw</tabTrigger>
+  <description>Ruby Case (when)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

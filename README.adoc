@@ -33,7 +33,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 16.0.0
+git checkout 17.0.0
 ----
 
 == Usage
@@ -170,8 +170,8 @@ the trigger to activate the snippet.
 * JavaScript Function (anonymous) - `fna`
 * JavaScript Function (async) - `afn`
 * JavaScript Port (Elm) - `port`
-* JavaScript Setter - `getter`
 * JavaScript Setter - `setter`
+* JavaScript Setter - `getter`
 * JavaScript Switch - `switch`
 * JavaScript Then - `then`
 * JavaScript Try - `try`
@@ -273,13 +273,19 @@ the trigger to activate the snippet.
 * Ruby Attribute (writer) - `atw`
 * Ruby Breakpoint - `bp`
 * Ruby Breakpoint Tap - `bpt`
-* Ruby Case - `case`
+* Ruby Case (in) - `ci`
+* Ruby Case (when) - `cw`
 * Ruby Class - `class`
 * Ruby Class (anonymous) - `classa`
 * Ruby Curry - `cy`
 * Ruby Delegate - `dele`
 * Ruby Delegate (class) - `delc`
 * Ruby Delegate (simple) - `dels`
+* Ruby Dry Container - Dependencies - `dcd`
+* Ruby Dry Container - Extend - `dce`
+* Ruby Dry Container - Include - `dci`
+* Ruby Dry Container - Register - `dcr`
+* Ruby Dry Container - Super - `dcs`
 * Ruby Dry Validation - Contract - `dvc`
 * Ruby Dry Validation - JSON - `dvj`
 * Ruby Dry Validation - Optional - `dvo`
@@ -304,9 +310,11 @@ the trigger to activate the snippet.
 * Ruby Initialize - `init`
 * Ruby Initialize (body) - `initb`
 * Ruby Instance Assign - `ia`
+* Ruby Keyword - `kw`
 * Ruby Lambda (multi-line) - `ldm`
 * Ruby Lambda (single line) - `ld`
 * Ruby Log - `log`
+* Ruby Method - `def`
 * Ruby Module - `mod`
 * Ruby Namespace - `namespace`
 * Ruby Proc (multi-line) - `procm`
@@ -316,6 +324,7 @@ the trigger to activate the snippet.
 * Ruby Refine - `refine`
 * Ruby Regex (multi-line) - `rxm`
 * Ruby Script Header - `head`
+* Ruby Self Endless Method - `see`
 * Ruby Self Method - `sef`
 * Ruby Shortcut (multi-line) - `scm`
 * Ruby Shortcut (single line) - `sc`

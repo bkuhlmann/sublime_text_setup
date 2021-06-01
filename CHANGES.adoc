@@ -1,5 +1,18 @@
 = Changes
 
+== 17.0.0 (2021-06-01)
+
+* Fixed Ruby heredoc snippet to be uppercase - Brooke Kuhlmann
+* Added README package control instructions - Brooke Kuhlmann
+* Added Ruby Dry Container snippets - Brooke Kuhlmann
+* Added Ruby case pattern matching snippet - Brooke Kuhlmann
+* Added Ruby keyword snippet - Brooke Kuhlmann
+* Added Ruby method snippet - Brooke Kuhlmann
+* Added Ruby self endless method - Brooke Kuhlmann
+* Updated Ruby case branch snippet - Brooke Kuhlmann
+* Updated to 4.0.0 settings - Brooke Kuhlmann
+* Refactored JavaScript snippets to be named as such - Brooke Kuhlmann
+
 == 16.0.0 (2021-04-11)
 
 * Fixed Sublime Text CLI symbolic link - Brooke Kuhlmann

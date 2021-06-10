@@ -6,7 +6,7 @@ set -o nounset
 set -o errexit
 set -o pipefail
 IFS=$'\n\t'
-SUBLIME_TEXT_ROOT="$HOME/Library/Application Support/Sublime Text 3"
+SUBLIME_TEXT_ROOT="$HOME/Library/Application Support/Sublime Text"
 
 source lib/utilities.sh
 source lib/options.sh

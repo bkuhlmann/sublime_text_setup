@@ -1,5 +1,26 @@
 = Changes
 
+== 18.0.0 (2021-07-18)
+
+* Fixed Ruby benchmark labels - Brooke Kuhlmann
+* Fixed Ruby deprecate snippet to be warn snippet - Brooke Kuhlmann
+* Fixed Ruby memory profile snippet - Brooke Kuhlmann
+* Fixed Ruby method snippet labels - Brooke Kuhlmann
+* Fixed Ruby middleware snippet label - Brooke Kuhlmann
+* Fixed comment snippets - Brooke Kuhlmann
+* Fixed symbolic link creation to application executable - Brooke Kuhlmann
+* Added Ruby call method snippets - Brooke Kuhlmann
+* Added Ruby module function snippets - Brooke Kuhlmann
+* Added version release notes - Brooke Kuhlmann
+* Updated Ruby encoding snippet to allow modification - Brooke Kuhlmann
+* Updated to 4.0.0 user preferences - Brooke Kuhlmann
+* Updated to Ayu theme - Brooke Kuhlmann
+* Updated to Ruby 3.0.2 - Brooke Kuhlmann
+* Updated utilities script to use preferences folder - Brooke Kuhlmann
+* Removed Rails find each snippet - Brooke Kuhlmann
+* Removed preferences user folder - Brooke Kuhlmann
+* Removed version from root path - Brooke Kuhlmann
+
 == 17.0.0 (2021-06-01)
 
 * Fixed Ruby heredoc snippet to be uppercase - Brooke Kuhlmann

@@ -18,7 +18,7 @@ toc::[]
 * Applies preferences not enabled by default (see the Preferences.sublime-settings file).
 * Applies key bindings not enabled by default (see the Default (OSX).sublime-keymap file).
 * Applies extension preferences not enabled by default (see the
-  link:https://www.alchemists.io/projects/mac_os[macOS] project for details.)
+  link:https://www.alchemists.io/projects/mac_os-config[macOS Configuration] project for details.)
 * Provides tab-completion code snippets for HTML, CSS, Elm, Ruby, Rails, RSpec, Rust, etc.
 
 == Requirements
@@ -33,7 +33,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 17.0.0
+git checkout 18.0.0
 ----
 
 == Usage
@@ -51,10 +51,11 @@ Now you can switch to your terminal and type the following install:
 bin/run
 ----
 
-_The install assumes this GitHub project will be kept locally since the Sublime Text `Users` folder
-will be symbolically linked to this project. Should this project be relocated, re-run the install to
-fix the symbolic link._ Alternatively, the install can be skipped and content can be pilfered from
-the files located in the `preferences/User` folder of this project instead.
+_The install assumes this GitHub project will be kept locally since the Sublime Text
+`$HOME/Library/Application Support/Sublime Text/Packages/User` folder will be symbolically linked to
+this project. Should this project be relocated, re-run the install to fix the symbolic link._
+Alternatively, the install can be skipped and content can be pilfered from the files located in the
+`preferences` folder of this project instead.
 
 === Customization
 
@@ -74,10 +75,6 @@ the trigger to activate the snippet.
 
 * Bash Header - `bashh`
 * Bash Settings - `bashs`
-* Benchmark IPS - `bmi`
-* Benchmark Mem - `bmm`
-* Benchmark Report (multi-line) - `reportm`
-* Benchmark Report (single line) - `report`
 * Bundler Gem - `bg`
 * Bundler Inline - `bi`
 * CSS Border Radius - `br`
@@ -96,8 +93,9 @@ the trigger to activate the snippet.
 * CSS Style - `cs`
 * CSS Variable - `var`
 * CSS Variable (define) - `varc`
-* Deprecate - `deprecate`
-* Duplicate Comment - `dup`
+* Comment (TODO) - `todo`
+* Comment (duplicate) - `dup`
+* Comment (fix) - `fix`
 * ERB - `erb`
 * ERB Comment - `erbc`
 * ERB Output - `erbo`
@@ -121,8 +119,8 @@ the trigger to activate the snippet.
 * Elm Function (Anonymous) - `fna`
 * Elm HTML Aside - `aside`
 * Elm HTML Div - `div`
-* Elm HTML Header - `header`
 * Elm HTML Header - `footer`
+* Elm HTML Header - `header`
 * Elm HTML Node - `nd`
 * Elm HTML Section - `section`
 * Elm If - `if`
@@ -153,7 +151,6 @@ the trigger to activate the snippet.
 * Factory Bot Create - `fbc`
 * Factory Bot Trait (multi-line) - `fbtm`
 * Factory Bot Trait (single line) - `fbt`
-* Fix Comment - `fix`
 * HTML Comment - `comment`
 * JavaScript Catch - `catch`
 * JavaScript Console Count - `ccount`
@@ -170,13 +167,11 @@ the trigger to activate the snippet.
 * JavaScript Function (anonymous) - `fna`
 * JavaScript Function (async) - `afn`
 * JavaScript Port (Elm) - `port`
-* JavaScript Setter - `setter`
 * JavaScript Setter - `getter`
+* JavaScript Setter - `setter`
 * JavaScript Switch - `switch`
 * JavaScript Then - `then`
 * JavaScript Try - `try`
-* Memory Profiler - `mp`
-* Middleware - `mid`
 * RSpec After (multi-line) - `afterm`
 * RSpec After (single line) - `after`
 * RSpec Aggregate Failures - `ag`
@@ -247,7 +242,6 @@ the trigger to activate the snippet.
 * RSpec Subject (single line) - `subject`
 * Rails Controller - `controller`
 * Rails Enum - `enum`
-* Rails Find Each - `finde`
 * Rails Job - `job`
 * Rails Migration - `rm`
 * Rails Migration (ID) - `rmid`
@@ -271,6 +265,10 @@ the trigger to activate the snippet.
 * Ruby Attribute (accessor) - `ata`
 * Ruby Attribute (reader) - `atr`
 * Ruby Attribute (writer) - `atw`
+* Ruby Benchmark IPS - `bmi`
+* Ruby Benchmark Mem - `bmm`
+* Ruby Benchmark Report (multi-line) - `reportm`
+* Ruby Benchmark Report (single line) - `report`
 * Ruby Breakpoint - `bp`
 * Ruby Breakpoint Tap - `bpt`
 * Ruby Case (in) - `ci`
@@ -294,7 +292,6 @@ the trigger to activate the snippet.
 * Ruby Dry Validation - Rule - `dvu`
 * Ruby Dry Validation - Schema - `dvs`
 * Ruby Encoding - `encode`
-* Ruby Endless Method - `dee`
 * Ruby Fail - `fail`
 * Ruby Fail - Not Implemented - `failn`
 * Ruby Fetch (multi-line) - `fetchm`
@@ -314,8 +311,17 @@ the trigger to activate the snippet.
 * Ruby Lambda (multi-line) - `ldm`
 * Ruby Lambda (single line) - `ld`
 * Ruby Log - `log`
+* Ruby Memory Profiler - `mp`
 * Ruby Method - `def`
+* Ruby Method (call) - `cef`
+* Ruby Method (call, endless) - `cee`
+* Ruby Method (endless) - `dee`
+* Ruby Method (self) - `sef`
+* Ruby Method (self, endless) - `see`
+* Ruby Middleware - `mid`
 * Ruby Module - `mod`
+* Ruby Module (function) - `modf`
+* Ruby Module (self) - `mods`
 * Ruby Namespace - `namespace`
 * Ruby Proc (multi-line) - `procm`
 * Ruby Proc (single line) - `proc`
@@ -324,8 +330,6 @@ the trigger to activate the snippet.
 * Ruby Refine - `refine`
 * Ruby Regex (multi-line) - `rxm`
 * Ruby Script Header - `head`
-* Ruby Self Endless Method - `see`
-* Ruby Self Method - `sef`
 * Ruby Shortcut (multi-line) - `scm`
 * Ruby Shortcut (single line) - `sc`
 * Ruby Struct (initialize) - `sinit`
@@ -342,6 +346,7 @@ the trigger to activate the snippet.
 * Ruby Then (symbol-to-proc) - `tns`
 * Ruby Trap (multi-line) - `trapm`
 * Ruby Trap (single line) - `trap`
+* Ruby Warn (deprecate) - `warnd`
 * Ruby With Object (multi-line) - `withm`
 * Ruby With Object (single line) - `with`
 * Rust Function - `fn`
@@ -363,7 +368,6 @@ the trigger to activate the snippet.
 * Shell Variable Default - `vard`
 * Shell While - `while`
 * ShellCheck Disable - `scd`
-* ToDo Comment - `todo`
 
 === Keyboard Shortcuts
 

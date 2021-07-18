@@ -17,6 +17,6 @@ end
 ]]>
   </content>
   <tabTrigger>mid</tabTrigger>
-  <description>Middleware</description>
+  <description>Ruby Middleware</description>
   <scope>source.ruby</scope>
 </snippet>

@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>sef</tabTrigger>
-  <description>Ruby Self Method</description>
+  <description>Ruby Method (self)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

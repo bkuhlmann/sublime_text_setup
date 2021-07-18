@@ -3,10 +3,6 @@
 	"in_process_packages":
 	[
 	],
-	"install_prereleases":
-	[
-		"Elm Language support"
-	],
 	"installed_packages":
 	[
 		"A File Icon",
@@ -26,18 +22,13 @@
 		"DashDoc",
 		"Dockerfile Syntax Highlighting",
 		"EasyMotion",
-		"Elm Syntax Highlighting",
 		"Emmet",
-		"Gist",
-		"GitGutter",
-		"Gutter Color",
 		"HTML-CSS-JS Prettify",
 		"JSCS-Formatter",
 		"Local History",
 		"MoveTab",
 		"Package Control",
 		"PackageResourceViewer",
-		"PlasticSCM",
 		"RSpec",
 		"Ruby Slim",
 		"SCSS",
@@ -52,6 +43,6 @@
 		"Terraform",
 		"TrailingSpaces",
 		"Web Inspector",
-		"Wrap Plus"
+		"Wrap Plus",
 	],
 }

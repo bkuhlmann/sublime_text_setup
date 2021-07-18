@@ -5,26 +5,61 @@
 		"sh",
 		"zsh"
 	],
-	"HTML (Rails)":
+	/*"HTML (Rails)":
 	[
 		"html.erb"
-	],
-	/*"JSON":
-	[
-		".bowerrc",
-		".csslintrc",
-		".eslintrc",
-		".jscsrc",
-		".jshintrc",
-		"geojson"
 	],*/
-	"PHP":
+	/*"PHP":
 	[
 		"inc",
 		"php3",
 		"php4",
 		"php5",
 		"phtml"
+	],*/
+	/*"Python":
+	[
+		"py3",
+		"pyw"
+	],*/
+	/*"Ruby":
+	[
+		"jbuilder",
+		"podspec",
+		"rabl",
+		"rake",
+		"rb",
+		"simplecov",
+		"thor"
+	],*/
+	/*"Ruby Haml":
+	[
+		"haml"
+	],*/
+	/*"Shell-Unix-Generic":
+	[
+		"bash",
+		"sh",
+		"zsh"
+	],*/
+	/*"XML":
+	[
+		"xml.dist"
+	],*/
+	/*"YAML":
+	[
+		".gemrc",
+		"YAML-tmLanguage",
+		"yml",
+		"yml.dist"
+	],*/
+	/*"Ruby Slim":
+	[
+		"emblem"
+	],*/
+	"HTML (Rails)":
+	[
+		"html.erb"
 	],
 	"Python":
 	[
@@ -41,13 +76,12 @@
 		"simplecov",
 		"thor"
 	],
-	"Ruby Haml":
+	"YAML":
 	[
-		"haml"
-	],
-	"Ruby Slim":
-	[
-		"emblem"
+		".gemrc",
+		"YAML-tmLanguage",
+		"yml",
+		"yml.dist"
 	],
 	"Shell-Unix-Generic":
 	[
@@ -59,11 +93,20 @@
 	[
 		"xml.dist"
 	],
-	"YAML":
+	"PHP":
 	[
-		".gemrc",
-		"YAML-tmLanguage",
-		"yml",
-		"yml.dist"
+		"inc",
+		"php3",
+		"php4",
+		"php5",
+		"phtml"
+	],
+	"Ruby Slim":
+	[
+		"emblem"
+	],
+	"Ruby Haml":
+	[
+		"haml"
 	],
 }

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[def call$1 = $2]]></content>
+  <tabTrigger>cee</tabTrigger>
+  <description>Ruby Method (call, endless)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

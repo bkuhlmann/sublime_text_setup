@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA["[DEPRECATION]: ${1:old} is deprecated, use ${2:new} instead."]]></content>
-  <tabTrigger>deprecate</tabTrigger>
-  <description>Deprecate</description>
+  <content><![CDATA[warn "[DEPRECATION]: ${1:old} is deprecated, use ${2:new} instead."]]></content>
+  <tabTrigger>warnd</tabTrigger>
+  <description>Ruby Warn (deprecate)</description>
   <scope>source.shell, source.ruby, source.rails</scope>
 </snippet>

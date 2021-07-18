@@ -4,7 +4,7 @@
 
 # Link executable for command line usage.
 link_executable() {
-  if [ ! -e "/usr/bin/sublime" ]; then
+  if [ ! -e "/usr/local/bin/sublime" ]; then
     sudo ln -sv "$HOMEBREW_PREFIX/bin/subl" "/usr/local/bin/sublime"
   fi
 }

@@ -17,6 +17,6 @@ end
 ]]>
   </content>
   <tabTrigger>bmi</tabTrigger>
-  <description>Benchmark IPS</description>
+  <description>Ruby Benchmark IPS</description>
   <scope>source.ruby</scope>
 </snippet>

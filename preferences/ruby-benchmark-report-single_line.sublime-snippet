@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[report($1) { $2 }]]></content>
   <tabTrigger>report</tabTrigger>
-  <description>Benchmark Report (single line)</description>
+  <description>Ruby Benchmark Report (single line)</description>
   <scope>source.ruby</scope>
 </snippet>

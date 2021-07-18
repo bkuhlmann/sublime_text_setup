@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>reportm</tabTrigger>
-  <description>Benchmark Report (multi-line)</description>
+  <description>Ruby Benchmark Report (multi-line)</description>
   <scope>source.ruby</scope>
 </snippet>

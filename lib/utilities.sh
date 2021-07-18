@@ -17,7 +17,7 @@ install_preferences() {
 
   if [[ "$response" == 'y' ]]; then
     rm -rf "$SUBLIME_TEXT_ROOT/Packages/User"
-    cp -R "$PWD/preferences/User" "$SUBLIME_TEXT_ROOT/Packages"
+    cp -R "$PWD/preferences" "$SUBLIME_TEXT_ROOT/Packages/User"
     printf "Install complete, please restart Sublime Text.\n"
   else
     printf "Install aborted.\n"
@@ -32,7 +32,7 @@ link_preferences() {
 
   if [[ "$response" == 'y' ]]; then
     rm -rf "$SUBLIME_TEXT_ROOT/Packages/User"
-    ln -Fs "$PWD/preferences/User" "$SUBLIME_TEXT_ROOT/Packages"
+    ln -Fs "$PWD/preferences" "$SUBLIME_TEXT_ROOT/Packages/User"
     printf "Install complete, please restart Sublime Text.\n"
   else
     printf "Install aborted.\n"

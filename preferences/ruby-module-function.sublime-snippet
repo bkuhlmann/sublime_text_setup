@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+module ${1:Name}
+  module_function
+
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>modf</tabTrigger>
+  <description>Ruby Module (function)</description>
+  <scope>source.ruby</scope>
+</snippet>

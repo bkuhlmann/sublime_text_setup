@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+module ${1:Name}
+  extend self
+
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>mods</tabTrigger>
+  <description>Ruby Module (self)</description>
+  <scope>source.ruby</scope>
+</snippet>

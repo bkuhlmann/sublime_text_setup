@@ -9,6 +9,6 @@ ${1:report}.pretty_print to_file: %(${3:memory}-#{Time.now.strftime "%Y-%m-%d_%H
 ]]>
   </content>
   <tabTrigger>mp</tabTrigger>
-  <description>Memory Profiler</description>
+  <description>Ruby Memory Profiler</description>
   <scope>source.ruby</scope>
 </snippet>

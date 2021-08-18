@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+with_index${1:(${2:1})}.reduce $3 do |${4:accumulator}, (${5:item}, index)|
+  $6
+end
+]]>
+  </content>
+  <tabTrigger>reducei</tabTrigger>
+  <description>Ruby Reduce (with index)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

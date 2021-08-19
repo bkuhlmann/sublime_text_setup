@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[
-with_object $1 do |${2:item}, ${3:object}|
+with_object $1 do |${2:item}, ${3:accumulator}|
   $4
 end
 ]]>

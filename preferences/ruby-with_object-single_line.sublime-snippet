@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[with_object($1) { |${2:item}, ${3:object}| $4 }]]></content>
+  <content><![CDATA[with_object($1) { |${2:item}, ${3:accumulator}| $4 }]]></content>
   <tabTrigger>with</tabTrigger>
   <description>Ruby With Object (single line)</description>
   <scope>source.ruby, source.rails</scope>

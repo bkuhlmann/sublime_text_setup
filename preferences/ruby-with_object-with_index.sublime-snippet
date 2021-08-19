@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+with_index${1:(${2:1})}.with_object $3 do |(${4:item}, index), ${5:accumulator}|
+  $6
+end
+]]>
+  </content>
+  <tabTrigger>withi</tabTrigger>
+  <description>Ruby With Object (with index)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

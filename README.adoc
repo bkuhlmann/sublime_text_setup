@@ -7,9 +7,11 @@
 [link=https://circleci.com/gh/bkuhlmann/sublime_text_setup]
 image::https://circleci.com/gh/bkuhlmann/sublime_text_setup.svg?style=svg[Circle CI Status]
 
-Shell scripts for managing settings, key bindings, extensions, code snippets, etc. When combined
-with synchronizers, like link:https://www.dropbox.com[Dropbox], these settings can be used across
-multiple machines.
+Shell scripts for managing and sharing link:http://www.sublimetext.com[Sublime Text] settings, key
+bindings, extensions, code snippets, and much more. If you are fan of Sublime Text and don't want to
+always reconfigure it when reinstalling the operating system on an existing machine or setting up a
+secondary machine, then having a project as single source of truth is a great way to reduce that
+maintenance burden while also being able to share your settings with others.
 
 toc::[]
 

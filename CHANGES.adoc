@@ -1,5 +1,12 @@
 = Changes
 
+== 18.1.0 (2021-09-05)
+
+* Added Ruby reduce with index snippet - Brooke Kuhlmann
+* Added Ruby with object index snippet - Brooke Kuhlmann
+* Updated README project description - Brooke Kuhlmann
+* Updated Ruby reducers to use accumulator for main object - Brooke Kuhlmann
+
 == 18.0.0 (2021-07-18)
 
 * Fixed Ruby benchmark labels - Brooke Kuhlmann

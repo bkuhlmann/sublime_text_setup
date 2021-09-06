@@ -35,7 +35,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 18.0.0
+git checkout 18.1.0
 ----
 
 == Usage
@@ -329,6 +329,7 @@ the trigger to activate the snippet.
 * Ruby Proc (single line) - `proc`
 * Ruby Reduce (multi-line) - `reducem`
 * Ruby Reduce (single line) - `reduce`
+* Ruby Reduce (with index) - `reducei`
 * Ruby Refine - `refine`
 * Ruby Regex (multi-line) - `rxm`
 * Ruby Script Header - `head`
@@ -351,6 +352,7 @@ the trigger to activate the snippet.
 * Ruby Warn (deprecate) - `warnd`
 * Ruby With Object (multi-line) - `withm`
 * Ruby With Object (single line) - `with`
+* Ruby With Object (with index) - `withi`
 * Rust Function - `fn`
 * SCSS Image URL (Rails Asset Path) - `imgu`
 * SCSS Include - `in`

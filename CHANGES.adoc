@@ -1,5 +1,10 @@
 = Changes
 
+== 18.2.0 (2021-10-25)
+
+* Updated breakpoint snippets to default to Debug gem syntax - Brooke Kuhlmann
+* Removed notes from pull request template - Brooke Kuhlmann
+
 == 18.1.0 (2021-09-05)
 
 * Added Ruby reduce with index snippet - Brooke Kuhlmann

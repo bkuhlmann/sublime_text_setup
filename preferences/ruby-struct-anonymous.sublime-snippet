@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Struct.new("${1:Name}", $2${3:, keyword_init: true}).new$4]]></content>
+  <tabTrigger>structa</tabTrigger>
+  <description>Ruby Struct (anonymous)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

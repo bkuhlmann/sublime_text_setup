@@ -1,0 +1,9 @@
+{
+	"clients":
+	{
+		"ruby":
+		{
+			"enabled": true
+		}
+	}
+}

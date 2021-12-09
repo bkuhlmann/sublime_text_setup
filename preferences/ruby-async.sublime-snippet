@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+Async ${1:annotation: "$2" }do |task|
+  $3
+end
+]]>
+  </content>
+  <tabTrigger>ac</tabTrigger>
+  <description>Ruby Async</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

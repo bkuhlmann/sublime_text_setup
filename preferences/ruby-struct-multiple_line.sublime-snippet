@@ -1,12 +1,12 @@
 <snippet>
   <content>
 <![CDATA[
-Struct.new $1${2:, keyword_init: true} do
-  $3
+${1:Example} = Struct.new $2${3:, keyword_init: true} do
+  $4
 end
 ]]>
   </content>
-  <tabTrigger>structm</tabTrigger>
+  <tabTrigger>sdm</tabTrigger>
   <description>Ruby Struct (multi-line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

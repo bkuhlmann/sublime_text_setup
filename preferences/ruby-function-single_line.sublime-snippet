@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[{ |$1| $2 }]]></content>
-  <tabTrigger>fna</tabTrigger>
+  <content><![CDATA[{ ${1:|$2| }$3 }]]></content>
+  <tabTrigger>fn</tabTrigger>
   <description>Ruby Function (argument)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

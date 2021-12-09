@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[{ $1 }]]></content>
-  <tabTrigger>fne</tabTrigger>
-  <description>Ruby Function (empty)</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

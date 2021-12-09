@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Struct.new(${1:"${2:Name}", }:$3${4:, keyword_init: true}).new $5]]></content>
+  <tabTrigger>sdi</tabTrigger>
+  <description>Ruby Struct (inline)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

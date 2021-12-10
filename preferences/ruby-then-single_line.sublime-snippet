@@ -1,6 +1,8 @@
 <snippet>
-  <content><![CDATA[then { |$1| $2 }]]></content>
-  <tabTrigger>tna</tabTrigger>
+  <content><![CDATA[then { ${1:|$2| }$3 }]]></content>
+  <tabTrigger>tn</tabTrigger>
   <description>Ruby Then (arguments)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>
+
+

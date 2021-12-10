@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[tap { ${1:|$2| }$3 }]]></content>
+  <tabTrigger>tp</tabTrigger>
+  <description>Ruby Tap (single line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

@@ -1,8 +1,8 @@
 <snippet>
   <content>
 <![CDATA[
-tap do |$1|
-  $2
+tap do${1: |$2|}
+  $3
 end
 ]]>
   </content>

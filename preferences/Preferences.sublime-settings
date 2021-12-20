@@ -7,7 +7,7 @@
 	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/ayu/ayu-light.sublime-color-scheme",
+	"color_scheme": "ayu-light.sublime-color-scheme",
 	"copy_with_empty_selection": false,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[require "refinements/$1"]]></content>
+  <tabTrigger>rr</tabTrigger>
+  <description>Ruby Refinements (require)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

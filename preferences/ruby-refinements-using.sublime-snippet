@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[using Refinements::$1]]></content>
+  <tabTrigger>ru</tabTrigger>
+  <description>Ruby Refinements (using)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

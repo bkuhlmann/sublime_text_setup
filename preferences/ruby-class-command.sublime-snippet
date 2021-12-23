@@ -1,0 +1,23 @@
+<snippet>
+  <content>
+<![CDATA[
+# ${1:TODO: Add description}
+class ${2:Name}
+  def initialize $3
+    $4
+  end
+
+  def call$6
+    $7
+  end
+
+  private
+
+  attr_reader :$5
+end
+]]>
+  </content>
+  <tabTrigger>cc</tabTrigger>
+  <description>Ruby Class (command)</description>
+  <scope>source.ruby</scope>
+</snippet>

@@ -6,7 +6,7 @@ Class.new${1:superclass} do
 end
 ]]>
   </content>
-  <tabTrigger>classa</tabTrigger>
+  <tabTrigger>ca</tabTrigger>
   <description>Ruby Class (anonymous)</description>
   <scope>source.ruby</scope>
 </snippet>

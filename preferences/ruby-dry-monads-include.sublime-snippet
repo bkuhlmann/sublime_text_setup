@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[include Dry::Monads[${1::result}]]]></content>
+  <tabTrigger>dmi</tabTrigger>
+  <description>Ruby Dry Monads (include)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

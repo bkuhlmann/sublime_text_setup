@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[
-$1shared_examples_for "$2"$3 do $4
+$1shared_examples "$2"$3 do $4
   $5
 end
 ]]>

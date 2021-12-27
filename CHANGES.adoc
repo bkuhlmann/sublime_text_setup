@@ -1,5 +1,34 @@
 = Changes
 
+== 19.0.0 (2021-12-27)
+
+* Fixed Ayu color scheme path - Brooke Kuhlmann
+* Fixed Hippocratic license structure - Brooke Kuhlmann
+* Fixed README changes and credits sections - Brooke Kuhlmann
+* Fixed RSpec share examples snippet syntax - Brooke Kuhlmann
+* Fixed Rubocop Bundler/OrderedGems issue - Brooke Kuhlmann
+* Fixed Ruby Struct instance variable snippet description - Brooke Kuhlmann
+* Fixed Ruby class anonymous snippet - Brooke Kuhlmann
+* Fixed contributing documentation - Brooke Kuhlmann
+* Added LSP package - Brooke Kuhlmann
+* Added README community link - Brooke Kuhlmann
+* Added Ruby Async snippets - Brooke Kuhlmann
+* Added Ruby Dry Monads snippets - Brooke Kuhlmann
+* Added Ruby Refinements snippets - Brooke Kuhlmann
+* Added Ruby class command snippet - Brooke Kuhlmann
+* Added Ruby struct (anonymous) snippet - Brooke Kuhlmann
+* Added project citation information - Brooke Kuhlmann
+* Updated GitHub issue template - Brooke Kuhlmann
+* Updated Ruby Struct single and multi-line triggers - Brooke Kuhlmann
+* Updated Ruby function single and multi-line snippets - Brooke Kuhlmann
+* Updated Ruby struct inline snippet - Brooke Kuhlmann
+* Updated Ruby tap single and multi-line snippets - Brooke Kuhlmann
+* Updated Ruby then single and multi-line snippets - Brooke Kuhlmann
+* Updated to Git Lint 3.0.0 - Brooke Kuhlmann
+* Updated to Hippocratic License 3.0.0 - Brooke Kuhlmann
+* Updated to Ruby 3.0.3 - Brooke Kuhlmann
+* Updated to Ruby 3.1.0 - Brooke Kuhlmann
+
 == 18.2.0 (2021-10-25)
 
 * Updated breakpoint snippets to default to Debug gem syntax - Brooke Kuhlmann

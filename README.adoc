@@ -35,7 +35,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 18.2.0
+git checkout 19.0.0
 ----
 
 == Usage
@@ -121,8 +121,8 @@ the trigger to activate the snippet.
 * Elm Function (Anonymous) - `fna`
 * Elm HTML Aside - `aside`
 * Elm HTML Div - `div`
-* Elm HTML Header - `footer`
 * Elm HTML Header - `header`
+* Elm HTML Header - `footer`
 * Elm HTML Node - `nd`
 * Elm HTML Section - `section`
 * Elm If - `if`
@@ -169,8 +169,8 @@ the trigger to activate the snippet.
 * JavaScript Function (anonymous) - `fna`
 * JavaScript Function (async) - `afn`
 * JavaScript Port (Elm) - `port`
-* JavaScript Setter - `getter`
 * JavaScript Setter - `setter`
+* JavaScript Setter - `getter`
 * JavaScript Switch - `switch`
 * JavaScript Then - `then`
 * JavaScript Try - `try`
@@ -264,6 +264,8 @@ the trigger to activate the snippet.
 * Rubocop (disable) - `copd`
 * Rubocop (enable) - `cope`
 * Rubocop (todo) - `copt`
+* Ruby Async - `ac`
+* Ruby Async Task - `act`
 * Ruby Attribute (accessor) - `ata`
 * Ruby Attribute (reader) - `atr`
 * Ruby Attribute (writer) - `atw`
@@ -276,7 +278,8 @@ the trigger to activate the snippet.
 * Ruby Case (in) - `ci`
 * Ruby Case (when) - `cw`
 * Ruby Class - `class`
-* Ruby Class (anonymous) - `classa`
+* Ruby Class (anonymous) - `ca`
+* Ruby Class (command) - `cc`
 * Ruby Curry - `cy`
 * Ruby Delegate - `dele`
 * Ruby Delegate (class) - `delc`
@@ -286,6 +289,7 @@ the trigger to activate the snippet.
 * Ruby Dry Container - Include - `dci`
 * Ruby Dry Container - Register - `dcr`
 * Ruby Dry Container - Super - `dcs`
+* Ruby Dry Monads (include) - `dmi`
 * Ruby Dry Validation - Contract - `dvc`
 * Ruby Dry Validation - JSON - `dvj`
 * Ruby Dry Validation - Optional - `dvo`
@@ -300,8 +304,7 @@ the trigger to activate the snippet.
 * Ruby Fetch (single line) - `fetch`
 * Ruby Forwardable - `forward`
 * Ruby Frozen String Literals - `fsl`
-* Ruby Function (argument) - `fna`
-* Ruby Function (empty) - `fne`
+* Ruby Function (argument) - `fn`
 * Ruby Function (multi-line) - `fnm`
 * Ruby Function (symbol-to-proc) - `fns`
 * Ruby Heredoc - `doc`
@@ -331,20 +334,22 @@ the trigger to activate the snippet.
 * Ruby Reduce (single line) - `reduce`
 * Ruby Reduce (with index) - `reducei`
 * Ruby Refine - `refine`
+* Ruby Refinements (require) - `rr`
+* Ruby Refinements (using) - `ru`
 * Ruby Regex (multi-line) - `rxm`
 * Ruby Script Header - `head`
 * Ruby Shortcut (multi-line) - `scm`
 * Ruby Shortcut (single line) - `sc`
 * Ruby Struct (initialize) - `sinit`
-* Ruby Struct (multi-line) - `structm`
-* Ruby Struct (single line) - `struct`
-* Ruby Struct Instance Assign - `sia`
+* Ruby Struct (inline) - `sdi`
+* Ruby Struct (instance assign) - `sia`
+* Ruby Struct (multi-line) - `sdm`
+* Ruby Struct (single line) - `sd`
 * Ruby Sum - `sum`
-* Ruby Tap (argument) - `tpa`
-* Ruby Tap (empty) - `tpe`
 * Ruby Tap (multi-line) - `tpm`
+* Ruby Tap (single line) - `tp`
 * Ruby Tap (symbol-to-proc) - `tps`
-* Ruby Then (arguments) - `tna`
+* Ruby Then (arguments) - `tn`
 * Ruby Then (multi-line) - `tnm`
 * Ruby Then (symbol-to-proc) - `tns`
 * Ruby Trap (multi-line) - `trapm`

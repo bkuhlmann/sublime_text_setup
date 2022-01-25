@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[table.virtual :$1, type: :$2, as: "$3", stored: ${4:true} comment: "$5"]]></content>
+  <tabTrigger>rmv</tabTrigger>
+  <description>Rails Migration (virtual)</description>
+  <scope>source.ruby</scope>
+</snippet>

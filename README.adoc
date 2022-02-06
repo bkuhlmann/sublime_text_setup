@@ -4,9 +4,6 @@
 
 = Sublime Text Setup
 
-[link=https://circleci.com/gh/bkuhlmann/sublime_text_setup]
-image::https://circleci.com/gh/bkuhlmann/sublime_text_setup.svg?style=svg[Circle CI Status]
-
 Shell scripts for managing and sharing link:http://www.sublimetext.com[Sublime Text] settings, key
 bindings, extensions, code snippets, and much more. If you are fan of Sublime Text and don't want to
 always reconfigure it when reinstalling the operating system on an existing machine or setting up a

@@ -7,7 +7,7 @@
 	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "ayu-light.sublime-color-scheme",
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"copy_with_empty_selection": false,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
@@ -58,7 +58,7 @@
 		100
 	],
 	"tab_size": 2,
-	"theme": "ayu-light.sublime-theme",
+	"theme": "Default Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,

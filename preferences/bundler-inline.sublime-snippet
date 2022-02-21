@@ -10,10 +10,11 @@ require "bundler/inline"
 
 gemfile true do
   source "https://rubygems.org"
-  gem "$1", "~> $2"$3
+
+  gem "$1"${2:, "~> $3"$4}
 end
 
-$4
+$5
 ]]>
   </content>
   <tabTrigger>bi</tabTrigger>

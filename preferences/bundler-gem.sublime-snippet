@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[gem "$1", "~> $2"]]></content>
+  <content><![CDATA[gem "$1"${2:, "~> $3"}]]></content>
   <tabTrigger>bg</tabTrigger>
   <description>Bundler Gem</description>
   <scope>source.ruby</scope>

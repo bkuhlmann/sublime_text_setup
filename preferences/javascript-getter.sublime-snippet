@@ -7,6 +7,6 @@ get $1() {
 ]]>
   </content>
   <tabTrigger>getter</tabTrigger>
-  <description>JavaScript Setter</description>
+  <description>JavaScript Getter</description>
   <scope>source.js</scope>
 </snippet>

@@ -32,7 +32,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 19.1.0
+git checkout 19.2.0
 ----
 
 == Usage
@@ -118,8 +118,8 @@ the trigger to activate the snippet.
 * Elm Function (Anonymous) - `fna`
 * Elm HTML Aside - `aside`
 * Elm HTML Div - `div`
-* Elm HTML Header - `header`
 * Elm HTML Header - `footer`
+* Elm HTML Header - `header`
 * Elm HTML Node - `nd`
 * Elm HTML Section - `section`
 * Elm If - `if`
@@ -165,9 +165,9 @@ the trigger to activate the snippet.
 * JavaScript Function - `fn`
 * JavaScript Function (anonymous) - `fna`
 * JavaScript Function (async) - `afn`
+* JavaScript Getter - `getter`
 * JavaScript Port (Elm) - `port`
 * JavaScript Setter - `setter`
-* JavaScript Setter - `getter`
 * JavaScript Switch - `switch`
 * JavaScript Then - `then`
 * JavaScript Try - `try`
@@ -256,6 +256,7 @@ the trigger to activate the snippet.
 * Rails Migration (string) - `rms`
 * Rails Migration (text) - `rmt`
 * Rails Migration (timestamps) - `rmts`
+* Rails Migration (virtual) - `rmv`
 * Rails Scope - `scope`
 * Reek Disable - `rd`
 * Rubocop (disable) - `copd`
@@ -266,6 +267,8 @@ the trigger to activate the snippet.
 * Ruby Attribute (accessor) - `ata`
 * Ruby Attribute (reader) - `atr`
 * Ruby Attribute (writer) - `atw`
+* Ruby AutoInjector (dependencies) - `aid`
+* Ruby AutoInjector (include) - `aii`
 * Ruby Benchmark IPS - `bmi`
 * Ruby Benchmark Mem - `bmm`
 * Ruby Benchmark Report (multi-line) - `reportm`
@@ -277,6 +280,7 @@ the trigger to activate the snippet.
 * Ruby Class - `class`
 * Ruby Class (anonymous) - `ca`
 * Ruby Class (command) - `cc`
+* Ruby Class (single line) - `cs`
 * Ruby Curry - `cy`
 * Ruby Delegate - `dele`
 * Ruby Delegate (class) - `delc`
@@ -287,6 +291,9 @@ the trigger to activate the snippet.
 * Ruby Dry Container - Register - `dcr`
 * Ruby Dry Container - Super - `dcs`
 * Ruby Dry Monads (include) - `dmi`
+* Ruby Dry Schema - `ds`
+* Ruby Dry Schema (optional) - `dso`
+* Ruby Dry Schema (required) - `dsr`
 * Ruby Dry Validation - Contract - `dvc`
 * Ruby Dry Validation - JSON - `dvj`
 * Ruby Dry Validation - Optional - `dvo`
@@ -324,6 +331,7 @@ the trigger to activate the snippet.
 * Ruby Module - `mod`
 * Ruby Module (function) - `modf`
 * Ruby Module (self) - `mods`
+* Ruby Module (single line) - `ms`
 * Ruby Namespace - `namespace`
 * Ruby Proc (multi-line) - `procm`
 * Ruby Proc (single line) - `proc`

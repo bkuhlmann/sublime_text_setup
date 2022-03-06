@@ -1,5 +1,22 @@
 = Versions
 
+== 19.2.0 (2022-03-06)
+
+* Fixed Elm footer snippet label - Brooke Kuhlmann
+* Fixed Hippocratic License to be 2.1.0 version - Brooke Kuhlmann
+* Fixed JavaScript getting snippet label - Brooke Kuhlmann
+* Added Bundler inline snippet pragmas and usage comment - Brooke Kuhlmann
+* Added Caliber gem - Brooke Kuhlmann
+* Added Dry Schema snippets - Brooke Kuhlmann
+* Added Ruby AutoInjector snippets - Brooke Kuhlmann
+* Added Ruby class single line snippet - Brooke Kuhlmann
+* Added Ruby module single line snippet - Brooke Kuhlmann
+* Updated Bundler gem snippet to make version requirement optional - Brooke Kuhlmann
+* Updated Bundler inline snippet to make gem requirement optional - Brooke Kuhlmann
+* Updated default Rake task to include Git Lint and Rubocop - Brooke Kuhlmann
+* Updated to Ruby 3.1.1 - Brooke Kuhlmann
+* Updated to dark theme and color schema - Brooke Kuhlmann
+
 == 19.1.0 (2022-02-12)
 
 * Added Rails virtual column migration snippet - Brooke Kuhlmann

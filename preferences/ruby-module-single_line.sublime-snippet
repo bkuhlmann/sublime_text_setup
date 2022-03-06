@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Module.new { $1 }]]></content>
+  <tabTrigger>ms</tabTrigger>
+  <description>Ruby Module (single line)</description>
+  <scope>source.ruby</scope>
+</snippet>

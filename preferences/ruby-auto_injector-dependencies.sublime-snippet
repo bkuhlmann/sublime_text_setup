@@ -2,7 +2,7 @@
   <content>
 <![CDATA[
 **${1:dependencies}
-super(**${1:dependencies})
+  super(**${1:dependencies})
 ]]>
   </content>
   <tabTrigger>aid</tabTrigger>

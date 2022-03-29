@@ -1,19 +1,18 @@
 <snippet>
   <content>
 <![CDATA[
-# ${1:TODO: Add description}
-class ${2:Name}
-  def initialize $3
-    $4
+class ${1:Name}
+  def initialize $2
+    $3
   end
 
-  def call$6
-    $7
+  def call$5
+    $6
   end
 
   private
 
-  attr_reader :$5
+  attr_reader :$4
 end
 ]]>
   </content>

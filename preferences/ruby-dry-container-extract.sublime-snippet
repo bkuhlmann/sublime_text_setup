@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[container[__method__]]]></content>
+  <tabTrigger>dcx</tabTrigger>
+  <description>Ruby Dry Container - Extract</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

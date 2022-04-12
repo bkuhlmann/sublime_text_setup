@@ -1,5 +1,17 @@
 = Versions
 
+== 19.3.0 (2022-04-12)
+
+* Fixed Ruby Auto Injector dependencies snippet to use indentation - Brooke Kuhlmann
+* Fixed Ruby class command snippet to not start with class comment - Brooke Kuhlmann
+* Added GitHub sponsorship configuration - Brooke Kuhlmann
+* Added Ruby Auto Injector setup snippet - Brooke Kuhlmann
+* Added Ruby Dry Container extract snippet - Brooke Kuhlmann
+* Added Ruby Dry Container merge snippet - Brooke Kuhlmann
+* Updated to Caliber 0.5.0 - Brooke Kuhlmann
+* Updated to Git Lint 4.0.0 - Brooke Kuhlmann
+* Updated to Ruby 3.1.2 - Brooke Kuhlmann
+
 == 19.2.0 (2022-03-06)
 
 * Fixed Elm footer snippet label - Brooke Kuhlmann

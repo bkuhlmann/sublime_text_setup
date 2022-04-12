@@ -32,7 +32,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 19.2.0
+git checkout 19.3.0
 ----
 
 == Usage
@@ -118,7 +118,7 @@ the trigger to activate the snippet.
 * Elm Function (Anonymous) - `fna`
 * Elm HTML Aside - `aside`
 * Elm HTML Div - `div`
-* Elm HTML Header - `footer`
+* Elm HTML Footer - `footer`
 * Elm HTML Header - `header`
 * Elm HTML Node - `nd`
 * Elm HTML Section - `section`
@@ -269,6 +269,7 @@ the trigger to activate the snippet.
 * Ruby Attribute (writer) - `atw`
 * Ruby AutoInjector (dependencies) - `aid`
 * Ruby AutoInjector (include) - `aii`
+* Ruby AutoInjector (setup) - `ais`
 * Ruby Benchmark IPS - `bmi`
 * Ruby Benchmark Mem - `bmm`
 * Ruby Benchmark Report (multi-line) - `reportm`
@@ -287,7 +288,9 @@ the trigger to activate the snippet.
 * Ruby Delegate (simple) - `dels`
 * Ruby Dry Container - Dependencies - `dcd`
 * Ruby Dry Container - Extend - `dce`
+* Ruby Dry Container - Extract - `dcx`
 * Ruby Dry Container - Include - `dci`
+* Ruby Dry Container - Merge - `dcm`
 * Ruby Dry Container - Register - `dcr`
 * Ruby Dry Container - Super - `dcs`
 * Ruby Dry Monads (include) - `dmi`

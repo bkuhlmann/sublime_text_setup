@@ -1,5 +1,11 @@
 = Versions
 
+== 19.3.1 (2022-05-07)
+
+* Updated to Caliber 0.6.0 - Brooke Kuhlmann
+* Updated to Caliber 0.7.0 - Brooke Kuhlmann
+* Updated to Caliber 0.8.0 - Brooke Kuhlmann
+
 == 19.3.0 (2022-04-12)
 
 * Fixed Ruby Auto Injector dependencies snippet to use indentation - Brooke Kuhlmann

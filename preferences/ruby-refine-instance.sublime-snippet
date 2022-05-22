@@ -6,7 +6,7 @@ refine $1 do
 end
 ]]>
   </content>
-  <tabTrigger>refine</tabTrigger>
-  <description>Ruby Refine</description>
+  <tabTrigger>ref</tabTrigger>
+  <description>Ruby Refine (instance)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

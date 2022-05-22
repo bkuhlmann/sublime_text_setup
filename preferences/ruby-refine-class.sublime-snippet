@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+refine $1.singleton_class do
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>refs</tabTrigger>
+  <description>Ruby Refine (class)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

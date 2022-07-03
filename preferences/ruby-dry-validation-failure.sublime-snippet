@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[key.failure ]]></content>
+  <tabTrigger>dvf</tabTrigger>
+  <description>Ruby Dry Validation - Failure</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

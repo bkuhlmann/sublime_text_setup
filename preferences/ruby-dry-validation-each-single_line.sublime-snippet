@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[rule(:${1:key}).each(:$2)]]></content>
+  <tabTrigger>dve</tabTrigger>
+  <description>Ruby Dry Validation - Each (single line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

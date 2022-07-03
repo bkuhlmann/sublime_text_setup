@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+rule(:${1:key}).each do${2: |index:|}
+  $3
+end
+]]>
+  </content>
+  <tabTrigger>dvem</tabTrigger>
+  <description>Ruby Dry Validation - Each (multiple line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

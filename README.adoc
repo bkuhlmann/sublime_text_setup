@@ -32,7 +32,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 19.3.1
+git checkout 19.4.0
 ----
 
 == Usage
@@ -197,6 +197,7 @@ the trigger to activate the snippet.
 * RSpec Describe - `des`
 * RSpec Described Class - `dc`
 * RSpec Expect - `x`
+* RSpec Expect - Be - `xb`
 * RSpec Expect - Change - `xc`
 * RSpec Expect - Contain Exactly - `xx`
 * RSpec Expect - Cover - `xv`
@@ -298,7 +299,11 @@ the trigger to activate the snippet.
 * Ruby Dry Schema (optional) - `dso`
 * Ruby Dry Schema (required) - `dsr`
 * Ruby Dry Validation - Contract - `dvc`
+* Ruby Dry Validation - Each (multiple line) - `dvem`
+* Ruby Dry Validation - Each (single line) - `dve`
+* Ruby Dry Validation - Failure - `dvf`
 * Ruby Dry Validation - JSON - `dvj`
+* Ruby Dry Validation - Macro - `dvm`
 * Ruby Dry Validation - Optional - `dvo`
 * Ruby Dry Validation - Params - `dvp`
 * Ruby Dry Validation - Required - `dvr`
@@ -341,7 +346,8 @@ the trigger to activate the snippet.
 * Ruby Reduce (multi-line) - `reducem`
 * Ruby Reduce (single line) - `reduce`
 * Ruby Reduce (with index) - `reducei`
-* Ruby Refine - `refine`
+* Ruby Refine (class) - `refs`
+* Ruby Refine (instance) - `ref`
 * Ruby Refinements (require) - `rr`
 * Ruby Refinements (using) - `ru`
 * Ruby Regex (multi-line) - `rxm`

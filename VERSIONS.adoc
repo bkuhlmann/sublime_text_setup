@@ -1,5 +1,20 @@
 = Versions
 
+== 19.4.0 (2022-07-03)
+
+* Fixed Ruby Dry Schema optional snippet to include type - Brooke Kuhlmann
+* Fixed Ruby Dry Schema required snippet to include type - Brooke Kuhlmann
+* Fixed Ruby Dry Schema snippet to include constant placeholder - Brooke Kuhlmann
+* Fixed Ruby Dry Validation optional snippet to include type - Brooke Kuhlmann
+* Fixed Ruby Dry Validation required snippet to include type - Brooke Kuhlmann
+* Added RSpec expect be snippet - Brooke Kuhlmann
+* Added Ruby Dry Validation each snippets - Brooke Kuhlmann
+* Added Ruby Dry Validation failure snippet - Brooke Kuhlmann
+* Added Ruby Dry Validation macro snippet - Brooke Kuhlmann
+* Added Ruby class refinement snippet - Brooke Kuhlmann
+* Added color palette preferences - Brooke Kuhlmann
+* Added word wrap preferences - Brooke Kuhlmann
+
 == 19.3.1 (2022-05-07)
 
 * Updated to Caliber 0.6.0 - Brooke Kuhlmann

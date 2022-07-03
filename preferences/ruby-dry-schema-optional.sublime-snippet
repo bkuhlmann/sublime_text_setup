@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[optional(:$1).${2:filled}(:$3)$4]]></content>
+  <content><![CDATA[optional(:${1:name}).${2:filled} :${3:string}]]></content>
   <tabTrigger>dso</tabTrigger>
   <description>Ruby Dry Schema (optional)</description>
   <scope>source.ruby, source.rails</scope>

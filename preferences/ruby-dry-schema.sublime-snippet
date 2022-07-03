@@ -1,8 +1,8 @@
 <snippet>
   <content>
 <![CDATA[
-Dry::Schema.${1:Params} do
-  $2
+${1:Example} = Dry::Schema.${2:Params} do
+  $3
 end
 ]]>
   </content>

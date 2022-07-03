@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+register_macro :${1:name} do${2: |macro:|}
+  $3
+end
+]]>
+  </content>
+  <tabTrigger>dvm</tabTrigger>
+  <description>Ruby Dry Validation - Macro</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

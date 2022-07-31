@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[# :nocov:]]></content>
+  <tabTrigger>covd</tabTrigger>
+  <description>SimpleCov Disable</description>
+  <scope>source.ruby</scope>
+</snippet>

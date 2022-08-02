@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[proc { $1 }]]></content>
+  <content><![CDATA[proc { ${1:|$2| }$3 }]]></content>
   <tabTrigger>proc</tabTrigger>
   <description>Ruby Proc (single line)</description>
   <scope>source.ruby, source.rails</scope>

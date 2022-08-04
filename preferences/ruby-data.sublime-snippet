@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+__END__
+
+$1
+]]>
+  </content>
+  <tabTrigger>dt</tabTrigger>
+  <description>Ruby DATA</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

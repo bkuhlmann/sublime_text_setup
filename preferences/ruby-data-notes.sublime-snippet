@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+<![CDATA[
+# TODO: Remove DATA when finished using.
+__END__
+
+$1
+]]>
+  </content>
+  <tabTrigger>dtn</tabTrigger>
+  <description>Ruby DATA (notes)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

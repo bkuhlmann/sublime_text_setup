@@ -1,5 +1,13 @@
 = Versions
 
+== 19.5.0 (2022-08-11)
+
+* Fixed Ruby lambda single line snippet to not use parameter parenthesis - Brooke Kuhlmann
+* Added Ruby DATA snippets - Brooke Kuhlmann
+* Added SimpleCov disable code snippet - Brooke Kuhlmann
+* Updated Ruby proc snippets to support optional parameters - Brooke Kuhlmann
+* Updated to Caliber 0.11.0 - Brooke Kuhlmann
+
 == 19.4.0 (2022-07-03)
 
 * Fixed Ruby Dry Schema optional snippet to include type - Brooke Kuhlmann

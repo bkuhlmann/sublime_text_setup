@@ -32,7 +32,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 19.4.0
+git checkout 19.5.0
 ----
 
 == Usage
@@ -284,6 +284,8 @@ the trigger to activate the snippet.
 * Ruby Class (command) - `cc`
 * Ruby Class (single line) - `cs`
 * Ruby Curry - `cy`
+* Ruby DATA - `dt`
+* Ruby DATA (notes) - `dtn`
 * Ruby Delegate - `dele`
 * Ruby Delegate (class) - `delc`
 * Ruby Delegate (simple) - `dels`
@@ -391,6 +393,7 @@ the trigger to activate the snippet.
 * Shell Variable Default - `vard`
 * Shell While - `while`
 * ShellCheck Disable - `scd`
+* SimpleCov Disable - `covd`
 
 === Keyboard Shortcuts
 

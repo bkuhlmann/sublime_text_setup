@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[-> result { binding.break }]]></content>
+  <tabTrigger>bps</tabTrigger>
+  <description>Ruby Breakpoint Step</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[rule${1:($2)} { $3 }]]></content>
+  <tabTrigger>dvr</tabTrigger>
+  <description>Ruby Dry Validation - Rule (single line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

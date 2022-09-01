@@ -6,7 +6,7 @@ Dry::Schema.${1:Params} do
 end
 ]]>
   </content>
-  <tabTrigger>ds</tabTrigger>
-  <description>Ruby Dry Schema</description>
+  <tabTrigger>dsm</tabTrigger>
+  <description>Ruby Dry Schema (multi-line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

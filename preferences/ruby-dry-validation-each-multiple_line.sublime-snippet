@@ -7,6 +7,6 @@ end
 ]]>
   </content>
   <tabTrigger>dvem</tabTrigger>
-  <description>Ruby Dry Validation - Each (multiple line)</description>
+  <description>Ruby Dry Validation - Each (multi-line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

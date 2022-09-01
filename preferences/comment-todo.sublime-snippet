@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[# TODO: ${1:message}]]></content>
   <tabTrigger>todo</tabTrigger>
-  <description>Comment (TODO)</description>
+  <description>Comment (todo)</description>
   <scope>source.shell, source.ruby, source.rails</scope>
 </snippet>

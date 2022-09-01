@@ -6,7 +6,7 @@ rule $1do
 end
 ]]>
   </content>
-  <tabTrigger>dvu</tabTrigger>
-  <description>Ruby Dry Validation - Rule</description>
+  <tabTrigger>dvrm</tabTrigger>
+  <description>Ruby Dry Validation - Rule (multi-line)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

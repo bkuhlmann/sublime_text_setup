@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Dry::Schema.${1:Params} { $2 }]]></content>
+  <tabTrigger>ds</tabTrigger>
+  <description>Ruby Dry Schema (single line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

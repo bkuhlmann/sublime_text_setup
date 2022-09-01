@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[include ${1:Container}[:$2]]]></content>
-  <tabTrigger>dci</tabTrigger>
-  <description>Ruby Dry Container - Include</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

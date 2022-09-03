@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[include ${1:Import}[:$2]]]></content>
-  <tabTrigger>aii</tabTrigger>
-  <description>Ruby AutoInjector (include)</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

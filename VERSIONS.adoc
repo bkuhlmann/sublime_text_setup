@@ -1,5 +1,28 @@
 = Versions
 
+== 20.0.0 (2022-09-05)
+
+* Fixed Ruby deprecation warning snippet - Brooke Kuhlmann
+* Fixed snippet typos - Brooke Kuhlmann
+* Added Dry Container register multiple line snippet - Brooke Kuhlmann
+* Added Dry Schema single line snippet - Brooke Kuhlmann
+* Added Dry Validation single line rule snippet - Brooke Kuhlmann
+* Added Ruby Infusible snippets - Brooke Kuhlmann
+* Added Ruby breakpoint step snippet - Brooke Kuhlmann
+* Updated Dry Container extract as fetch snippet - Brooke Kuhlmann
+* Updated Dry Schema multiple line snippet to use new trigger - Brooke Kuhlmann
+* Updated Dry Validation rule snippet to be multiple lines - Brooke Kuhlmann
+* Updated Ruby fail with method no implemented snippet to by more dynamic - Brooke Kuhlmann
+* Updated langauge preferences - Brooke Kuhlmann
+* Removed Auto Injector snippets - Brooke Kuhlmann
+* Removed Dry Container merge snippet - Brooke Kuhlmann
+* Removed Dry Container snippets which are eclipsed by Auto Injector - Brooke Kuhlmann
+* Removed Dry Schema constant from snippet - Brooke Kuhlmann
+* Removed Dry Validation required and optional snippets - Brooke Kuhlmann
+* Removed RSpec feature snippet - Brooke Kuhlmann
+* Removed Ruby Struct constant assignment from snippets - Brooke Kuhlmann
+* Refactored Dry Container register as a single line snippet - Brooke Kuhlmann
+
 == 19.5.0 (2022-08-11)
 
 * Fixed Ruby lambda single line snippet to not use parameter parenthesis - Brooke Kuhlmann

@@ -32,7 +32,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 19.5.0
+git checkout 20.0.0
 ----
 
 == Usage
@@ -92,9 +92,9 @@ the trigger to activate the snippet.
 * CSS Style - `cs`
 * CSS Variable - `var`
 * CSS Variable (define) - `varc`
-* Comment (TODO) - `todo`
 * Comment (duplicate) - `dup`
 * Comment (fix) - `fix`
+* Comment (todo) - `todo`
 * ERB - `erb`
 * ERB Comment - `erbc`
 * ERB Output - `erbo`
@@ -213,7 +213,6 @@ the trigger to activate the snippet.
 * RSpec Expect - Yield Control - `xyc`
 * RSpec Expect - Yield Successive Args - `xys`
 * RSpec Expect - Yield With Args - `xya`
-* RSpec Feature - `feature`
 * RSpec Helper - `rsh`
 * RSpec Include Context - `inc`
 * RSpec Include Examples - `ine`
@@ -268,14 +267,12 @@ the trigger to activate the snippet.
 * Ruby Attribute (accessor) - `ata`
 * Ruby Attribute (reader) - `atr`
 * Ruby Attribute (writer) - `atw`
-* Ruby AutoInjector (dependencies) - `aid`
-* Ruby AutoInjector (include) - `aii`
-* Ruby AutoInjector (setup) - `ais`
 * Ruby Benchmark IPS - `bmi`
 * Ruby Benchmark Mem - `bmm`
 * Ruby Benchmark Report (multi-line) - `reportm`
 * Ruby Benchmark Report (single line) - `report`
 * Ruby Breakpoint - `bp`
+* Ruby Breakpoint Step - `bps`
 * Ruby Breakpoint Tap - `bpt`
 * Ruby Case (in) - `ci`
 * Ruby Case (when) - `cw`
@@ -289,27 +286,24 @@ the trigger to activate the snippet.
 * Ruby Delegate - `dele`
 * Ruby Delegate (class) - `delc`
 * Ruby Delegate (simple) - `dels`
-* Ruby Dry Container - Dependencies - `dcd`
 * Ruby Dry Container - Extend - `dce`
-* Ruby Dry Container - Extract - `dcx`
-* Ruby Dry Container - Include - `dci`
-* Ruby Dry Container - Merge - `dcm`
-* Ruby Dry Container - Register - `dcr`
-* Ruby Dry Container - Super - `dcs`
+* Ruby Dry Container - Fetch - `dcf`
+* Ruby Dry Container - Register (multi-line) - `dcrm`
+* Ruby Dry Container - Register (single line) - `dcr`
 * Ruby Dry Monads (include) - `dmi`
-* Ruby Dry Schema - `ds`
+* Ruby Dry Schema (multi-line) - `dsm`
 * Ruby Dry Schema (optional) - `dso`
 * Ruby Dry Schema (required) - `dsr`
+* Ruby Dry Schema (single line) - `ds`
 * Ruby Dry Validation - Contract - `dvc`
-* Ruby Dry Validation - Each (multiple line) - `dvem`
+* Ruby Dry Validation - Each (multi-line) - `dvem`
 * Ruby Dry Validation - Each (single line) - `dve`
 * Ruby Dry Validation - Failure - `dvf`
 * Ruby Dry Validation - JSON - `dvj`
 * Ruby Dry Validation - Macro - `dvm`
-* Ruby Dry Validation - Optional - `dvo`
 * Ruby Dry Validation - Params - `dvp`
-* Ruby Dry Validation - Required - `dvr`
-* Ruby Dry Validation - Rule - `dvu`
+* Ruby Dry Validation - Rule (multi-line) - `dvrm`
+* Ruby Dry Validation - Rule (single line) - `dvr`
 * Ruby Dry Validation - Schema - `dvs`
 * Ruby Encoding - `encode`
 * Ruby Fail - `fail`
@@ -323,6 +317,9 @@ the trigger to activate the snippet.
 * Ruby Function (symbol-to-proc) - `fns`
 * Ruby Heredoc - `doc`
 * Ruby If (multi-line) - `ifm`
+* Ruby Infusible (dependencies) - `id`
+* Ruby Infusible (include) - `ii`
+* Ruby Infusible (setup) - `is`
 * Ruby Initialize - `init`
 * Ruby Initialize (body) - `initb`
 * Ruby Instance Assign - `ia`

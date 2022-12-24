@@ -4,6 +4,8 @@
 module ${1:Name}
   extend self
 
+  private
+
   $2
 end
 ]]>

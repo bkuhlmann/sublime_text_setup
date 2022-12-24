@@ -1,9 +1,12 @@
 {
 	"Bash":
 	[
+		".profile",
+		"ash",
 		"bash",
+		"bashrc",
 		"sh",
-		"zsh"
+		"zsh",
 	],
 	/*"HTML (Rails)":
 	[
@@ -111,9 +114,12 @@
 	],*/
 	"Shell-Unix-Generic":
 	[
+		".profile",
+		"ash",
 		"bash",
+		"bashrc",
 		"sh",
-		"zsh"
+		"zsh",
 	],
 	"PHP":
 	[
@@ -171,5 +177,9 @@
 		"YAML-tmLanguage",
 		"yml",
 		"yml.dist"
+	],
+	"HAML":
+	[
+		"haml"
 	],
 }

@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+def initialize $1
+  super$3
+end
+]]>
+  </content>
+  <tabTrigger>di</tabTrigger>
+  <description>Ruby Data (initialize)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

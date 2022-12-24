@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+Data.define $1 do
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>ddm</tabTrigger>
+  <description>Ruby Data (multi-line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

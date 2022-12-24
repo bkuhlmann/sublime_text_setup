@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Data.define $1]]></content>
+  <tabTrigger>dd</tabTrigger>
+  <description>Ruby Data (single line)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

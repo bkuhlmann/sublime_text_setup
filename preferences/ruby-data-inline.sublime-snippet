@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Data.define(:$1).new $5]]></content>
+  <tabTrigger>ddi</tabTrigger>
+  <description>Ruby Data (inline)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

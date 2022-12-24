@@ -1,14 +1,12 @@
 <snippet>
   <content>
 <![CDATA[
-def initialize ${1:*arguments}
-  super
-
-  $2
+def initialize ${1:**arguments}
+  super$2
 end
 ]]>
   </content>
-  <tabTrigger>sinit</tabTrigger>
+  <tabTrigger>si</tabTrigger>
   <description>Ruby Struct (initialize)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

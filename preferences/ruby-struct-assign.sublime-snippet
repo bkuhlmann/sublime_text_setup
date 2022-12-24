@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[self[:$1] ||= $2]]></content>
-  <tabTrigger>sia</tabTrigger>
-  <description>Ruby Struct (instance assign)</description>
+  <tabTrigger>sa</tabTrigger>
+  <description>Ruby Struct (assign)</description>
   <scope>source.ruby</scope>
 </snippet>

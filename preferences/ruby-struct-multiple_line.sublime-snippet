@@ -1,8 +1,8 @@
 <snippet>
   <content>
 <![CDATA[
-Struct.new $1${2:, keyword_init: true} do
-  $3
+Struct.new $1 do
+  $2
 end
 ]]>
   </content>

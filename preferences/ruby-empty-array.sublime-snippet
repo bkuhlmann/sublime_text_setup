@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Core::EMPTY_ARRAY]]></content>
+  <tabTrigger>ea</tabTrigger>
+  <description>Ruby Empty (array)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

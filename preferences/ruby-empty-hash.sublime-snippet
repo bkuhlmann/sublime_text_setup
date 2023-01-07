@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Core::EMPTY_HASH]]></content>
+  <tabTrigger>eh</tabTrigger>
+  <description>Ruby Empty (hash)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

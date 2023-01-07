@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Core::EMPTY_DATA]]></content>
+  <tabTrigger>ed</tabTrigger>
+  <description>Ruby Empty (data)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[Core::EMPTY_SET]]></content>
+  <tabTrigger>eset</tabTrigger>
+  <description>Ruby Empty (set)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

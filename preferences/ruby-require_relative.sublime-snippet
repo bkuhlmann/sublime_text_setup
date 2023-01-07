@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[require_relative "$1"]]></content>
+  <tabTrigger>rer</tabTrigger>
+  <description>Ruby Require Relative</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

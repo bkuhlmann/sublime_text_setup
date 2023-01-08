@@ -1,5 +1,13 @@
 = Versions
 
+== 21.1.0 (2023-01-08)
+
+* Fixed Git Lint Rakefile requirement - Brooke Kuhlmann
+* Added Ruby empty core instances snippets - Brooke Kuhlmann
+* Added Ruby require snippet - Brooke Kuhlmann
+* Updated to Caliber 0.21.0 - Brooke Kuhlmann
+* Updated to Git Lint 5.0.0 - Brooke Kuhlmann
+
 == 21.0.0 (2022-12-25)
 
 * Added Elm Syntax Highlighting extension - Brooke Kuhlmann

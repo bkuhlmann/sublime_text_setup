@@ -32,7 +32,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 21.0.0
+git checkout 21.1.0
 ----
 
 == Usage
@@ -309,6 +309,11 @@ the trigger to activate the snippet.
 * Ruby Dry Validation - Rule (multi-line) - `dvrm`
 * Ruby Dry Validation - Rule (single line) - `dvr`
 * Ruby Dry Validation - Schema - `dvs`
+* Ruby Empty (array) - `ea`
+* Ruby Empty (data) - `ed`
+* Ruby Empty (hash) - `eh`
+* Ruby Empty (set) - `eset`
+* Ruby Empty (string) - `es`
 * Ruby Encoding - `encode`
 * Ruby Fail - `fail`
 * Ruby Fail - Not Implemented - `failn`
@@ -354,6 +359,8 @@ the trigger to activate the snippet.
 * Ruby Refinements (require) - `rr`
 * Ruby Refinements (using) - `ru`
 * Ruby Regex (multi-line) - `rxm`
+* Ruby Require - `re`
+* Ruby Require Relative - `rer`
 * Ruby Script Header - `head`
 * Ruby Shortcut (multi-line) - `scm`
 * Ruby Shortcut (single line) - `sc`

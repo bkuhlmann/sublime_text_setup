@@ -17,7 +17,7 @@ toc::[]
 * Applies preferences not enabled by default (see the Preferences.sublime-settings file).
 * Applies key bindings not enabled by default (see the Default (OSX).sublime-keymap file).
 * Applies extension preferences not enabled by default (see the
-  link:https://www.alchemists.io/projects/mac_os-config[macOS Configuration] project for details.)
+  link:https://alchemists.io/projects/mac_os-config[macOS Configuration] project for details.)
 * Provides tab-completion code snippets for HTML, CSS, Elm, Ruby, Rails, RSpec, Rust, etc.
 
 == Requirements
@@ -62,9 +62,9 @@ Modify all files in the preferences/User folder as you see fit.
 
 For additional setup/support, the following projects might be of interest as well:
 
-* link:https://www.alchemists.io/projects/mac_os[macOS] - Shell scripts for automated macOS machine
+* link:https://alchemists.io/projects/mac_os[macOS] - Shell scripts for automated macOS machine
   setup (includes installation of Sublime Text Extensions).
-* link:https://www.alchemists.io/projects/sublime_text_setup_kit[Sublime Text Kit] - Command line
+* link:https://alchemists.io/projects/sublime_text_setup_kit[Sublime Text Kit] - Command line
   utilities (Ruby Gem) for managing Sublime Text.
 
 === Snippets
@@ -545,19 +545,19 @@ git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
 ----
 
-== link:https://www.alchemists.io/policies/license[License]
+== link:https://alchemists.io/policies/license[License]
 
-== link:https://www.alchemists.io/policies/security[Security]
+== link:https://alchemists.io/policies/security[Security]
 
-== link:https://www.alchemists.io/policies/code_of_conduct[Code of Conduct]
+== link:https://alchemists.io/policies/code_of_conduct[Code of Conduct]
 
-== link:https://www.alchemists.io/policies/contributions[Contributions]
+== link:https://alchemists.io/policies/contributions[Contributions]
 
-== link:https://www.alchemists.io/projects/sublime_text_setup/versions[Versions]
+== link:https://alchemists.io/projects/sublime_text_setup/versions[Versions]
 
-== link:https://www.alchemists.io/community[Community]
+== link:https://alchemists.io/community[Community]
 
 == Credits
 
-* Built with link:https://www.alchemists.io/projects/rubysmith[Rubysmith].
-* Engineered by link:https://www.alchemists.io/team/brooke_kuhlmann[Brooke Kuhlmann].
+* Built with link:https://alchemists.io/projects/rubysmith[Rubysmith].
+* Engineered by link:https://alchemists.io/team/brooke_kuhlmann[Brooke Kuhlmann].

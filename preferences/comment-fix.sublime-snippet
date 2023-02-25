@@ -2,5 +2,5 @@
   <content><![CDATA[# FIX: ${1:message}]]></content>
   <tabTrigger>fix</tabTrigger>
   <description>Comment (fix)</description>
-  <scope>source.shell, source.ruby, source.rails</scope>
+  <scope>source.shell, source.terraform, source.ruby, source.rails</scope>
 </snippet>

@@ -2,5 +2,5 @@
   <content><![CDATA[# TODO: ${1:message}]]></content>
   <tabTrigger>todo</tabTrigger>
   <description>Comment (todo)</description>
-  <scope>source.shell, source.ruby, source.rails</scope>
+  <scope>source.shell, source.terraform, source.ruby, source.rails</scope>
 </snippet>

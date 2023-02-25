@@ -2,5 +2,5 @@
   <content><![CDATA[# DUPLICATE: ${1:message}]]></content>
   <tabTrigger>dup</tabTrigger>
   <description>Comment (duplicate)</description>
-  <scope>source.shell, source.ruby, source.rails</scope>
+  <scope>source.shell, source.terraform, source.ruby, source.rails</scope>
 </snippet>

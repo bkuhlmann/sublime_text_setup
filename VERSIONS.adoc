@@ -1,5 +1,15 @@
 = Versions
 
+== 21.2.0 (2023-03-08)
+
+* Added Rake binstub - Brooke Kuhlmann
+* Added Ruby experimental warning snippet - Brooke Kuhlmann
+* Added Terraform source support for code comment snippets - Brooke Kuhlmann
+* Updated Ruby deprecated warning snippet to use deprecation category - Brooke Kuhlmann
+* Updated site URLs to use bare domain - Brooke Kuhlmann
+* Updated to Caliber 0.25.0 - Brooke Kuhlmann
+* Updated to Ruby 3.2.1 - Brooke Kuhlmann
+
 == 21.1.0 (2023-01-08)
 
 * Fixed Git Lint Rakefile requirement - Brooke Kuhlmann

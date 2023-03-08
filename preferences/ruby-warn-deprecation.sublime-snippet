@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[warn "[DEPRECATION]: #{${1:self.class}}${2:#}#{__method__} is deprecated, use ${3:new} instead."]]></content>
+  <content><![CDATA[warn "#{${1:self.class}}${2:#}#{__method__} is deprecated, use ${3:new} instead.", category: :deprecated]]></content>
   <tabTrigger>warnd</tabTrigger>
-  <description>Ruby Warn (deprecate)</description>
+  <description>Ruby Warn (deprecation)</description>
   <scope>source.ruby, source.rails</scope>
 </snippet>

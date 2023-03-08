@@ -378,7 +378,8 @@ the trigger to activate the snippet.
 * Ruby Then (symbol-to-proc) - `tns`
 * Ruby Trap (multi-line) - `trapm`
 * Ruby Trap (single line) - `trap`
-* Ruby Warn (deprecate) - `warnd`
+* Ruby Warn (deprecation) - `warnd`
+* Ruby Warn (experimental) - `warne`
 * Ruby With Object (multi-line) - `withm`
 * Ruby With Object (single line) - `with`
 * Ruby With Object (with index) - `withi`

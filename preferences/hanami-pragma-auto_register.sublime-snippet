@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[# auto_register: ${1:false}]]>
+  </content>
+  <tabTrigger>hpa</tabTrigger>
+  <description>Hanami Pragma (auto register)</description>
+  <scope>source.ruby</scope>
+</snippet>

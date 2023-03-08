@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[${1:verb} "${2:path}", to: "${3:key}", as: :${4:name}]]>
+  </content>
+  <tabTrigger>hr</tabTrigger>
+  <description>Hanami Route</description>
+  <scope>source.ruby</scope>
+</snippet>

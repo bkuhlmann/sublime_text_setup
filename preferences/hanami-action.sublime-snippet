@@ -1,0 +1,15 @@
+<snippet>
+  <content>
+<![CDATA[
+# Processes ${1/(\w+)/\L$1/} action.
+class $1 < ${2:Slice}::Action
+  def handle request, response
+    $3
+  end
+end
+]]>
+  </content>
+  <tabTrigger>ha</tabTrigger>
+  <description>Hanami Action</description>
+  <scope>source.ruby</scope>
+</snippet>

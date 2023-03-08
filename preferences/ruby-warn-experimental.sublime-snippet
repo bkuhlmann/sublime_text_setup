@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[warn "#{${1:self.class}}${2:#}#{__method__} is experimental. Use with caution.", category: :experimental]]></content>
+  <tabTrigger>warne</tabTrigger>
+  <description>Ruby Warn (experimental)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

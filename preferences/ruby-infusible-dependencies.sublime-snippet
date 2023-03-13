@@ -1,8 +1,8 @@
 <snippet>
   <content>
 <![CDATA[
-**${1:dependencies}
-  super(**${1:dependencies})
+**
+  super(**)
 ]]>
   </content>
   <tabTrigger>id</tabTrigger>

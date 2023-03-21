@@ -1,5 +1,10 @@
 <snippet>
-  <content><![CDATA[fail NotImplementedError, "`#{${1:self.class}}${2:#}#{__method__}` must be implemented."]]></content>
+  <content>
+<![CDATA[
+fail NotImplementedError,
+     "`#{self.class}##{__method__} #{method(__method__).parameters}` must be implemented."
+]]>
+  </content>
   <tabTrigger>failn</tabTrigger>
   <description>Ruby Fail - Not Implemented</description>
   <scope>source.ruby, source.rails</scope>

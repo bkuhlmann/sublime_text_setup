@@ -32,7 +32,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 21.2.0
+git checkout 21.3.0
 ----
 
 == Usage
@@ -151,6 +151,9 @@ the trigger to activate the snippet.
 * Factory Bot Trait (multi-line) - `fbtm`
 * Factory Bot Trait (single line) - `fbt`
 * HTML Comment - `comment`
+* Hanami Action - `ha`
+* Hanami Pragma (auto register) - `hpa`
+* Hanami Route - `hr`
 * JavaScript Catch - `catch`
 * JavaScript Console Count - `ccount`
 * JavaScript Console Dir - `cdir`

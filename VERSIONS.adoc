@@ -1,5 +1,15 @@
 = Versions
 
+== 21.3.0 (2023-04-30)
+
+* Fixed Ruby Infusible snippet to use anonymous dependencies - Brooke Kuhlmann
+* Added Hanami snippets - Brooke Kuhlmann
+* Updated Ruby data notes snippet to use shorter description - Brooke Kuhlmann
+* Updated Ruby deprecation warning snippet to include code syntax - Brooke Kuhlmann
+* Updated Ruby fail (not implemented) snippet to include method signature - Brooke Kuhlmann
+* Updated to Caliber 0.30.0 - Brooke Kuhlmann
+* Updated to Ruby 3.2.2 - Brooke Kuhlmann
+
 == 21.2.0 (2023-03-08)
 
 * Added Rake binstub - Brooke Kuhlmann

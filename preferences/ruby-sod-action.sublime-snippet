@@ -1,0 +1,23 @@
+<snippet>
+  <content>
+<![CDATA[
+# $1
+class $2 < Sod::Action
+  include Import[:$3]
+
+  description "$4"
+
+  on $5
+
+  def initialize(**)
+    super(**)
+  end
+
+  def call(*) = $6
+end
+]]>
+  </content>
+  <tabTrigger>soda</tabTrigger>
+  <description>Ruby Sod - Action</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

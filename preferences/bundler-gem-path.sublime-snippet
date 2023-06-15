@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[gem "$1", path: "~/Engineering/OSS/$1"]]></content>
+  <tabTrigger>bgp</tabTrigger>
+  <description>Bundler Gem (path)</description>
+  <scope>source.ruby</scope>
+</snippet>

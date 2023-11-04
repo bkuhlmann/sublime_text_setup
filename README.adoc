@@ -32,7 +32,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 21.4.0
+git checkout 21.4.1
 ----
 
 == Usage
@@ -75,6 +75,7 @@ the trigger to activate the snippet.
 * Bash Header - `bashh`
 * Bash Settings - `bashs`
 * Bundler Gem - `bg`
+* Bundler Gem (path) - `bgp`
 * Bundler Inline - `bi`
 * CSS Border Radius - `br`
 * CSS Comment - `comment`
@@ -367,6 +368,7 @@ the trigger to activate the snippet.
 * Ruby Script Header - `head`
 * Ruby Shortcut (multi-line) - `scm`
 * Ruby Shortcut (single line) - `sc`
+* Ruby Sod - Action - `soda`
 * Ruby Struct (assign) - `sa`
 * Ruby Struct (initialize) - `si`
 * Ruby Struct (inline) - `sdi`

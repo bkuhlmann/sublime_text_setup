@@ -1,5 +1,13 @@
 = Versions
 
+== 22.0.0 (2024-01-01)
+
+* Added Rakefile quality task - Brooke Kuhlmann
+* Added Ruby description to benchmark snippets - Brooke Kuhlmann
+* Updated Circle CI step names - Brooke Kuhlmann
+* Updated gem dependencies - Brooke Kuhlmann
+* Updated to Ruby 3.3.0 - Brooke Kuhlmann
+
 == 21.4.1 (2023-11-04)
 
 * Fixed Ruby breakpoint step snippet to answer result - Brooke Kuhlmann

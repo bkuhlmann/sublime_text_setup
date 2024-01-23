@@ -64,4 +64,5 @@
 	"wide_caret": true,
 	"word_wrap": true,
 	"wrap_width": 101,
+	"index_files": true,
 }

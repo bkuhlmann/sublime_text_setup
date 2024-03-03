@@ -1,5 +1,14 @@
 = Versions
 
+== 22.1.0 (2024-03-03)
+
+* 🔼 Updated RuboCop to use XDG local configuration - Brooke Kuhlmann
+* 🔼 Updated preferences to include indexing of files - Brooke Kuhlmann
+* 🔼 Updated shell function snippet delimiter - Brooke Kuhlmann
+* 🔼 Updated to Caliber 0.50.0 - Brooke Kuhlmann
+* 🔼 Updated to Caliber 0.51.0 - Brooke Kuhlmann
+* 🔼 Updated to Git Lint 7.1.0 - Brooke Kuhlmann
+
 == 22.0.0 (2024-01-01)
 
 * Added Rakefile quality task - Brooke Kuhlmann

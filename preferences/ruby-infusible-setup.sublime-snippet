@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[${1:Import} = Infusible.with ${2:Container}]]></content>
+  <content><![CDATA[${1:Import} = Infusible[${2:Container}]]]></content>
   <tabTrigger>is</tabTrigger>
   <description>Ruby Infusible (setup)</description>
   <scope>source.ruby, source.rails</scope>

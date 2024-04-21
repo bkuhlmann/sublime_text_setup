@@ -1,5 +1,13 @@
 = Versions
 
+== 22.2.0 (2024-04-21)
+
+* ✅ Fixed not implemented errors to be no method errors instead - Brooke Kuhlmann
+* 🔼 Updated Infusible snippet to use new syntax - Brooke Kuhlmann
+* 🔼 Updated to Git Lint 7.3.0 - Brooke Kuhlmann
+* 🔼 Updated to Rake 13.2.0 - Brooke Kuhlmann
+* 🔼 Updated to color palates 3.0.0 format - Brooke Kuhlmann
+
 == 22.1.0 (2024-03-03)
 
 * 🔼 Updated RuboCop to use XDG local configuration - Brooke Kuhlmann

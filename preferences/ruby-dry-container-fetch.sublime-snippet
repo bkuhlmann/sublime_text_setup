@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[container[__method__]]]></content>
-  <tabTrigger>dcf</tabTrigger>
-  <description>Ruby Dry Container - Fetch</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

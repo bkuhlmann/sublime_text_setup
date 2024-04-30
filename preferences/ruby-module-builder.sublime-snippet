@@ -1,0 +1,20 @@
+<snippet>
+  <content>
+<![CDATA[
+class ${1:Builder} < Module
+  def initialize $2
+    super()
+    @$3 = $3
+    freeze
+  end
+
+  private
+
+  attr_reader :$3
+end
+]]>
+  </content>
+  <tabTrigger>modb</tabTrigger>
+  <description>Ruby Module (builder)</description>
+  <scope>source.ruby</scope>
+</snippet>

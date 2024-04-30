@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+<![CDATA[
+module ${1:Container}
+  extend Containable
+
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>cd</tabTrigger>
+  <description>Ruby Containable (define)</description>
+  <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[register :$1, $2]]></content>
+  <tabTrigger>cr</tabTrigger>
+  <description>Ruby Containable Register</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

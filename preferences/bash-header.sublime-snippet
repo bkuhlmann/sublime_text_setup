@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[#! /usr/bin/env bash]]></content>
-  <tabTrigger>bashh</tabTrigger>
+  <tabTrigger>bh</tabTrigger>
   <description>Bash Header</description>
   <scope>source.shell</scope>
 </snippet>

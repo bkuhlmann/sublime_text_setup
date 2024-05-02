@@ -8,7 +8,7 @@ IFS=\$'\n\t'
 
 ]]>
   </content>
-  <tabTrigger>bashs</tabTrigger>
+  <tabTrigger>bs</tabTrigger>
   <description>Bash Settings</description>
   <scope>source.shell</scope>
 </snippet>

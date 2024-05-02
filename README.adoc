@@ -32,7 +32,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 22.2.0
+git checkout 22.3.0
 ----
 
 == Usage
@@ -152,6 +152,8 @@ the trigger to activate the snippet.
 * Factory Bot Trait (multi-line) - `fbtm`
 * Factory Bot Trait (single line) - `fbt`
 * HTML Comment - `comment`
+* HTML Popover Content - `poc`
+* HTML Popover Target - `pot`
 * Hanami Action - `ha`
 * Hanami Pragma (auto register) - `hpa`
 * Hanami Route - `hr`
@@ -284,6 +286,10 @@ the trigger to activate the snippet.
 * Ruby Class (anonymous) - `ca`
 * Ruby Class (command) - `cc`
 * Ruby Class (single line) - `cs`
+* Ruby Containable (define) - `cd`
+* Ruby Containable Register - `cr`
+* Ruby Containable Register (block) - `crb`
+* Ruby Containable Register (multi-line) - `crm`
 * Ruby Curry - `cy`
 * Ruby DATA - `dt`
 * Ruby DATA (notes) - `dtn`
@@ -328,6 +334,7 @@ the trigger to activate the snippet.
 * Ruby Function (argument) - `fn`
 * Ruby Function (multi-line) - `fnm`
 * Ruby Function (symbol-to-proc) - `fns`
+* Ruby Hash - Default Proc - `hashd`
 * Ruby Heredoc - `doc`
 * Ruby If (multi-line) - `ifm`
 * Ruby Infusible (dependencies) - `id`
@@ -349,6 +356,7 @@ the trigger to activate the snippet.
 * Ruby Method (self, endless) - `see`
 * Ruby Middleware - `mid`
 * Ruby Module - `mod`
+* Ruby Module (builder) - `modb`
 * Ruby Module (function) - `modf`
 * Ruby Module (self) - `mods`
 * Ruby Module (single line) - `ms`

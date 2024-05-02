@@ -1,5 +1,15 @@
 = Versions
 
+== 22.3.0 (2024-05-02)
+
+* ✅ Fixed HTML comment snippet scope - Brooke Kuhlmann
+* 🟢 Added HTML popover snippets - Brooke Kuhlmann
+* 🟢 Added Ruby Containable snippets - Brooke Kuhlmann
+* 🟢 Added Ruby hash default proc snippet - Brooke Kuhlmann
+* 🟢 Added Ruby module builder snippet - Brooke Kuhlmann
+* 🔼 Updated to Ruby 3.3.1 - Brooke Kuhlmann
+* 🔁 Refactored HTML ERB snippets as ERB only snippets - Brooke Kuhlmann
+
 == 22.2.0 (2024-04-21)
 
 * ✅ Fixed not implemented errors to be no method errors instead - Brooke Kuhlmann

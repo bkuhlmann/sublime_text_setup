@@ -2,5 +2,5 @@
   <content><![CDATA[<!-- ${1:comment} -->]]></content>
   <tabTrigger>comment</tabTrigger>
   <description>HTML Comment</description>
-  <scope>text.html, text.html.ruby</scope>
+  <scope>text.html</scope>
 </snippet>

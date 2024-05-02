@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[-- FIX: ${1:message}]]></content>
-  <tabTrigger>fix</tabTrigger>
-  <description>Elm Fix Comment</description>
-  <scope>source.elm</scope>
-</snippet>

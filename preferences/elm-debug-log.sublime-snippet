@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[Debug.log "${1:label}" ${2:value}]]></content>
-  <tabTrigger>debugl</tabTrigger>
-  <description>Elm Debug (log)</description>
-  <scope>source.elm</scope>
-</snippet>

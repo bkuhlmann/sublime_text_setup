@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[section [$1] [$2]]]></content>
-  <tabTrigger>section</tabTrigger>
-  <description>Elm HTML Section</description>
-  <scope>source.elm</scope>
-</snippet>

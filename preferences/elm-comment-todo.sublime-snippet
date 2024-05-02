@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[-- TODO: ${1:message}]]></content>
-  <tabTrigger>todo</tabTrigger>
-  <description>Elm ToDo Comment</description>
-  <scope>source.elm</scope>
-</snippet>

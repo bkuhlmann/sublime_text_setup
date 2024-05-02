@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<${1:button} $2popovertarget="${3:id}">$4</${1:button}>]]></content>
+  <tabTrigger>pot</tabTrigger>
+  <description>HTML Popover Target</description>
+  <scope>text.html</scope>
+</snippet>

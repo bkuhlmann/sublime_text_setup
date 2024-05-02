@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<${1:button} $2popovertarget="${3:id}" popovertargetaction="${4:hide}">$6</${1:button}>]]></content>
+  <tabTrigger>poa</tabTrigger>
+  <description>HTML Popover Action</description>
+  <scope>text.html</scope>
+</snippet>

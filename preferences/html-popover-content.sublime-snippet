@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<${1:div} id="$2" $3popover>$4</${1:div}>]]></content>
+  <content><![CDATA[<${1:div} id="$2" $3popover="${4:auto}">$5</${1:div}>]]></content>
   <tabTrigger>poc</tabTrigger>
   <description>HTML Popover Content</description>
   <scope>text.html</scope>

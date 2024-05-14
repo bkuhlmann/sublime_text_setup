@@ -1,0 +1,24 @@
+<snippet>
+  <content>
+<![CDATA[
+class $1 < IRB::Command::Base
+  category "$2"
+
+  description "$3"
+
+  help_message <<~BODY
+    $4
+
+    Usage: ${5:command} <name>
+  BODY
+
+  def execute $6
+    $7
+  end
+end
+]]>
+  </content>
+  <tabTrigger>irbc</tabTrigger>
+  <description>IRB Command</description>
+  <scope>source.ruby</scope>
+</snippet>

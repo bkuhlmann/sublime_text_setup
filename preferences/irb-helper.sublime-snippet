@@ -1,0 +1,16 @@
+<snippet>
+  <content>
+<![CDATA[
+class $1 < IRB::HelperMethod::Base
+  description "$2"
+
+  def execute $3
+    $4
+  end
+end
+]]>
+  </content>
+  <tabTrigger>irbh</tabTrigger>
+  <description>IRB Helper</description>
+  <scope>source.ruby</scope>
+</snippet>

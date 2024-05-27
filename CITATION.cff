@@ -16,5 +16,6 @@ keywords:
  - scripts
  - sublime text
  - configuration management
-repository-code: https://alchemists.io/projects/sublime_text_setup
+repository-code: https://github.com/bkuhlmann/sublime_text_setup
 repository-artifact: https://alchemists.io/projects/sublime_text_setup
+url: https://alchemists.io/projects/sublime_text_setup

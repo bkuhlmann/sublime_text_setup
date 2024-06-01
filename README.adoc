@@ -32,7 +32,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 22.3.0
+git checkout 23.0.0
 ----
 
 == Usage
@@ -72,8 +72,8 @@ For additional setup/support, the following projects might be of interest as wel
 The following snippets are supported by this project. Each is sorted by description and followed by
 the trigger to activate the snippet.
 
-* Bash Header - `bashh`
-* Bash Settings - `bashs`
+* Bash Header - `bh`
+* Bash Settings - `bs`
 * Bundler Gem - `bg`
 * Bundler Gem (path) - `bgp`
 * Bundler Inline - `bi`
@@ -102,61 +102,20 @@ the trigger to activate the snippet.
 * ERB each do..end - `erbe`
 * ERB if..else..end - `erbie`
 * ERB link_to - `erbl`
-* Elm Case - `case`
-* Elm Case (Response) - `cr`
-* Elm Case Branch (Response) - `cbr`
-* Elm Comment (multiple lines) - `comment`
-* Elm Debug - `debug`
-* Elm Debug (crash) - `debugc`
-* Elm Debug (log) - `debugl`
-* Elm Describe - `describe`
-* Elm Documentation (multi-line) - `docm`
-* Elm Documentation (single line) - `doc`
-* Elm Fix Comment - `fix`
-* Elm Function - `fnn`
-* Elm Function (API Read) - `fnapir`
-* Elm Function (API Write) - `fnapiw`
-* Elm Function (Anonymous) - `fna`
-* Elm HTML Aside - `aside`
-* Elm HTML Div - `div`
-* Elm HTML Footer - `footer`
-* Elm HTML Header - `header`
-* Elm HTML Node - `nd`
-* Elm HTML Section - `section`
-* Elm If - `if`
-* Elm It - `it`
-* Elm Let - `let`
-* Elm Maybe (block) - `mayb`
-* Elm Maybe (line) - `mayl`
-* Elm Module - `mod`
-* Elm Record - `rec`
-* Elm Record - Multiple Line - `recm`
-* Elm Record Update - `recu`
-* Elm Template (API Client) - `ttac`
-* Elm Template (HTML Application) - `ttha`
-* Elm Template (HTML Component) - `tthc`
-* Elm Template (HTML Document) - `tthd`
-* Elm Template (HTML Element) - `tthe`
-* Elm Template (Navigation Program) - `ttnp`
-* Elm Template (spec) - `tts`
-* Elm ToDo Comment - `todo`
-* Elm Tuple - `kv`
-* Elm Tuple (multiple line - `tupm`
-* Elm Tuple (single line) - `tup`
-* Elm Type - `type`
-* Elm Type Alias - `typea`
-* Elm Type Alias (record) - `typear`
 * Factory Bot Build - `fbb`
 * Factory Bot Build Stubbed - `fbs`
 * Factory Bot Create - `fbc`
 * Factory Bot Trait (multi-line) - `fbtm`
 * Factory Bot Trait (single line) - `fbt`
 * HTML Comment - `comment`
+* HTML Popover Action - `poa`
 * HTML Popover Content - `poc`
 * HTML Popover Target - `pot`
 * Hanami Action - `ha`
 * Hanami Pragma (auto register) - `hpa`
 * Hanami Route - `hr`
+* IRB Command - `irbc`
+* IRB Helper - `irbh`
 * JavaScript Catch - `catch`
 * JavaScript Console Count - `ccount`
 * JavaScript Console Dir - `cdir`
@@ -300,10 +259,6 @@ the trigger to activate the snippet.
 * Ruby Delegate - `dele`
 * Ruby Delegate (class) - `delc`
 * Ruby Delegate (simple) - `dels`
-* Ruby Dry Container - Extend - `dce`
-* Ruby Dry Container - Fetch - `dcf`
-* Ruby Dry Container - Register (multi-line) - `dcrm`
-* Ruby Dry Container - Register (single line) - `dcr`
 * Ruby Dry Monads (include) - `dmi`
 * Ruby Dry Schema (multi-line) - `dsm`
 * Ruby Dry Schema (optional) - `dso`
@@ -397,10 +352,6 @@ the trigger to activate the snippet.
 * Ruby With Object (single line) - `with`
 * Ruby With Object (with index) - `withi`
 * Rust Function - `fn`
-* SCSS Image URL (Rails Asset Path) - `imgu`
-* SCSS Include - `in`
-* SCSS Mixin - `mix`
-* SCSS Variable (define) - `vars`
 * Shell Array - `array`
 * Shell Array (delete) - `arrayd`
 * Shell Array (index) - `arrayi`

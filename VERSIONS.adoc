@@ -1,5 +1,17 @@
 = Versions
 
+== 23.0.0 (2024-06-01)
+
+* 🟢 Added HTML popover target action snippet - Brooke Kuhlmann
+* 🟢 Added IRB code snippets for commands and helpers - Brooke Kuhlmann
+* 🔼 Updated Bash snippets to use single prefix - Brooke Kuhlmann
+* 🔼 Updated HTML popover content snippet to default to auto - Brooke Kuhlmann
+* 🔼 Updated citation URLs - Brooke Kuhlmann
+* 🔼 Updated to Ruby 3.3.2 - Brooke Kuhlmann
+* ⛔️ Removed Elm snippets - Brooke Kuhlmann
+* ⛔️ Removed Ruby Dry Container snippets - Brooke Kuhlmann
+* ⛔️ Removed SCSS snippets - Brooke Kuhlmann
+
 == 22.3.0 (2024-05-02)
 
 * ✅ Fixed HTML comment snippet scope - Brooke Kuhlmann

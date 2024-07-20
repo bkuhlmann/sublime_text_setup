@@ -28,6 +28,7 @@
 		"JSCS-Formatter",
 		"Local History",
 		"LSP",
+		"LSP-vale-ls",
 		"MoveTab",
 		"Package Control",
 		"PackageResourceViewer",

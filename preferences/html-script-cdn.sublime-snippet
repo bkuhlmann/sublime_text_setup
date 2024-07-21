@@ -1,0 +1,15 @@
+<snippet>
+  <content>
+<![CDATA[
+<script src="${1:https://unpkg.com/}"
+        integrity="$2"
+        crossorigin="anonymous"$3>
+</script>
+]]>
+  </content>
+  <tabTrigger>jsc</tabTrigger>
+  <description>HTML JavaScript CDN</description>
+  <scope>text.html</scope>
+</snippet>
+
+

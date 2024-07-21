@@ -1,0 +1,22 @@
+<snippet>
+  <content>
+<![CDATA[
+<script type="importmap">
+  {
+    "imports": {
+      "$1": "$2"
+    }
+  }
+</script>
+
+<script type="module">
+  import * as $3 from "$1";
+</script>
+]]>
+  </content>
+  <tabTrigger>jsi</tabTrigger>
+  <description>HTML JavaScript ImportMap</description>
+  <scope>text.html</scope>
+</snippet>
+
+

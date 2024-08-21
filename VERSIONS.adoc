@@ -1,5 +1,12 @@
 = Versions
 
+== 23.2.0 (2024-08-20)
+
+* 🟢 Added HTML script snippets - Brooke Kuhlmann
+* 🟢 Added README Developer Certificate of Origin documentation - Brooke Kuhlmann
+* 🟢 Added Vale integration - Brooke Kuhlmann
+* 🔼 Updated to Ruby 3.3.4 - Brooke Kuhlmann
+
 == 23.1.0 (2024-07-08)
 
 * 🔼 Updated to Caliber 0.58.0 - Brooke Kuhlmann

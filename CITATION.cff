@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: Please use the following metadata when citing this project in your work.
 title: Sublime Text Setup
 abstract: Shell scripts for managing settings, key bindings, extensions, code snippets, etc.
-version: 23.1.0
+version: 23.2.0
 license: Hippocratic-2.1
-date-released: 2024-07-08
+date-released: 2024-08-20
 authors:
   - family-names: Kuhlmann
     given-names: Brooke

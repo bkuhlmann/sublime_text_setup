@@ -108,6 +108,8 @@ the trigger to activate the snippet.
 * Factory Bot Trait (multi-line) - `fbtm`
 * Factory Bot Trait (single line) - `fbt`
 * HTML Comment - `comment`
+* HTML JavaScript CDN - `jsc`
+* HTML JavaScript ImportMap - `jsi`
 * HTML Popover Action - `poa`
 * HTML Popover Content - `poc`
 * HTML Popover Target - `pot`

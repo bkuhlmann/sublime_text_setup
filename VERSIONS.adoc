@@ -1,5 +1,9 @@
 = Versions
 
+== 23.2.1 (2024-09-15)
+
+* 🔼 Updated to Ruby 3.3.5 - Brooke Kuhlmann
+
 == 23.2.0 (2024-08-20)
 
 * 🟢 Added HTML script snippets - Brooke Kuhlmann

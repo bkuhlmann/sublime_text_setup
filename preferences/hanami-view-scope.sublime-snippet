@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+<![CDATA[
+# The ${1/(\w+)/\L$1/} specific behavior for partials.
+class $1 < ${2:Hanami}::View::Scope
+  $3
+end
+]]>
+  </content>
+  <tabTrigger>hvs</tabTrigger>
+  <description>Hanami View Scope</description>
+  <scope>source.ruby</scope>
+</snippet>

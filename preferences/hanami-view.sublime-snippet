@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+<![CDATA[
+# The ${1/(\w+)/\L$1/} view.
+class $1 < ${2:Hanami}::View
+  $3
+end
+]]>
+  </content>
+  <tabTrigger>hv</tabTrigger>
+  <description>Hanami View</description>
+  <scope>source.ruby</scope>
+</snippet>

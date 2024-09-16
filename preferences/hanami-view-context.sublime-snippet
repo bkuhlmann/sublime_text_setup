@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+<![CDATA[
+# The ${1:base} view context.
+class Context < ${2:Hanami}::View::Context
+  $3
+end
+]]>
+  </content>
+  <tabTrigger>hvc</tabTrigger>
+  <description>Hanami View Context</description>
+  <scope>source.ruby</scope>
+</snippet>

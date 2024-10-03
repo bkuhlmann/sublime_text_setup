@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+<![CDATA[
+# The ${1:application} database base struct.
+class Struct < ${2:Hanami}::DB::Struct
+  $3
+end
+]]>
+  </content>
+  <tabTrigger>hds</tabTrigger>
+  <description>Hanami Database Struct</description>
+  <scope>source.ruby</scope>
+</snippet>

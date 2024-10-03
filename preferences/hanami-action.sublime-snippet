@@ -1,8 +1,8 @@
 <snippet>
   <content>
 <![CDATA[
-# Processes ${1/(\w+)/\L$1/} action.
-class $1 < ${2:Slice}::Action
+# The ${1/(\w+)/\L$1/} action.
+class $1 < ${2:Hanami}::Action
   def handle request, response
     $3
   end

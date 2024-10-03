@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+<![CDATA[
+# The ${1:application} database base repository.
+class Repository < ${2:Hanami}::DB::${3:Repository}
+  $4
+end
+]]>
+  </content>
+  <tabTrigger>hdr</tabTrigger>
+  <description>Hanami Database Repository</description>
+  <scope>source.ruby</scope>
+</snippet>

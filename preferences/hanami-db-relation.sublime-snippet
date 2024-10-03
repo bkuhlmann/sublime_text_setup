@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+<![CDATA[
+# The ${1:application} database base relation.
+class Relation < ${2:Hanami}::DB::Relation
+  $3
+end
+]]>
+  </content>
+  <tabTrigger>hda</tabTrigger>
+  <description>Hanami Database Relation</description>
+  <scope>source.ruby</scope>
+</snippet>

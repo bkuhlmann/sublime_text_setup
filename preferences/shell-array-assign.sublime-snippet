@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[mapfile -t ${1:variable} < <(${2:file_or_function})]]></content>
+  <tabTrigger>arraya</tabTrigger>
+  <description>Shell Array (assign)</description>
+  <scope>source.shell</scope>
+</snippet>

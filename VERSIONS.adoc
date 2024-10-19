@@ -1,5 +1,12 @@
 = Versions
 
+== 23.3.0 (2024-10-19)
+
+* ✅ Fixed Hanami action snippet to use Hanami base class - Brooke Kuhlmann
+* 🟢 Added Bash array assign alias - Brooke Kuhlmann
+* 🟢 Added Hanami DB snippets - Brooke Kuhlmann
+* 🟢 Added Hanami view snippets - Brooke Kuhlmann
+
 == 23.2.1 (2024-09-15)
 
 * 🔼 Updated to Ruby 3.3.5 - Brooke Kuhlmann

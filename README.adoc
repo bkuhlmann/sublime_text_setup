@@ -32,7 +32,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 23.2.0
+git checkout 23.3.0
 ----
 
 == Usage
@@ -114,8 +114,15 @@ the trigger to activate the snippet.
 * HTML Popover Content - `poc`
 * HTML Popover Target - `pot`
 * Hanami Action - `ha`
+* Hanami Database Relation - `hda`
+* Hanami Database Repository - `hdr`
+* Hanami Database Struct - `hds`
 * Hanami Pragma (auto register) - `hpa`
 * Hanami Route - `hr`
+* Hanami View - `hv`
+* Hanami View Context - `hvc`
+* Hanami View Part - `hvp`
+* Hanami View Scope - `hvs`
 * IRB Command - `irbc`
 * IRB Helper - `irbh`
 * JavaScript Catch - `catch`
@@ -355,6 +362,7 @@ the trigger to activate the snippet.
 * Ruby With Object (with index) - `withi`
 * Rust Function - `fn`
 * Shell Array - `array`
+* Shell Array (assign) - `arraya`
 * Shell Array (delete) - `arrayd`
 * Shell Array (index) - `arrayi`
 * Shell Array (length) - `arrayl`

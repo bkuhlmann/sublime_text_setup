@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[include Initable[${1:%i}[$2]]]]></content>
+  <tabTrigger>ii</tabTrigger>
+  <description>Ruby Initable</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[binding.${1:break}]]></content>
+  <content><![CDATA[binding.${1:break}${2: pre: "info"}]]></content>
   <tabTrigger>bp</tabTrigger>
   <description>Ruby Breakpoint</description>
   <scope>source.ruby, source.rails</scope>

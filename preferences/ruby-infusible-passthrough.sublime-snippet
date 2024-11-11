@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+**
+  super(**)
+]]>
+  </content>
+  <tabTrigger>ip</tabTrigger>
+  <description>Ruby Infusible (passthrough)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

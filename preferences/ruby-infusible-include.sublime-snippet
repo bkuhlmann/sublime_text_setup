@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[include $1${2:Import}[$3]]]></content>
-  <tabTrigger>ii</tabTrigger>
-  <description>Ruby Infusible (include)</description>
-  <scope>source.ruby, source.rails</scope>
-</snippet>

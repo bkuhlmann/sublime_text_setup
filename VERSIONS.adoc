@@ -1,5 +1,14 @@
 = Versions
 
+== 24.0.0 (2024-12-27)
+
+* 🟢 Added Ruby Initable snippets - Brooke Kuhlmann
+* 🔼 Updated Ruby Infusible snippets to use new triggers - Brooke Kuhlmann
+* 🔼 Updated Ruby breakpoint snippets to include info - Brooke Kuhlmann
+* 🔼 Updated to Caliber 0.68.0 - Brooke Kuhlmann
+* 🔼 Updated to Git Lint 9.0.0 - Brooke Kuhlmann
+* 🔼 Updated to Ruby 3.4.0 - Brooke Kuhlmann
+
 == 23.4.0 (2024-11-09)
 
 * 🔼 Updated to Caliber 0.64.0 - Brooke Kuhlmann

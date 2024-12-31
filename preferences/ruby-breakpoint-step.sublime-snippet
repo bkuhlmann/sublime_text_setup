@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[-> result { binding.${1:break}${2: pre: "info"}; result }]]></content>
+  <content><![CDATA[-> result { binding.${1:break}${2: pre: "info"}; result },]]></content>
   <tabTrigger>bps</tabTrigger>
   <description>Ruby Breakpoint Step</description>
   <scope>source.ruby, source.rails</scope>

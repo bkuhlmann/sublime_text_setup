@@ -4,7 +4,7 @@
 #! /usr/bin/env ruby
 # frozen_string_literal: true
 
-# Save as `snippet`, then `chmod 755 snippet`, and run as `./snippet`.
+# Save as `demo`, then `chmod 755 demo`, and run as `./demo`.
 
 require "bundler/inline"
 

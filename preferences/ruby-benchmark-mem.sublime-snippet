@@ -1,8 +1,6 @@
 <snippet>
   <content>
 <![CDATA[
-puts "\n#{RUBY_DESCRIPTION}\n\n"
-
 Benchmark.mem do |benchmark|
   benchmark.report "${2:Old}" do
     $3

@@ -1,8 +1,6 @@
 <snippet>
   <content>
 <![CDATA[
-puts "\n#{RUBY_DESCRIPTION}\n\n"
-
 Benchmark.ips do |benchmark|
   benchmark.config time: ${1:5}, warmup: ${2:2}
 

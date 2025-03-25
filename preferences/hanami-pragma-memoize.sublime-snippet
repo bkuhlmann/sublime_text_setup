@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[# memoize: ${1:true}]]>
+  </content>
+  <tabTrigger>hpm</tabTrigger>
+  <description>Hanami Pragma (memoize)</description>
+  <scope>source.ruby</scope>
+</snippet>

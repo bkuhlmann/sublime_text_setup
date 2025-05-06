@@ -1,6 +1,8 @@
 <snippet>
   <content>
 <![CDATA[
+require "containable"
+
 module ${1:Container}
   extend Containable
 

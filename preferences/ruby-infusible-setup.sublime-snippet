@@ -1,5 +1,11 @@
 <snippet>
-  <content><![CDATA[${1:Dependencies} = Infusible[${2:Container}]]]></content>
+  <content>
+<![CDATA[
+require "infusible"
+
+${1:Dependencies} = Infusible[${2:Container}]
+]]>
+  </content>
   <tabTrigger>is</tabTrigger>
   <description>Ruby Infusible (setup)</description>
   <scope>source.ruby, source.rails</scope>

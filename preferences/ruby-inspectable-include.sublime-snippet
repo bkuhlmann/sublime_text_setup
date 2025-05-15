@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[include Inspectable[$2]]]></content>
+  <tabTrigger>insi</tabTrigger>
+  <description>Ruby Inspectable (include)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

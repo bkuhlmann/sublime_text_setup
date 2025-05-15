@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[require "inspectable"]]></content>
+  <tabTrigger>insr</tabTrigger>
+  <description>Ruby Inspectable (require)</description>
+  <scope>source.ruby, source.rails</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[Factory[:$1]]]>
+  </content>
+  <tabTrigger>hfc</tabTrigger>
+  <description>Hanami Factory (create)</description>
+  <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+factory.trait :$1 do |trait|
+  trait.$2
+end
+]]>
+  </content>
+  <tabTrigger>hft</tabTrigger>
+  <description>Hanami Factory (trait)</description>
+  <scope>source.ruby</scope>
+</snippet>

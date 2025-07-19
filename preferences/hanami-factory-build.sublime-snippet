@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[Factory.structs[:$1]]]>
+  </content>
+  <tabTrigger>hfb</tabTrigger>
+  <description>Hanami Factory (build)</description>
+  <scope>source.ruby</scope>
+</snippet>

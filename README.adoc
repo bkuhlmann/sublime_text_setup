@@ -32,7 +32,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 24.4.0
+git checkout 24.5.0
 ----
 
 == Usage
@@ -117,6 +117,9 @@ the trigger to activate the snippet.
 * Hanami Database Relation - `hda`
 * Hanami Database Repository - `hdr`
 * Hanami Database Struct - `hds`
+* Hanami Factory (build) - `hfb`
+* Hanami Factory (create) - `hfc`
+* Hanami Factory (trait) - `hft`
 * Hanami Pragma (auto register) - `hpa`
 * Hanami Pragma (memoize) - `hpm`
 * Hanami Route - `hr`

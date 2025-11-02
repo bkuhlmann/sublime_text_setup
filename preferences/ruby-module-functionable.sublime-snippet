@@ -1,0 +1,16 @@
+<snippet>
+  <content>
+<![CDATA[
+require "functionable"
+
+module $1
+  extend Functionable
+
+  $2
+end
+]]>
+  </content>
+  <tabTrigger>modf</tabTrigger>
+  <description>Ruby Module (functionable)</description>
+  <scope>source.ruby</scope>
+</snippet>

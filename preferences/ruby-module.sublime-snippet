@@ -1,7 +1,7 @@
 <snippet>
   <content>
 <![CDATA[
-module ${1:Name}
+module $1
   $2
 end
 ]]>

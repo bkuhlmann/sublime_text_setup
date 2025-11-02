@@ -1,14 +1,14 @@
 <snippet>
   <content>
 <![CDATA[
-module ${1:Name}
+module $1
   module_function
 
   $2
 end
 ]]>
   </content>
-  <tabTrigger>modf</tabTrigger>
-  <description>Ruby Module (function)</description>
+  <tabTrigger>modm</tabTrigger>
+  <description>Ruby Module (module function)</description>
   <scope>source.ruby</scope>
 </snippet>

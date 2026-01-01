@@ -32,7 +32,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 24.5.0
+git checkout 25.0.0
 ----
 
 == Usage
@@ -272,6 +272,7 @@ the trigger to activate the snippet.
 * Ruby Delegate - `dele`
 * Ruby Delegate (class) - `delc`
 * Ruby Delegate (simple) - `dels`
+* Ruby Dry Monads (extend) - `dme`
 * Ruby Dry Monads (include) - `dmi`
 * Ruby Dry Schema (multi-line) - `dsm`
 * Ruby Dry Schema (optional) - `dso`
@@ -329,8 +330,9 @@ the trigger to activate the snippet.
 * Ruby Module - `mod`
 * Ruby Module (builder) - `modb`
 * Ruby Module (extended) - `mode`
-* Ruby Module (function) - `modf`
+* Ruby Module (functionable) - `modf`
 * Ruby Module (included) - `modi`
+* Ruby Module (module function) - `modm`
 * Ruby Module (prepended) - `modp`
 * Ruby Module (self) - `mods`
 * Ruby Module (single line) - `ms`

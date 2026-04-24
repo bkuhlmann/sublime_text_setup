@@ -7,7 +7,7 @@ class $1 < ${2:Hanami}::View::Part
 end
 ]]>
   </content>
-  <tabTrigger>hvp</tabTrigger>
-  <description>Hanami View Part</description>
+  <tabTrigger>hcvp</tabTrigger>
+  <description>Hanami Class (part)</description>
   <scope>source.ruby</scope>
 </snippet>

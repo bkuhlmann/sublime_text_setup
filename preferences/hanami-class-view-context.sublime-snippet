@@ -7,7 +7,7 @@ class Context < ${2:Hanami}::View::Context
 end
 ]]>
   </content>
-  <tabTrigger>hvc</tabTrigger>
-  <description>Hanami View Context</description>
+  <tabTrigger>hcvc</tabTrigger>
+  <description>Hanami Class (view context)</description>
   <scope>source.ruby</scope>
 </snippet>

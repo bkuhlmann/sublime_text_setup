@@ -2,12 +2,12 @@
   <content>
 <![CDATA[
 # The ${1:application} database base struct.
-class Struct < ${2:Hanami}::DB::Struct
-  $3
+class $2 < ${3:Hanami}::DB::Struct
+  $4
 end
 ]]>
   </content>
-  <tabTrigger>hds</tabTrigger>
-  <description>Hanami Database Struct</description>
+  <tabTrigger>hcs</tabTrigger>
+  <description>Hanami Class (struct)</description>
   <scope>source.ruby</scope>
 </snippet>

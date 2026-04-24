@@ -9,7 +9,7 @@ class $1 < ${2:Hanami}::Action
 end
 ]]>
   </content>
-  <tabTrigger>ha</tabTrigger>
-  <description>Hanami Action</description>
+  <tabTrigger>hca</tabTrigger>
+  <description>Hanami Class (action)</description>
   <scope>source.ruby</scope>
 </snippet>

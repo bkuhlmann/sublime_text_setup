@@ -7,7 +7,7 @@ class $1 < ${2:Hanami}::View::Scope
 end
 ]]>
   </content>
-  <tabTrigger>hvs</tabTrigger>
-  <description>Hanami View Scope</description>
+  <tabTrigger>hcvs</tabTrigger>
+  <description>Hanami Class (view scope)</description>
   <scope>source.ruby</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[# simplecov:enable]]></content>
+  <tabTrigger>cove</tabTrigger>
+  <description>SimpleCov (enable)</description>
+  <scope>source.ruby</scope>
+</snippet>

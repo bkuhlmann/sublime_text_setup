@@ -32,7 +32,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/sublime_text_setup.git
 cd sublime_text_setup
-git checkout 25.2.0
+git checkout 26.0.0
 ----
 
 == Usage
@@ -108,25 +108,27 @@ the trigger to activate the snippet.
 * Factory Bot Trait (multi-line) - `fbtm`
 * Factory Bot Trait (single line) - `fbt`
 * HTML Comment - `comment`
+* HTML Demo Template - `demo`
 * HTML JavaScript CDN - `jsc`
 * HTML JavaScript ImportMap - `jsi`
 * HTML Popover Action - `poa`
 * HTML Popover Content - `poc`
 * HTML Popover Target - `pot`
-* Hanami Action - `ha`
-* Hanami Database Relation - `hda`
-* Hanami Database Repository - `hdr`
-* Hanami Database Struct - `hds`
+* Hanami Class (action) - `hca`
+* Hanami Class (part) - `hcvp`
+* Hanami Class (relation) - `hcl`
+* Hanami Class (repository) - `hcr`
+* Hanami Class (struct) - `hcs`
+* Hanami Class (view context) - `hcvc`
+* Hanami Class (view scope) - `hcvs`
+* Hanami Class (view) - `hcv`
+* Hanami Dependency (repository) - `hdr`
 * Hanami Factory (build) - `hfb`
 * Hanami Factory (create) - `hfc`
 * Hanami Factory (trait) - `hft`
 * Hanami Pragma (auto register) - `hpa`
 * Hanami Pragma (memoize) - `hpm`
 * Hanami Route - `hr`
-* Hanami View - `hv`
-* Hanami View Context - `hvc`
-* Hanami View Part - `hvp`
-* Hanami View Scope - `hvs`
 * IRB Command - `irbc`
 * IRB Helper - `irbh`
 * JavaScript Catch - `catch`
@@ -388,7 +390,8 @@ the trigger to activate the snippet.
 * Shell Variable Default - `vard`
 * Shell While - `while`
 * ShellCheck Disable - `scd`
-* SimpleCov Disable - `covd`
+* SimpleCov (disable) - `covd`
+* SimpleCov (enable) - `cove`
 
 === Keyboard Shortcuts
 

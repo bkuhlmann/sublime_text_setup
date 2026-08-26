@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[# rubocop:disable $1]]></content>
+  <content><![CDATA[# rubocop:disable-next $1]]></content>
   <tabTrigger>copd</tabTrigger>
   <description>Rubocop (disable)</description>
   <scope>source.ruby</scope>

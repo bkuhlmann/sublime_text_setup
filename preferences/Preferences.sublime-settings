@@ -66,4 +66,5 @@
 	"word_wrap": true,
 	"wrap_width": 101,
 	"index_files": true,
+	"file_icon_theme": "A File Icon.sublime-file-icons",
 }
